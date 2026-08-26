@@ -40,8 +40,8 @@
     "owner": "Sheryl",
     "status": "open",
     "createdAt": "2026-08-26T10:08:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1787746521.687399",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 5,
@@ -51,8 +51,8 @@
     "owner": "Sheryl",
     "status": "open",
     "createdAt": "2026-08-26T10:08:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1787746521.687399",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 6,
@@ -62,8 +62,8 @@
     "owner": "Sheryl",
     "status": "open",
     "createdAt": "2026-08-26T10:08:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1787746521.687399",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 7,
@@ -73,8 +73,8 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-08-26T10:08:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1787746521.687399",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 8,
@@ -84,7 +84,7 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-08-26T10:08:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1787746521.687399",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]
