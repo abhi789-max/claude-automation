@@ -1,1 +1,16 @@
-{}
+{
+  "2026-08-26": [
+    {
+      "meetingTitle": "Exploratory Call :: Carousell <> Anri",
+      "type": "Candidate interview",
+      "emailThreadId": "1a03d19f5e4f1bb8",
+      "discussionSummary": "Recruiter screen with Anri \"Andy\" Digholm for the Director, Common Technology Foundation role (group-wide platform/infra/data, reports to CTO). Abhishek walked through Carousell's structure, the role's charter, and must/should-haves; Andy (currently leading a ~30-engineer platform/infra org at Mercari) mapped his search-infra and platform experience against it, was upfront that his data-platform experience is adjacent rather than owned, discussed motivation (blocked VP-layer ceiling at Mercari, family pull to be closer to Thailand), logistics (pet relocation, ~30-45 day notice), and confirmed comp banding works. Video round agreed for Fri Aug 28, 1pm JST.",
+      "actionItems": [
+        "Abhishek: share screening notes with the hiring manager and get his read on Andy",
+        "Abhishek: send video-round interview invite for Friday Aug 28, 1pm JST",
+        "Abhishek: exchange WhatsApp contact with candidate"
+      ],
+      "conversationHighlight": "Candidate volunteered a boundary on his own experience: his hands-on ownership covers search ingestion (CDC/Kafka/Elasticsearch) but not the broader data-lake/BI platform, which he flagged as \"not as concrete\" — self-aware honesty rather than overselling."
+    }
+  ]
+}
