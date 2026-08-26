@@ -5,7 +5,7 @@
     "emailThreadId": "1a03d19f5e4f1bb8",
     "description": "Share screening notes with the hiring manager and get his read on Andy (Anri Digholm)",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-26T09:14:35Z",
     "nudgeThreadTs": "1787735711.212519",
     "nudgeChannelId": "D026A8WF8BY"
@@ -16,7 +16,7 @@
     "emailThreadId": "1a03d19f5e4f1bb8",
     "description": "Send video-round interview invite to Anri Digholm for Friday Aug 28, 1pm JST",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-26T09:14:35Z",
     "nudgeThreadTs": "1787735711.212519",
     "nudgeChannelId": "D026A8WF8BY"
@@ -31,5 +31,60 @@
     "createdAt": "2026-08-26T09:14:35Z",
     "nudgeThreadTs": "1787735711.212519",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 4,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a03d67caef6f814",
+    "description": "Pin down the SPM contract timeline (started July, ~6 months) and confirm the close-by date (~October)",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-08-26T10:08:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 5,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a03d67caef6f814",
+    "description": "Push to get the second senior data engineer candidate interviewed ASAP (target Friday) for comparison",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-08-26T10:08:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 6,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a03d67caef6f814",
+    "description": "Check with Chung for reference/feedback on the ex-Carousell backend engineer now interested in the senior backend role",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-08-26T10:08:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 7,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a03d67caef6f814",
+    "description": "Confirm the SRE JD/approval with Zakir before he's back from being away this week",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-08-26T10:08:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 8,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a03d67caef6f814",
+    "description": "Share and formally document the six-step Carousell hiring process with Sheryl and the wider team",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-08-26T10:08:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

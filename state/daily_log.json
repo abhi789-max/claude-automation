@@ -11,6 +11,28 @@
         "Abhishek: exchange WhatsApp contact with candidate"
       ],
       "conversationHighlight": "Candidate volunteered a boundary on his own experience: his hands-on ownership covers search ingestion (CDC/Kafka/Elasticsearch) but not the broader data-lake/BI platform, which he flagged as \"not as concrete\" — self-aware honesty rather than overselling."
+    },
+    {
+      "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+      "type": "General internal meeting",
+      "emailThreadId": "1a03d5a166281d11",
+      "discussionSummary": "Monthly Carousell People Team sync. Sarah Ho covered Goal 1 (AI transformation influence): FBL program's first cohort starts Sept 14, team considering pulling the recruiting funnel earlier via an internship gate for 2027 since fresh grads keep failing the business-case round on commercial instinct; AI-enablement productivity dashboard and Builder OS rollout ongoing. Jeanne Ding covered Goal 2 (onboarding/culture): onboarding redesign launches in September; Carouversary + AI Summit held successfully with Boshi/Sally/Builder OS launches; Manager Playbook in rough beta; comp & performance rethink for AI-native talent underway including a possible continuous performance-management process; competency framework still WIP. Sarah covered Goal 3 (People team's own automation): \"Mama\" Slack HR chatbot in final pilot prep for BPs; LOA issuance now automated end-to-end bar one manual step; Time-of-India automation in progress; team AI-impact metrics up month-over-month (38→42 initiatives, 72→80 hours saved). Second half was a team-bonding session (AI backgrounds, guessing games) with no business content.",
+      "actionItems": [],
+      "conversationHighlight": "None of particular note — an update/bonding session rather than a decision-making meeting."
+    },
+    {
+      "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+      "type": "General internal meeting",
+      "emailThreadId": "1a03d67caef6f814",
+      "discussionSummary": "Nikhil Datt ran a recruiting pipeline review with recruiter Sheryl Oon (Abhishek Gurani joined partway) across ~6 open roles. Prompted by quality gaps on two recent hires, Nikhil mandated that a recruiter-hiring-manager intake call AND a separate all-interviewer loop-briefing are now required for every hire with no exceptions, notes captured via Tactiq and circulated, and that he be looped in earlier when something stalls. Role-by-role: SPM sourcing continues but needs a firm contract-timeline/close-by date; product designer JD pending from Nicholas; SRE pending Abhishek's confirmation with Zakir while he's away; senior backend has an ex-Carousell candidate needing a reference check with Chung; senior data engineer front-runner has a competing offer, so Nikhil pushed to fast-track a second candidate's interview (target Friday) for comparison. Abhishek confirmed Carousell's six-step hiring process is documented and followed, and agreed to formalize/share it more broadly.",
+      "actionItems": [
+        "Sheryl: pin down the SPM contract timeline (started July, ~6 months) and confirm the close-by date (~October)",
+        "Sheryl: push to get the second senior data engineer candidate interviewed ASAP (target Friday) for comparison",
+        "Sheryl: check with Chung for reference/feedback on the ex-Carousell backend engineer now interested in the senior backend role",
+        "Abhishek: confirm the SRE JD/approval with Zakir before he's back from being away this week",
+        "Abhishek: share and formally document the six-step Carousell hiring process with Sheryl and the wider team"
+      ],
+      "conversationHighlight": "Nikhil explicitly tied the new mandatory intake+briefing process to a cautionary tale — a prior role left open for 9 months without process clarity — and told Sheryl not to \"wait till it explodes\" before looping him in."
     }
   ]
 }

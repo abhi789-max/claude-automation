@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "threadTs": "1787739029.029359",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+    "type": "General internal meeting",
+    "meetingId": "A95opPtX1ZTh6wRuLtYe",
+    "emailThreadId": "1a03d5a166281d11",
+    "lastHandledTs": "1787739029.029359"
+  },
+  {
+    "threadTs": "1787739045.481649",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "type": "General internal meeting",
+    "meetingId": "iMvpkMJdJZGqt2Ea9VYc",
+    "emailThreadId": "1a03d67caef6f814",
+    "lastHandledTs": "1787739045.481649"
+  }
+]
