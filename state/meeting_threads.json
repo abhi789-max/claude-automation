@@ -16,5 +16,23 @@
     "meetingId": "iMvpkMJdJZGqt2Ea9VYc",
     "emailThreadId": "1a03d67caef6f814",
     "lastHandledTs": "1787739045.481649"
+  },
+  {
+    "threadTs": "1787818174.871169",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Quick Sync: Equip",
+    "type": "General internal meeting",
+    "meetingId": "NHvAiStFW6YtM5hWHEqn",
+    "emailThreadId": "1a041e95ee06883a",
+    "lastHandledTs": "1787818174.871169"
+  },
+  {
+    "threadTs": "1787818182.408919",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Meeting Transcription",
+    "type": "Unclear",
+    "meetingId": "VQgn4L0vUAtCgYkG8dZE",
+    "emailThreadId": "1a0420dfe7a934f7",
+    "lastHandledTs": "1787818182.408919"
   }
 ]

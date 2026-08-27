@@ -10,15 +10,15 @@
         "Abhishek: send video-round interview invite for Friday Aug 28, 1pm JST",
         "Abhishek: exchange WhatsApp contact with candidate"
       ],
-      "conversationHighlight": "Candidate volunteered a boundary on his own experience: his hands-on ownership covers search ingestion (CDC/Kafka/Elasticsearch) but not the broader data-lake/BI platform, which he flagged as \"not as concrete\" \u2014 self-aware honesty rather than overselling."
+      "conversationHighlight": "Candidate volunteered a boundary on his own experience: his hands-on ownership covers search ingestion (CDC/Kafka/Elasticsearch) but not the broader data-lake/BI platform, which he flagged as \"not as concrete\" — self-aware honesty rather than overselling."
     },
     {
       "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
       "type": "General internal meeting",
       "emailThreadId": "1a03d5a166281d11",
-      "discussionSummary": "Monthly Carousell People Team sync. Sarah Ho covered Goal 1 (AI transformation influence): FBL program's first cohort starts Sept 14, team considering pulling the recruiting funnel earlier via an internship gate for 2027 since fresh grads keep failing the business-case round on commercial instinct; AI-enablement productivity dashboard and Builder OS rollout ongoing. Jeanne Ding covered Goal 2 (onboarding/culture): onboarding redesign launches in September; Carouversary + AI Summit held successfully with Boshi/Sally/Builder OS launches; Manager Playbook in rough beta; comp & performance rethink for AI-native talent underway including a possible continuous performance-management process; competency framework still WIP. Sarah covered Goal 3 (People team's own automation): \"Mama\" Slack HR chatbot in final pilot prep for BPs; LOA issuance now automated end-to-end bar one manual step; Time-of-India automation in progress; team AI-impact metrics up month-over-month (38\u219242 initiatives, 72\u219280 hours saved). Second half was a team-bonding session (AI backgrounds, guessing games) with no business content.",
+      "discussionSummary": "Monthly Carousell People Team sync. Sarah Ho covered Goal 1 (AI transformation influence): FBL program's first cohort starts Sept 14, team considering pulling the recruiting funnel earlier via an internship gate for 2027 since fresh grads keep failing the business-case round on commercial instinct; AI-enablement productivity dashboard and Builder OS rollout ongoing. Jeanne Ding covered Goal 2 (onboarding/culture): onboarding redesign launches in September; Carouversary + AI Summit held successfully with Boshi/Sally/Builder OS launches; Manager Playbook in rough beta; comp & performance rethink for AI-native talent underway including a possible continuous performance-management process; competency framework still WIP. Sarah covered Goal 3 (People team's own automation): \"Mama\" Slack HR chatbot in final pilot prep for BPs; LOA issuance now automated end-to-end bar one manual step; Time-of-India automation in progress; team AI-impact metrics up month-over-month (38→42 initiatives, 72→80 hours saved). Second half was a team-bonding session (AI backgrounds, guessing games) with no business content.",
       "actionItems": [],
-      "conversationHighlight": "None of particular note \u2014 an update/bonding session rather than a decision-making meeting."
+      "conversationHighlight": "None of particular note — an update/bonding session rather than a decision-making meeting."
     },
     {
       "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
@@ -32,7 +32,7 @@
         "Abhishek: confirm the SRE JD/approval with Zakir before he's back from being away this week",
         "Abhishek: share and formally document the six-step Carousell hiring process with Sheryl and the wider team"
       ],
-      "conversationHighlight": "Nikhil explicitly tied the new mandatory intake+briefing process to a cautionary tale \u2014 a prior role left open for 9 months without process clarity \u2014 and told Sheryl not to \"wait till it explodes\" before looping him in."
+      "conversationHighlight": "Nikhil explicitly tied the new mandatory intake+briefing process to a cautionary tale — a prior role left open for 9 months without process clarity — and told Sheryl not to \"wait till it explodes\" before looping him in."
     }
   ],
   "2024-09-10": [
@@ -40,12 +40,35 @@
       "meetingTitle": "Meeting Transcription",
       "type": "Candidate interview",
       "emailThreadId": "191da5ff8baa96b6",
-      "discussionSummary": "Competency screen of Sheryl Oon Hui Wen for a Technical Recruiter role at Muda (Carousell Group), reporting to Abhishek Gurani. Sheryl walked through 5 years of tech recruiting (small agency \u2192 Tribe Hiyat \u2192 Ambition RPO desk covering DevOps/data/cybersecurity/full-stack), described the full recruitment lifecycle through post-onboarding retention, and recalled a standout memory-driven placement (a Kotlin/Android engineering manager she re-sourced from a prior role years later). Abhishek probed her Boolean/keyword sourcing method and ran a live unprompted research exercise (role-played as a new DevOps hiring manager), which she handled reasonably well; direct technical questioning (WCF/WPF, CSS frameworks) surfaced foundational gaps she openly admitted rather than bluffed. No discussion of her motivation for leaving, compensation, or notice period occurred in this call. Abhishek closed positively, saying he'd correlate feedback against the requirement and follow up.",
+      "discussionSummary": "Competency screen of Sheryl Oon Hui Wen for a Technical Recruiter role at Muda (Carousell Group), reporting to Abhishek Gurani. Sheryl walked through 5 years of tech recruiting (small agency → Tribe Hiyat → Ambition RPO desk covering DevOps/data/cybersecurity/full-stack), described the full recruitment lifecycle through post-onboarding retention, and recalled a standout memory-driven placement (a Kotlin/Android engineering manager she re-sourced from a prior role years later). Abhishek probed her Boolean/keyword sourcing method and ran a live unprompted research exercise (role-played as a new DevOps hiring manager), which she handled reasonably well; direct technical questioning (WCF/WPF, CSS frameworks) surfaced foundational gaps she openly admitted rather than bluffed. No discussion of her motivation for leaving, compensation, or notice period occurred in this call. Abhishek closed positively, saying he'd correlate feedback against the requirement and follow up.",
       "actionItems": [
         "Abhishek: correlate interview feedback with the role requirement and pass it to Christine",
         "Abhishek: connect with Sheryl on LinkedIn and follow up with feedback/decision"
       ],
-      "conversationHighlight": "Sheryl volunteered gaps rather than guessing \u2014 twice admitting she couldn't recall technical concepts (WCF/WPF, a CSS framework name) and explaining she researches unfamiliar terms and asks candidates directly rather than bluffing."
+      "conversationHighlight": "Sheryl volunteered gaps rather than guessing — twice admitting she couldn't recall technical concepts (WCF/WPF, a CSS framework name) and explaining she researches unfamiliar terms and asks candidates directly rather than bluffing."
+    }
+  ],
+  "2026-08-27": [
+    {
+      "meetingTitle": "Quick Sync: Equip",
+      "type": "General internal meeting",
+      "emailThreadId": "1a041e95ee06883a",
+      "discussionSummary": "Weekly sync on migrating off HackerRank onto Equip. Jyoti has copied all 76 coding questions into Equip and is rechecking each one's compiler/test cases (8-10 per question) and renaming tests per Christine's suggestion; team agreed HackerRank dependency is now minimal (access lapses Sept 2). Chelsea is chasing the Equip vendor to close contract redlines (credit-carryover clause, data privacy agreement, vendor onboarding form) before signing -- no vendor response yet to a WhatsApp/email nudge. PO split confirmed (600/194/119 across cost centers). Group discussed tracking Equip credit usage going forward (account-manager training call post-signing, possibly automate a Slack usage/top-up alert) and surfaced a possible budget mismatch: Nikhil's 300-test approval assumed 2 questions/test, but some domains actually run 4-5. Chelsea and Jyoti will be Equip's co-super-admins (Jyoti primary, Chelsea secondary).",
+      "actionItems": [
+        "Chelsea: push the Equip vendor for contract sign-off (respond by 3pm cutoff; loop in AG at 3:30pm if silent)",
+        "Jyoti: finish rechecking all Equip test cases/compilers and rename tests per Christine's suggestion; confirm completion to Nikhil",
+        "Jyoti (with Chelsea): own Equip credit-usage tracking going forward -- account-manager training call post-signing, explore automating a Slack usage/top-up alert",
+        "Abhishek: inform the \"automate\" team once the Equip contract is fully signed and closed"
+      ],
+      "conversationHighlight": "Team surfaced a possible test-budget mismatch: Nikhil's 300-test approval assumed 2 questions per test, but some domains actually run 4-5 -- flagged as \"we'll figure it out when we reach there.\""
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Unclear",
+      "emailThreadId": "1a0420dfe7a934f7",
+      "discussionSummary": "Very short, heavily garbled call between Abhishek Gurani and Jyoti Mehta; legible fragments reference candidates, a data-warehouse/SQL test question, and other candidates being interviewed/rejected, but transcript quality was too poor to classify or summarize with confidence.",
+      "actionItems": [],
+      "conversationHighlight": ""
     }
   ]
 }

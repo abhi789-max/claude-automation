@@ -95,8 +95,8 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-08-26T17:09:40Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1787818228.222269",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 10,
@@ -106,7 +106,51 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-08-26T17:09:40Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1787818228.222269",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 11,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a041e95ee06883a",
+    "description": "Push the Equip vendor for contract sign-off (respond by 3pm cutoff today; loop in AG at 3:30pm if silent)",
+    "owner": "Chelsea",
+    "status": "open",
+    "createdAt": "2026-08-27T06:30:06Z",
+    "nudgeThreadTs": "1787818228.222269",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 12,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a041e95ee06883a",
+    "description": "Finish rechecking all Equip test cases/compilers and rename tests per Christine's suggestion; confirm completion to Nikhil",
+    "owner": "Jyoti",
+    "status": "open",
+    "createdAt": "2026-08-27T06:30:06Z",
+    "nudgeThreadTs": "1787818228.222269",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 13,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a041e95ee06883a",
+    "description": "Own Equip credit-usage tracking going forward -- get account manager training call post-signing, explore automating a Slack usage/top-up alert",
+    "owner": "Jyoti",
+    "status": "open",
+    "createdAt": "2026-08-27T06:30:06Z",
+    "nudgeThreadTs": "1787818228.222269",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 14,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a041e95ee06883a",
+    "description": "Inform the \"automate\" team once the Equip contract is fully signed and closed",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-08-27T06:30:06Z",
+    "nudgeThreadTs": "1787818228.222269",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]
