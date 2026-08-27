@@ -69,6 +69,17 @@
       "discussionSummary": "Very short, heavily garbled call between Abhishek Gurani and Jyoti Mehta; legible fragments reference candidates, a data-warehouse/SQL test question, and other candidates being interviewed/rejected, but transcript quality was too poor to classify or summarize with confidence.",
       "actionItems": [],
       "conversationHighlight": ""
+    },
+    {
+      "meetingTitle": "Exploratory Call :: Carousell <> Manesh",
+      "type": "Candidate interview",
+      "emailThreadId": "1a0424e0b8898b21",
+      "discussionSummary": "Recruiter screen with Manesh Chaturvedi for the same Director, Common Technology Foundation role as Anri Digholm. Abhishek walked through Carousell's structure and the role's charter (developer platform/IDP, infra/SRE, data engineering & governance); Manesh (25+ years, most recently 2.5 years self-building a solo AI/agentic dev-tooling startup, before that Bing/Microsoft, Target, Intuit, Yahoo, OLX) mapped named, quantified platform/infra wins onto all three pillars, showed strong personal alignment to the AI-agentic must-have via his own MCP-integrated tool, but stayed deliberately open-ended on timeline/availability and didn't surface recent people-management scope or data-governance depth. Next step: hiring-manager round to be scheduled early next week pending his CV.",
+      "actionItems": [
+        "Abhishek: share hiring-manager interview time slots with Manesh Chaturvedi for early next week",
+        "Abhishek: create Manesh Chaturvedi's ATS profile once his CV/experience write-up arrives"
+      ],
+      "conversationHighlight": "Candidate self-funded and personally built (14-16 hrs/day, solo) a semantic code-graph tool for 2.5 years that integrates with MCP to give AI copilots real code context — a passion project that speaks directly to the role's AI/agentic must-have, volunteered without prompting."
     }
   ]
 }

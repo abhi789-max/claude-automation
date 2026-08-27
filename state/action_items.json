@@ -152,5 +152,27 @@
     "createdAt": "2026-08-27T06:30:06Z",
     "nudgeThreadTs": "1787818228.222269",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 15,
+    "meetingTitle": "Exploratory Call :: Carousell <> Manesh",
+    "emailThreadId": "1a0424e0b8898b21",
+    "description": "Share hiring-manager interview time slots with Manesh Chaturvedi for early next week",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-08-27T09:11:53Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 16,
+    "meetingTitle": "Exploratory Call :: Carousell <> Manesh",
+    "emailThreadId": "1a0424e0b8898b21",
+    "description": "Create Manesh Chaturvedi's ATS profile once his CV/experience write-up arrives",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-08-27T09:11:53Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
