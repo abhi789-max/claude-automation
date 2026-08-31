@@ -81,5 +81,38 @@
       ],
       "conversationHighlight": "Candidate self-funded and personally built (14-16 hrs/day, solo) a semantic code-graph tool for 2.5 years that integrates with MCP to give AI copilots real code context — a passion project that speaks directly to the role's AI/agentic must-have, volunteered without prompting."
     }
+  ],
+  "2026-08-31": [
+    {
+      "meetingTitle": "Abhishek & Nik - weekly catchup",
+      "type": "General internal meeting",
+      "emailThreadId": "1a0561051f99f30a",
+      "discussionSummary": "Recurring weekly recruiting-pipeline catchup between Abhishek and Nikhil. Transcript audio quality was very poor (~1,900 characters, mostly unintelligible), so this readout is partial. Legible content: a status run-through of several open roles — a candidate based in Tokyo, another under recruiter-screen who hasn't responded, a question about opening inbound applications, a referral check, a data-engineering candidate in round 2, a role nearing closure/DRC stage, and target dates of \"4th September\" mentioned for two roles (referenced as \"se1\" and \"GRC\"). Logistically, Jannah will be on honeymoon Sept 28 – Oct 9, and Jyoti will cover her internship-program responsibilities during that window.",
+      "actionItems": [
+        "Jyoti: pick up internship-program coverage from Jannah during her Sept 28 – Oct 9 honeymoon leave"
+      ],
+      "conversationHighlight": "Transcript quality was too poor to confirm most role/candidate names with confidence — flagged for a manual listen if these decisions matter."
+    },
+    {
+      "meetingTitle": "Team Cadence :: Preparation",
+      "type": "General internal meeting",
+      "emailThreadId": "1a0567074a311882",
+      "discussionSummary": "Working session between Abhishek and Jyoti; transcript quality was very poor (~1,600 characters, mostly unintelligible). Legible fragments point to two threads: reviewing/QA-ing assessment test questions (a \"data analysis / data warehouse\" question, a \"most popular movies\" query example, and an instruction to check for spelling/grammar mistakes and unclear wording), and a discussion of AI-impact tracking — collecting AI-impact data across teams for leadership visibility, plus Team/Enterprise plan usage limits and per-month cost. No candidate was being assessed on this call.",
+      "actionItems": [],
+      "conversationHighlight": "None of particular note — transcript too degraded for a reliable readout."
+    },
+    {
+      "meetingTitle": "Quick Sync: Equip",
+      "type": "General internal meeting",
+      "emailThreadId": "1a056b08d0ec280c",
+      "discussionSummary": "Follow-up sync on the Equip/HackerRank migration. Jyoti (with Chelsea's help) is finishing adding the remaining test questions/screenshots to Equip and testing them, expects to be fully sorted by end of today. HackerRank dependency is now effectively zero — the only outstanding cohort (SE1 role) has already completed their HackerRank tests — and HackerRank access lapses in two days (~Sept 2). On the vendor contract: Terry (vendor) returned with two outstanding questions; Nikhil told Chelsea to push him firmly rather than \"slightly\" nudge, since Carousell is the buyer. A separate technical workaround on Equip's side is still pending — handled manually in the meantime — and Nikhil asked Chelsea to resolve it with Christine today. Legal's contract revisions were characterized as routine; Chelsea will push to close today or by tomorrow, ideally before Sept 2.",
+      "actionItems": [
+        "Jyoti: finish adding all remaining Equip test questions/screenshots and complete testing by end of day (with Chelsea's help)",
+        "Chelsea: respond to Terry's two outstanding contract questions and push him firmly for a fast turnaround",
+        "Chelsea: resolve the pending Equip-side technical workaround with Christine today",
+        "Chelsea: push to close the vendor contract (legal revisions) today or by tomorrow, before Sept 2"
+      ],
+      "conversationHighlight": "Nikhil's light-hearted \"do you need me to dance in front of Serena again\" offer of help was paired with a pointed directive to push the vendor harder rather than softly nudge, and a firm closing ask that nothing get missed."
+    }
   ]
 }

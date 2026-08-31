@@ -34,5 +34,32 @@
     "meetingId": "VQgn4L0vUAtCgYkG8dZE",
     "emailThreadId": "1a0420dfe7a934f7",
     "lastHandledTs": "1787818182.408919"
+  },
+  {
+    "threadTs": "1788163788.742139",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Abhishek & Nik - weekly catchup",
+    "type": "General internal meeting",
+    "meetingId": "4n6c3A9AsY3bEhoJSqtS",
+    "emailThreadId": "1a0561051f99f30a",
+    "lastHandledTs": "1788163788.742139"
+  },
+  {
+    "threadTs": "1788163795.595779",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Team Cadence :: Preparation",
+    "type": "General internal meeting",
+    "meetingId": "eZjKdeH0F4KdoiG5Cm83",
+    "emailThreadId": "1a0567074a311882",
+    "lastHandledTs": "1788163795.595779"
+  },
+  {
+    "threadTs": "1788163805.048249",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Quick Sync: Equip",
+    "type": "General internal meeting",
+    "meetingId": "S6R3HoQ7x1tiBmxQ1Mrf",
+    "emailThreadId": "1a056b08d0ec280c",
+    "lastHandledTs": "1788163805.048249"
   }
 ]

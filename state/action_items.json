@@ -174,5 +174,60 @@
     "createdAt": "2026-08-27T09:11:53Z",
     "nudgeThreadTs": "1787832746.467639",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 17,
+    "meetingTitle": "Abhishek & Nik - weekly catchup",
+    "emailThreadId": "1a0561051f99f30a",
+    "description": "Pick up internship-program coverage from Jannah during her Sept 28 \u2013 Oct 9 honeymoon leave",
+    "owner": "Jyoti",
+    "status": "open",
+    "createdAt": "2026-08-31T04:25:03Z",
+    "nudgeThreadTs": "1788163870.105819",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 18,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a056b08d0ec280c",
+    "description": "Finish adding all remaining Equip test questions/screenshots and complete testing by end of day (with Chelsea's help)",
+    "owner": "Jyoti",
+    "status": "open",
+    "createdAt": "2026-08-31T07:20:04Z",
+    "nudgeThreadTs": "1788163870.105819",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 19,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a056b08d0ec280c",
+    "description": "Respond to Terry's two outstanding contract questions and push him firmly for a fast turnaround",
+    "owner": "Chelsea",
+    "status": "open",
+    "createdAt": "2026-08-31T07:20:04Z",
+    "nudgeThreadTs": "1788163870.105819",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 20,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a056b08d0ec280c",
+    "description": "Resolve the pending Equip-side technical workaround with Christine today",
+    "owner": "Chelsea",
+    "status": "open",
+    "createdAt": "2026-08-31T07:20:04Z",
+    "nudgeThreadTs": "1788163870.105819",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 21,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a056b08d0ec280c",
+    "description": "Push to close the vendor contract (legal revisions) today or by tomorrow, before Sept 2",
+    "owner": "Chelsea",
+    "status": "open",
+    "createdAt": "2026-08-31T07:20:04Z",
+    "nudgeThreadTs": "1788163870.105819",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]
