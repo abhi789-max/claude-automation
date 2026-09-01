@@ -114,5 +114,18 @@
       ],
       "conversationHighlight": "Nikhil's light-hearted \"do you need me to dance in front of Serena again\" offer of help was paired with a pointed directive to push the vendor harder rather than softly nudge, and a firm closing ask that nothing get missed."
     }
+  ],
+  "2026-09-01": [
+    {
+      "meetingTitle": "Connect call : : Abhishek/Atharav",
+      "type": "Candidate interview",
+      "emailThreadId": "1a05bbb6ce406a31",
+      "discussionSummary": "Offer-negotiation/closing call between Abhishek Gurani and candidate Atharva Khot for the Risk, Compliance & Governance (GRC) Analyst role (2-person team, reports to Venkat who heads group-wide security). Atharva, currently an Assistant Manager doing multi-subsidiary compliance/performance assessments across industries at a consulting firm, explained he wants hands-on ownership in a product organization rather than advisory-only work with no accountability, and wants a 2-4 year commitment. Extended live comp negotiation: candidate asked for 18 LPA fixed minimum, Carousell's ceiling was ~16.28 LPA fixed + up to 2.71L bonus (~19-19.8 LPA total), provisionally landed at 17.5 LPA fixed pending Abhishek's internal sign-off. Notice period (90 days on paper) discussed as negotiable down to ~30-60 days via buyout, targeting a possible Sept 30 join. No technical GRC competency questions were asked -- purely a closing/logistics call.",
+      "actionItems": [
+        "Abhishek: get internal approval on the 17.5 LPA fixed comp figure and come back to Atharva Khot with final numbers",
+        "Abhishek: follow up with Atharva Khot via WhatsApp"
+      ],
+      "conversationHighlight": "Candidate drew a sharp, self-aware distinction between his current consulting work (\"recommendations and moving out\" with no metrics to quantify impact) and wanting real ownership -- explicitly framing Carousell's multi-entity group structure as an extension of what he already does, but with accountability this time."
+    }
   ]
 }

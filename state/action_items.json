@@ -229,5 +229,27 @@
     "createdAt": "2026-08-31T07:20:04Z",
     "nudgeThreadTs": "1788163870.105819",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 22,
+    "meetingTitle": "Connect call : : Abhishek/Atharav",
+    "emailThreadId": "1a05bbb6ce406a31",
+    "description": "Get internal approval on the 17.5 LPA fixed comp figure and come back to Atharva Khot with final numbers",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-01T08:12:15Z",
+    "nudgeThreadTs": "1788250381.163829",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 23,
+    "meetingTitle": "Connect call : : Abhishek/Atharav",
+    "emailThreadId": "1a05bbb6ce406a31",
+    "description": "Follow up with Atharva Khot via WhatsApp",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-01T08:12:15Z",
+    "nudgeThreadTs": "1788250381.163829",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]

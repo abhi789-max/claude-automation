@@ -28,5 +28,15 @@
     "meetingId": "Lvp6F41cR1yQkVzwfnTf",
     "emailThreadId": "1a0424e0b8898b21",
     "lastHandledTs": "1787821913.422889"
+  },
+  {
+    "threadTs": "1788250331.447209",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Atharva Khot",
+    "roleKey": "risk compliance governance analyst",
+    "roleLabel": "Risk, Compliance & Governance Analyst",
+    "meetingId": "9f1Bw3QtTpb7qrFyHSSM",
+    "emailThreadId": "1a05bbb6ce406a31",
+    "lastHandledTs": "1788250331.447209"
   }
 ]
