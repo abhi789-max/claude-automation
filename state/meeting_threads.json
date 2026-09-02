@@ -61,5 +61,14 @@
     "meetingId": "S6R3HoQ7x1tiBmxQ1Mrf",
     "emailThreadId": "1a056b08d0ec280c",
     "lastHandledTs": "1788163805.048249"
+  },
+  {
+    "threadTs": "1788336708.741589",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "type": "Unclear",
+    "meetingId": "bGzu4R6oWiQVlx2WvJoE",
+    "emailThreadId": "1a0603cfef5be437",
+    "lastHandledTs": "1788336708.741589"
   }
 ]
