@@ -136,6 +136,17 @@
       "discussionSummary": "Transcript capture failed for this recurring catchup slot \u2014 only 37 characters recorded, a single unrelated sentence about a Volvo SUV attributed to Abhishek Gurani. No recruiting or pipeline content present, so the meeting could not be classified or summarized.",
       "actionItems": [],
       "conversationHighlight": ""
+    },
+    {
+      "meetingTitle": "Exploratory Call :: Carousell <> Amit",
+      "type": "Candidate interview",
+      "emailThreadId": "1a061f470704188d",
+      "discussionSummary": "Recruiter/company pitch and exploratory screen with Amit Kesari (Bangalore) for the same Director, Common Technology Foundation role as Anri Digholm and Manesh Chaturvedi. Abhishek gave an extensive Carousell/role overview, then Amit (Founding Principal Engineer at Gray Orange, ~4.5 yrs; prior SAP Ariba) walked through building a B2B omni-channel fulfillment platform (~2,700 outlets, H&M contract, ~5B ingested messages/year) and a detailed MongoDB production-outage incident (root-caused to a 6-month-old schema regression, ~$1M SLA penalty with 40% recovered from the vendor). He was explicit he never had formal direct reports at Gray Orange, operating as an IC technical lead instead -- a gap against this role's \"manager of managers\" must-have. Call was cut short by Abhishek's next meeting before AI/agentic leadership, data governance, motivation, notice period, or comp could be probed. Next step: candidate to send CV; conversation notes to be passed to the CTO.",
+      "actionItems": [
+        "Abhishek: pass Amit Kesari's conversation notes to the CTO for review",
+        "Abhishek: get Amit Kesari's CV once he sends it, and set up the bi-directional hiring-manager screening call"
+      ],
+      "conversationHighlight": "Candidate's MongoDB outage story stood out for its technical precision -- tracing a 2-hour cascading failure to a 16MB document-size limit breached only after a JWT tenant-filter regression from six months earlier silently stopped scoping an aggregation, then using that root-cause proof to recover 40% of a ~$1M SLA penalty from the vendor."
     }
   ]
 }

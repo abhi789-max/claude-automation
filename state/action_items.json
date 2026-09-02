@@ -251,5 +251,27 @@
     "createdAt": "2026-09-01T08:12:15Z",
     "nudgeThreadTs": "1788250381.163829",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 24,
+    "meetingTitle": "Exploratory Call :: Carousell <> Amit",
+    "emailThreadId": "1a061f470704188d",
+    "description": "Pass Amit Kesari's conversation notes to the CTO for review",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-02T12:12:07Z",
+    "nudgeThreadTs": "1788351202.076709",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 25,
+    "meetingTitle": "Exploratory Call :: Carousell <> Amit",
+    "emailThreadId": "1a061f470704188d",
+    "description": "Get Amit Kesari's CV once he sends it, and set up the bi-directional hiring-manager screening call",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-02T12:12:07Z",
+    "nudgeThreadTs": "1788351202.076709",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]

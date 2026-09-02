@@ -38,5 +38,15 @@
     "meetingId": "9f1Bw3QtTpb7qrFyHSSM",
     "emailThreadId": "1a05bbb6ce406a31",
     "lastHandledTs": "1788250331.447209"
+  },
+  {
+    "threadTs": "1788351127.948579",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Amit Kesari",
+    "roleKey": "director common technology foundation",
+    "roleLabel": "Director, Common Technology Foundation",
+    "meetingId": "ht964thFXV0Nqu8IOVuc",
+    "emailThreadId": "1a061f470704188d",
+    "lastHandledTs": "1788351127.948579"
   }
 ]
