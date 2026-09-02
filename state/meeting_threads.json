@@ -70,5 +70,14 @@
     "meetingId": "bGzu4R6oWiQVlx2WvJoE",
     "emailThreadId": "1a0603cfef5be437",
     "lastHandledTs": "1788336708.741589"
+  },
+  {
+    "threadTs": "1788354736.537879",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "{Confirmed} Debrief : : SE1 : : Aashish",
+    "type": "General internal meeting",
+    "meetingId": "0tCDv9sW94jCQ39kbTOA",
+    "emailThreadId": "1a0622250a7c86f3",
+    "lastHandledTs": "1788354736.537879"
   }
 ]

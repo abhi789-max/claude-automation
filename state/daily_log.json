@@ -147,6 +147,14 @@
         "Abhishek: get Amit Kesari's CV once he sends it, and set up the bi-directional hiring-manager screening call"
       ],
       "conversationHighlight": "Candidate's MongoDB outage story stood out for its technical precision -- tracing a 2-hour cascading failure to a 16MB document-size limit breached only after a JWT tenant-filter regression from six months earlier silently stopped scoping an aggregation, then using that root-cause proof to recover 40% of a ~$1M SLA penalty from the vendor."
+    },
+    {
+      "meetingTitle": "{Confirmed} Debrief : : SE1 : : Aashish",
+      "type": "General internal meeting",
+      "emailThreadId": "1a0622250a7c86f3",
+      "discussionSummary": "Panel debrief on SE1 candidate Aashish right after Naveen's own round. Arvind (weak yes) flagged the candidate as suspiciously polished for an SE1; Harshit (strong yes) said he explained a Carousell listing-page system design well (DB choice, API split, embeddings-based recommendations); B. Rajkannan (weak yes) saw no major gaps and found him transparent about limits; Naveen (strong no, most vocal) argued the candidate discussed advanced Kafka partitioning fluently but couldn't define BFF, API Gateway, or TDD when pushed, needed heavy hand-holding to frame his own work, never owned anything end-to-end, overstated front-end experience (amounted to modifying a date picker), and gave vague buzzword answers on vector databases/agentic coding -- and suspected possible external help, though he acknowledged it's unprovable. Panel could not reconcile the split rounds; no consensus reached, discussion ended with 'let's keep looking' rather than an offer.",
+      "actionItems": [],
+      "conversationHighlight": "Naveen zeroed in on an unreconciled contradiction -- a candidate fluent in Kafka replication/partition-ordering topics who couldn't define TDD or API Gateway when pressed -- and read the pivot-to-safer-topics pattern as a possible (but unprovable) sign of outside help."
     }
   ]
 }
