@@ -156,5 +156,41 @@
       "actionItems": [],
       "conversationHighlight": "Naveen zeroed in on an unreconciled contradiction -- a candidate fluent in Kafka replication/partition-ordering topics who couldn't define TDD or API Gateway when pressed -- and read the pivot-to-safer-topics pattern as a possible (but unprovable) sign of outside help."
     }
+  ],
+  "2026-09-03": [
+    {
+      "meetingTitle": "Weekly Cadence",
+      "type": "General internal meeting",
+      "emailThreadId": "1a065d135453c63c",
+      "discussionSummary": "Recurring internal pipeline-cadence sync between Abhishek Gurani and Abhishek Patnaik, focused on a backend-leaning loop. Audio quality was very poor (~2,600 characters, heavily fragmented). Legible threads: several candidates who went through the full loop came back rejected; Gurani flagged 2-3 for a re-run now that the process has been updated. A gap was flagged around candidates' grasp of technical jargon/\"facets\" at the target seniority (one level below technical lead). Sourcing is casting wider than usual (Himachal, Mohali, Pune) alongside standard hubs, with relocation flexibility a recurring qualifier. One senior candidate was flagged as promising, pending a relocation check before sharing further. A brief, unclear aside references someone (\"she\") having moved out.",
+      "actionItems": [
+        "Abhishek: check whether the senior candidate is open to relocating before sharing his profile further",
+        "Abhishek: share the technical-round candidate batch with Patnaik for review"
+      ],
+      "conversationHighlight": "Two candidates who'd already gone through the full loop and come back rejected are being deliberately re-run through it now that the process has been updated -- a second chance rather than a hard no."
+    },
+    {
+      "meetingTitle": "Quick Sync: Equip",
+      "type": "General internal meeting",
+      "emailThreadId": "1a065f5d498fdff7",
+      "discussionSummary": "Weekly Equip/HackerRank migration status check. Jyoti has tested ~40 of ~45 questions (backend now has 2 added questions and is already being sent to candidates); backend track running well. HackerRank data-deletion request already emailed, expected actioned within 1-2 days. A vendor contract came back signed -- Chelsea to link it to Picflow to keep the Friday payment cycle on track. Christine's outstanding technical \"bridge\" fix is still causing issues; Nikhil asked Chelsea to push her hard given Christine's limited bandwidth, looping in Abhishek if it stalls. Lacoustics/Carousell credit-usage tracking came up again -- Jyoti and Chelsea to meet and explore automating a Slack usage alert, with Nikhil wanting to be looped in. Nikhil also pushed everyone to get a proper intro to Equip's account manager rather than self-troubleshooting, and flagged two newly-approved Singapore roles (tech + intern) for Jannah to pick up. Firm deadline: all pending items closed before Friday, Sept 11. A post-sync one-on-one between Nikhil and Abhishek followed but was too garbled to summarize (fragments reference a candidate, \"Andy\").",
+      "actionItems": [
+        "Chelsea: push Christine hard to resolve the outstanding technical bridge issue; loop in Abhishek if it stalls",
+        "Chelsea: link the signed vendor contract to Picflow to keep the Friday payment cycle on track",
+        "Jyoti & Chelsea: meet to explore automating a Slack usage-alert for Lacoustics/Carousell credits, and loop Nikhil in",
+        "Jyoti, Chelsea, Abhishek: get introduced to Equip's account manager"
+      ],
+      "conversationHighlight": "Nikhil's blunt reframe on tooling: don't spend two hours puzzling something out when Equip's account manager can answer it in five minutes -- get everyone properly introduced to them."
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a0663aa9e4fa0f1",
+      "discussionSummary": "Orientation/exploratory call between Abhishek Gurani and candidate Anshul Garg for a Lead Software Engineer role in Carousell's Pro-Seller vertical (autos/home-services/seller-tools pods, reports to Senior Engineering Manager Vlad). Almost the entire call was Abhishek explaining Carousell's business model, the Pro-Seller org, and the 5-round interview process (take-home, LLD/coding with AI-usage evaluation, HLD/system design, PM round, hiring-manager/director rounds against a \"HEART\" values framework) -- no competency or behavioral questions were put to Anshul. The only candidate-side content: current CTC (~69 LPA: 43L base + 15% variable + ~16L/yr RSUs), a firm 45-day notice period, no stated comp expectation, and that he came in via a common-friend referral. Abhishek shared Carousell's indicative comp band unprompted.",
+      "actionItems": [
+        "Abhishek: share the take-home assignment with Anshul Garg"
+      ],
+      "conversationHighlight": "Abhishek volunteered Carousell's own comp band (50-64 LPA fixed, bonus up to ~200% of target for top performers) before Anshul had stated any expectation of his own -- a transparency-first negotiating style."
+    }
   ]
 }

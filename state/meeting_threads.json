@@ -79,5 +79,23 @@
     "meetingId": "0tCDv9sW94jCQ39kbTOA",
     "emailThreadId": "1a0622250a7c86f3",
     "lastHandledTs": "1788354736.537879"
+  },
+  {
+    "threadTs": "1788423118.674239",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Weekly Cadence",
+    "type": "General internal meeting",
+    "meetingId": "piUQks68UGUMzU6SDPlx",
+    "emailThreadId": "1a065d135453c63c",
+    "lastHandledTs": "1788423118.674239"
+  },
+  {
+    "threadTs": "1788423132.791479",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Quick Sync: Equip",
+    "type": "General internal meeting",
+    "meetingId": "HUtBKYV8DDUhoGXa1GXb",
+    "emailThreadId": "1a065f5d498fdff7",
+    "lastHandledTs": "1788423132.791479"
   }
 ]

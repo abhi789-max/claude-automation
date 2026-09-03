@@ -273,5 +273,82 @@
     "createdAt": "2026-09-02T12:12:07Z",
     "nudgeThreadTs": "1788351202.076709",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 26,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a065d135453c63c",
+    "description": "Check whether the senior candidate is open to relocating before sharing his profile further",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-03T05:50:03Z",
+    "nudgeThreadTs": "1788423249.714719",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 27,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a065d135453c63c",
+    "description": "Share the technical-round candidate batch with Patnaik for review",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-03T05:50:03Z",
+    "nudgeThreadTs": "1788423249.714719",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 28,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a065f5d498fdff7",
+    "description": "Push Christine hard to resolve the outstanding technical bridge issue; loop in Abhishek if it stalls",
+    "owner": "Chelsea",
+    "status": "open",
+    "createdAt": "2026-09-03T06:30:03Z",
+    "nudgeThreadTs": "1788423249.714719",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 29,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a065f5d498fdff7",
+    "description": "Link the signed vendor contract to Picflow to keep the Friday payment cycle on track",
+    "owner": "Chelsea",
+    "status": "open",
+    "createdAt": "2026-09-03T06:30:03Z",
+    "nudgeThreadTs": "1788423249.714719",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 30,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a065f5d498fdff7",
+    "description": "Meet to explore automating a Slack usage-alert for Lacoustics/Carousell credits, and loop Nikhil in",
+    "owner": "Jyoti & Chelsea",
+    "status": "open",
+    "createdAt": "2026-09-03T06:30:03Z",
+    "nudgeThreadTs": "1788423249.714719",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 31,
+    "meetingTitle": "Quick Sync: Equip",
+    "emailThreadId": "1a065f5d498fdff7",
+    "description": "Get introduced to Equip's account manager",
+    "owner": "Jyoti, Chelsea, Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-03T06:30:03Z",
+    "nudgeThreadTs": "1788423249.714719",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 32,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a0663aa9e4fa0f1",
+    "description": "Share the take-home assignment with Anshul Garg",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-03T07:45:13Z",
+    "nudgeThreadTs": "1788423249.714719",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]
