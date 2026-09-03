@@ -350,5 +350,16 @@
     "createdAt": "2026-09-03T07:45:13Z",
     "nudgeThreadTs": "1788423249.714719",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 33,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a0663aa9e4fa0f1",
+    "description": "Follow up with Divyanshu Soni once he has reviewed the take-home assignment and revert on his compensation decision (cash-only Carousell band vs. his stock-heavy Nutanix comp)",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-03T11:25:04Z",
+    "nudgeThreadTs": "1788437803.914239",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]

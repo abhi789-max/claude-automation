@@ -191,6 +191,16 @@
         "Abhishek: share the take-home assignment with Anshul Garg"
       ],
       "conversationHighlight": "Abhishek volunteered Carousell's own comp band (50-64 LPA fixed, bonus up to ~200% of target for top performers) before Anshul had stated any expectation of his own -- a transparency-first negotiating style."
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a0663aa9e4fa0f1",
+      "discussionSummary": "Orientation/exploratory call between Abhishek Gurani and candidate Divyanshu Soni (currently at Nutanix, Bangalore; originally from Satna, MP) for the same Lead Software Engineer role (Pro-Seller vertical) screened earlier today with Anshul Garg. Referred via a friend-of-a-friend already at Carousell in Singapore. Almost entirely Abhishek pitching Carousell/the role/interview process; Divyanshu was notably engaged, asking pointed questions about the tech stack (Go-based, New Relic/Prometheus, ELK to vector DB, GCP), on-call/SRE structure, India-specific full remote policy, and take-home assignment format (a CLI marketplace task, AI-assisted). Comp discussion: current ~75 LPA at Nutanix (47L base + ~18L/yr vested stock from an original 04K/4yr grant); no fixed ask, but expects a hike; Abhishek shared Carousell's band (~50-60 LPA base + ~2 months variable bonus, floated ~68 LPA total) \u2014 cash-only, no RSU component, which is a structural gap versus his current stock-heavy package. Notice period ~30 days, negotiable. No competency/technical assessment occurred.",
+      "actionItems": [
+        "Abhishek: follow up with Divyanshu Soni once he has reviewed the take-home assignment and revert on his compensation decision (cash-only Carousell band vs. his stock-heavy Nutanix comp)"
+      ],
+      "conversationHighlight": "Divyanshu pushed back mildly on Carousell's cash-only comp structure versus his current stock-heavy Nutanix package rather than accepting silently, and methodically worked through on-call/remote/take-home logistics with his own questions instead of just listening to the pitch."
     }
   ]
 }
