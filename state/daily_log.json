@@ -157,6 +157,20 @@
       "conversationHighlight": "Naveen zeroed in on an unreconciled contradiction -- a candidate fluent in Kafka replication/partition-ordering topics who couldn't define TDD or API Gateway when pressed -- and read the pivot-to-safer-topics pattern as a possible (but unprovable) sign of outside help."
     }
   ],
+  "2026-09-04": [
+    {
+      "meetingTitle": "Bi -Weekly [Learn and Build Together]",
+      "type": "General internal meeting",
+      "emailThreadId": "1a06b40cee5f5879",
+      "discussionSummary": "People-team bi-weekly automation show-and-tell. Meliza demoed an Apps-Script payroll consolidation flow (approved incentive/comp requests auto-populate a working sheet feeding Talenta) with a still-unresolved column-matching bug. Celeste showed her Claude-built confirmation-letter generator now auto-saving PDFs into each staff member's personal Drive folder (matched by Employee ID + legal name, falling back to the shared folder on name mismatches for long/nicknamed staff), plus a planned due-date reminder feature limited by retail leads being WhatsApp-only. Abhishek walked through two of his own builds: his internal Tactiq-transcript recruiting-analysis workflow (this automation) -- reads Tactiq/Gemini notes every ~15 min, classifies calls, nudges him on open action items via Slack, and rates candidates against a role's Must/Should/Nice-to-have framework with in-thread re-assessment -- and a separate offer-document collection automation built in Apps Script (not Claude, due to a PII/data-privacy limit on their current Anthropic subscription tier) that auto-sorts candidate documents into a structured Drive hierarchy, already extended to Jyoti's and Sheryl/Muda's candidates via a CC trick. Siti flagged and resolved a related bug where signed LOAs for intern-to-regular conversions were misfiling into the intern folder. General interest in scaling both of Abhishek's builds to the wider TA team; no candidate was being evaluated at any point.",
+      "actionItems": [
+        "Meliza: fix the column-matching issue on the payroll working-sheet automation",
+        "Celeste: explore simplifying the confirmation-letter folder-matching to rely on Employee ID alone",
+        "Team (next presenters): be ready for a possible ~5-minute automation-sharing update during the upcoming Builder OS session"
+      ],
+      "conversationHighlight": "Abhishek explained why the offer-document automation deliberately avoids Claude: their current Anthropic subscription tier's PII/data-handling terms aren't specific enough for him to feel safe routing confidential candidate documents through it, so it runs on Apps Script instead -- a considered privacy tradeoff, not a technical limitation."
+    }
+  ],
   "2026-09-03": [
     {
       "meetingTitle": "Weekly Cadence",

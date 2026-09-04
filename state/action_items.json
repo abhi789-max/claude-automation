@@ -361,5 +361,38 @@
     "createdAt": "2026-09-03T11:25:04Z",
     "nudgeThreadTs": "1788437803.914239",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 34,
+    "meetingTitle": "Bi -Weekly [Learn and Build Together]",
+    "emailThreadId": "1a06b40cee5f5879",
+    "description": "Fix the column-matching issue on the payroll working-sheet automation",
+    "owner": "Meliza",
+    "status": "open",
+    "createdAt": "2026-09-04T07:10:03Z",
+    "nudgeThreadTs": "1788509575.320649",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 35,
+    "meetingTitle": "Bi -Weekly [Learn and Build Together]",
+    "emailThreadId": "1a06b40cee5f5879",
+    "description": "Explore simplifying the confirmation-letter folder-matching to rely on Employee ID alone (drop the legal-name dependency)",
+    "owner": "Celeste",
+    "status": "open",
+    "createdAt": "2026-09-04T07:10:03Z",
+    "nudgeThreadTs": "1788509575.320649",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 36,
+    "meetingTitle": "Bi -Weekly [Learn and Build Together]",
+    "emailThreadId": "1a06b40cee5f5879",
+    "description": "Be ready for a possible ~5-minute automation-sharing update during the upcoming Builder OS session",
+    "owner": "Team (next presenters)",
+    "status": "open",
+    "createdAt": "2026-09-04T07:10:03Z",
+    "nudgeThreadTs": "1788509575.320649",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]
