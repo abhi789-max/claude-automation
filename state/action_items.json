@@ -394,5 +394,93 @@
     "createdAt": "2026-09-04T07:10:03Z",
     "nudgeThreadTs": "1788509575.320649",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 37,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a07a818dae71baf",
+    "description": "Talk to Patnaik candidly about the interview-format/coding-coverage gap between interviewers on the automation-tester role",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-07T06:15:04Z",
+    "nudgeThreadTs": "1788768807.086119",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 38,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a07a818dae71baf",
+    "description": "Get automation-framework-building experience details from Sumit for current candidates and share notes with Abhishek",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-07T06:15:04Z",
+    "nudgeThreadTs": "1788768807.086119",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 39,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a07a818dae71baf",
+    "description": "Prioritize outreach/screening for the Infoedge and Zepto backend candidates",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-07T06:15:04Z",
+    "nudgeThreadTs": "1788768807.086119",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 40,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a07a818dae71baf",
+    "description": "Chase JD sign-off status and confirm interviewers with Nicholas for the product-designer role",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-07T06:15:04Z",
+    "nudgeThreadTs": "1788768807.086119",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 41,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a07a818dae71baf",
+    "description": "Follow up with the skill-training institute for a free candidate-pool sheet (automation/backend)",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-07T06:15:04Z",
+    "nudgeThreadTs": "1788768807.086119",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 42,
+    "meetingTitle": "LinkedIn Renewal",
+    "emailThreadId": "1a07a93d6572fc9f",
+    "description": "Build the per-recruiter/per-location LinkedIn usage grid (hires, sourcing channel, seats/ads/email usage) for last year and this year, by this week",
+    "owner": "Chelsea & Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-07T06:35:02Z",
+    "nudgeThreadTs": "1788768807.086119",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 43,
+    "meetingTitle": "LinkedIn Renewal",
+    "emailThreadId": "1a07a93d6572fc9f",
+    "description": "Keep pushing the LinkedIn vendor for clarity on the inflated 25-30% renewal quote",
+    "owner": "Chelsea",
+    "status": "open",
+    "createdAt": "2026-09-07T06:35:02Z",
+    "nudgeThreadTs": "1788768807.086119",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 44,
+    "meetingTitle": "LinkedIn Renewal",
+    "emailThreadId": "1a07a93d6572fc9f",
+    "description": "Confirm à la carte LinkedIn product limits (seat types, bundled vs. extra) before finalizing the usage grid",
+    "owner": "Chelsea & Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-07T06:35:02Z",
+    "nudgeThreadTs": "1788768807.086119",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]

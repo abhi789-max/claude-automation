@@ -216,5 +216,41 @@
       ],
       "conversationHighlight": "Divyanshu pushed back mildly on Carousell's cash-only comp structure versus his current stock-heavy Nutanix package rather than accepting silently, and methodically worked through on-call/remote/take-home logistics with his own questions instead of just listening to the pitch."
     }
+  ],
+  "2026-09-07": [
+    {
+      "meetingTitle": "Weekly Cadence",
+      "type": "General internal meeting",
+      "emailThreadId": "1a07a818dae71baf",
+      "discussionSummary": "Pipeline sync between Abhishek and recruiter Sheryl Oon (Muda), mostly on the automation-tester role's interview-format inconsistency. Abhishek relayed candid stakeholder feedback that Sheryl has been struggling to close senior roles despite strong effort elsewhere, proposed sourcing a strong above-budget candidate as a benchmark, and -- after personally spotting from shared notes that interviewer Shafiq's coding questions were genuinely relevant despite looking lighter than colleague Sumit's -- plans to raise the interview-quality alignment gap directly with Patnaik. Also covered: prioritizing Infoedge/Zepto candidates for the senior backend role after three straight loop rejections, chasing the product-designer JD/interviewer confirmation with Nicholas, and tapping a skill-training institute for a free candidate pool.",
+      "actionItems": [
+        "Abhishek: talk to Patnaik candidly about the interview-format/coding-coverage gap between interviewers on the automation-tester role",
+        "Sheryl: get automation-framework-building experience details from Sumit for current candidates and share notes with Abhishek",
+        "Sheryl: prioritize outreach/screening for the Infoedge and Zepto backend candidates",
+        "Sheryl: chase JD sign-off status and confirm interviewers with Nicholas for the product-designer role",
+        "Abhishek: follow up with the skill-training institute for a free candidate-pool sheet (automation/backend)"
+      ],
+      "conversationHighlight": "Despite disclaiming domain expertise, Abhishek personally reviewed the shared interview notes and concluded Shafiq's automation questions were genuinely coding-relevant (API schema validation) -- directly contradicting a colleague's read that Shafiq was 'more on the UI side' -- and decided to escalate the quality-alignment concern straight to Patnaik rather than let it go unresolved."
+    },
+    {
+      "meetingTitle": "LinkedIn Renewal",
+      "type": "General internal meeting",
+      "emailThreadId": "1a07a93d6572fc9f",
+      "discussionSummary": "Budget-planning call on the LinkedIn Talent Solutions renewal. LinkedIn quoted ~25-30% higher than last cycle; Nikhil called the full package (~$230K across Carousell/Muda/Laku6) unaffordable, especially with reduced headcount mandate. Direction: drop the current package for an a-la-carte model, but only after Chelsea and Abhishek build a per-recruiter, per-location usage-and-cost grid (hires, sourcing channel, seat/ad/email usage) across last year and this year, to see who actually needs a LinkedIn seat versus who's sourcing well through other channels already. Chelsea clarified job-wrapping and limited-listing riders are already bundled at no extra cost. Full data completeness depends on Samuel's return (~Sept 9), but Nikhil wants a usable grid by end of week for his month-end budgeting.",
+      "actionItems": [
+        "Chelsea & Abhishek: build the per-recruiter/per-location LinkedIn usage grid (hires, sourcing channel, seats/ads/email usage) for last year and this year, by this week",
+        "Chelsea: keep pushing the LinkedIn vendor for clarity on the inflated 25-30% renewal quote",
+        "Chelsea & Abhishek: confirm a-la-carte LinkedIn product limits (seat types, bundled vs. extra) before finalizing the usage grid"
+      ],
+      "conversationHighlight": "Nikhil's blunt framing to the vendor: tell them Carousell isn't walking away outright, just evaluating what's possible -- especially given the quoted 25-30% increase despite Carousell's own package usage reportedly having gone down, something already flagged to the vendor in writing."
+    },
+    {
+      "meetingTitle": "Abhishek & Nik - weekly catchup",
+      "type": "General internal meeting",
+      "emailThreadId": "1a07aaf58d0c4ab4",
+      "discussionSummary": "Recurring weekly recruiting-pipeline catchup between Abhishek and Nikhil. Audio quality was extremely poor (~2,080 characters, mostly fragmentary), so this is a partial reconstruction. Legible fragments reference a senior candidate profile (self-started his own organization, previously SVP/VP at Facebook overseeing the platform org), a pipeline status run-through across loop stages (take-home/assignment through rounds 2-3), a GRC item confirmed closeable today, a candidate at offer/joining stage, roughly two dozen candidates in an unclear status, Equip usage (unlimited ads/emails confirmed), and a note to check a candidate's notice period.",
+      "actionItems": [],
+      "conversationHighlight": "Transcript quality was too poor for a reliable readout -- worth a manual listen if the senior ex-Facebook-platform candidate discussion or the notice-period follow-up matter."
+    }
   ]
 }
