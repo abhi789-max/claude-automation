@@ -252,5 +252,18 @@
       "actionItems": [],
       "conversationHighlight": "Transcript quality was too poor for a reliable readout -- worth a manual listen if the senior ex-Facebook-platform candidate discussion or the notice-period follow-up matter."
     }
+  ],
+  "2026-09-08": [
+    {
+      "meetingTitle": "Exploratory Call :: Carousell <> Atin",
+      "type": "Candidate interview",
+      "emailThreadId": "1a07f5a15d247cb4",
+      "discussionSummary": "Recruiter screen with Atin Mukherjee for the same Director, Common Technology Foundation role as Anri Digholm, Manesh Chaturvedi, and Amit Kesari. Abhishek walked through Carousell's structure and the role's charter; Atin (currently managing Apple's block-storage/Fleet org, 14 engineers across India/UK/Pacific) described a named, quantified Microsoft platform-migration win (~$800M/year saved, 2x developer-productivity boost migrating a 25-year-old legacy monolith to AKS microservices) and a named Red Hat incident-recovery story that led to a patent and control-plane redesign, but was explicit he has no hands-on data-governance exposure and self-rates his AI/agentic work as early-stage despite having built his own fleet-anomaly-detection agent. Motivation: capped charter/elevation ceiling after 10+ years in line management, plus a shift toward operational rather than building work at Apple. Notice ~30 days; extensive comp discussion (current ~2.5 CR CTC at Apple vs. Carousell's L7/L8 banding) with candidate saying he prioritizes role/growth over money.",
+      "actionItems": [
+        "Abhishek: get Atin Mukherjee's CV via LinkedIn and create his candidate profile",
+        "Abhishek: share hiring-manager interview slots with Atin Mukherjee this week"
+      ],
+      "conversationHighlight": "Candidate volunteered two unprompted boundaries on his own experience -- no hands-on data-governance exposure, and explicitly declining to call himself an AI \"guru\" despite having built his own fleet-anomaly agent -- the same self-aware-honesty pattern seen in other CTF candidates for this role."
+    }
   ]
 }

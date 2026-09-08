@@ -68,5 +68,15 @@
     "meetingId": "9iP5TcQmcWm10oBduhKc",
     "emailThreadId": "1a0663aa9e4fa0f1",
     "lastHandledTs": "1788437752.109459"
+  },
+  {
+    "threadTs": "1788843545.997759",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Atin Mukherjee",
+    "roleKey": "director common technology foundation",
+    "roleLabel": "Director, Common Technology Foundation",
+    "meetingId": "SDE5SpaRO7S80uktEfcD",
+    "emailThreadId": "1a07f5a15d247cb4",
+    "lastHandledTs": "1788843545.997759"
   }
 ]

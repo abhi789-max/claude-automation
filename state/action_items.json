@@ -482,5 +482,27 @@
     "createdAt": "2026-09-07T06:35:02Z",
     "nudgeThreadTs": "1788768807.086119",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 45,
+    "meetingTitle": "Exploratory Call :: Carousell <> Atin",
+    "emailThreadId": "1a07f5a15d247cb4",
+    "description": "Get Atin Mukherjee's CV via LinkedIn and create his candidate profile",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-08T04:59:05Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 46,
+    "meetingTitle": "Exploratory Call :: Carousell <> Atin",
+    "emailThreadId": "1a07f5a15d247cb4",
+    "description": "Share hiring-manager interview slots with Atin Mukherjee this week",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-08T04:59:05Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
