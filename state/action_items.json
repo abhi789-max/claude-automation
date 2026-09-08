@@ -491,8 +491,8 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-09-08T04:59:05Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1788855259.786009",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 46,
@@ -502,7 +502,7 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-09-08T04:59:05Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1788855259.786009",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]
