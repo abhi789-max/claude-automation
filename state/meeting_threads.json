@@ -160,5 +160,23 @@
     "meetingId": "wYoskj4Z7BIuWYYeqXwe",
     "emailThreadId": "1a084bbf074321f4",
     "lastHandledTs": "1788941568.810989"
+  },
+  {
+    "threadTs": "1788948688.321599",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Monthly People Team Sync - AI Experiments and Learning",
+    "type": "General internal meeting",
+    "meetingId": "SA9O71Ztl1p5hfxutwhl",
+    "emailThreadId": "1a085731bd43c901",
+    "lastHandledTs": "1788948688.321599"
+  },
+  {
+    "threadTs": "1788948697.239289",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Jyoti / Abhishek",
+    "type": "Unclear",
+    "meetingId": "AmQ2yQ3DZepj3OJbIAvl",
+    "emailThreadId": "1a084bbf074321f4",
+    "lastHandledTs": "1788948697.239289"
   }
 ]
