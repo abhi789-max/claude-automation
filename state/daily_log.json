@@ -329,6 +329,16 @@
         "Abhishek: check internal budget and follow up with Divyanshu Dadheech via WhatsApp with final compensation numbers"
       ],
       "conversationHighlight": "Candidate was unusually direct rather than non-committal about the comp gap -- volunteering his full current and competing-offer breakdowns and stating plainly he can't move forward on a pay cut versus his existing ~88 LPA offer, while acknowledging Carousell's budget constraints are real."
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a0846e1e4177403",
+      "discussionSummary": "Orientation/comp-discussion call between Abhishek Gurani and candidate Sajid Dayer for the same Lead Software Engineer role (Pro-Seller vertical) screened earlier with Anshul Garg, Divyanshu Soni, and Divyanshu Dadheech. Almost entirely Abhishek pitching Carousell's business model, brand portfolio, and the role's charter; candidate asked business-diligence questions (platform traffic, revenue model, language-stack mix) rather than being assessed on his own background. No competency evaluation occurred. Comp discussion: candidate's current CTC ~60 LPA (44L fixed + 16L RSU/year), asking ~75 LPA to move; Carousell's band tops out around 70-72 LPA with a strong bonus multiplier -- candidate signaled a 1-2 LPA gap wouldn't be a dealbreaker. Notice period ~1 month. Next step: take-home assignment and JD to be shared with the candidate.",
+      "actionItems": [
+        "Abhishek: share the take-home assignment and job description with Sajid Dayer"
+      ],
+      "conversationHighlight": "Candidate probed Carousell's fundamentals before engaging on logistics -- asking pointed questions about monthly traffic, the three-pronged revenue model (classifieds/e-commerce/retail-outlet), and whether the stack was Go-exclusive -- rather than passively accepting the pitch."
     }
   ]
 }
