@@ -313,7 +313,7 @@
     "emailThreadId": "1a065f5d498fdff7",
     "description": "Link the signed vendor contract to Picflow to keep the Friday payment cycle on track",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-03T06:30:03Z",
     "nudgeThreadTs": "1788423249.714719",
     "nudgeChannelId": "D026A8WF8BY"
@@ -324,7 +324,7 @@
     "emailThreadId": "1a065f5d498fdff7",
     "description": "Meet to explore automating a Slack usage-alert for Lacoustics/Carousell credits, and loop Nikhil in",
     "owner": "Jyoti & Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-03T06:30:03Z",
     "nudgeThreadTs": "1788423249.714719",
     "nudgeChannelId": "D026A8WF8BY"
@@ -335,7 +335,7 @@
     "emailThreadId": "1a065f5d498fdff7",
     "description": "Get introduced to Equip's account manager",
     "owner": "Jyoti, Chelsea, Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-03T06:30:03Z",
     "nudgeThreadTs": "1788423249.714719",
     "nudgeChannelId": "D026A8WF8BY"
@@ -346,7 +346,7 @@
     "emailThreadId": "1a0663aa9e4fa0f1",
     "description": "Share the take-home assignment with Anshul Garg",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-03T07:45:13Z",
     "nudgeThreadTs": "1788423249.714719",
     "nudgeChannelId": "D026A8WF8BY"
@@ -357,7 +357,7 @@
     "emailThreadId": "1a0663aa9e4fa0f1",
     "description": "Follow up with Divyanshu Soni once he has reviewed the take-home assignment and revert on his compensation decision (cash-only Carousell band vs. his stock-heavy Nutanix comp)",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-03T11:25:04Z",
     "nudgeThreadTs": "1788437803.914239",
     "nudgeChannelId": "D026A8WF8BY"
@@ -368,7 +368,7 @@
     "emailThreadId": "1a06b40cee5f5879",
     "description": "Fix the column-matching issue on the payroll working-sheet automation",
     "owner": "Meliza",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-04T07:10:03Z",
     "nudgeThreadTs": "1788509575.320649",
     "nudgeChannelId": "D026A8WF8BY"
@@ -379,7 +379,7 @@
     "emailThreadId": "1a06b40cee5f5879",
     "description": "Explore simplifying the confirmation-letter folder-matching to rely on Employee ID alone (drop the legal-name dependency)",
     "owner": "Celeste",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-04T07:10:03Z",
     "nudgeThreadTs": "1788509575.320649",
     "nudgeChannelId": "D026A8WF8BY"
@@ -390,7 +390,7 @@
     "emailThreadId": "1a06b40cee5f5879",
     "description": "Be ready for a possible ~5-minute automation-sharing update during the upcoming Builder OS session",
     "owner": "Team (next presenters)",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-04T07:10:03Z",
     "nudgeThreadTs": "1788509575.320649",
     "nudgeChannelId": "D026A8WF8BY"
@@ -401,7 +401,7 @@
     "emailThreadId": "1a07a818dae71baf",
     "description": "Talk to Patnaik candidly about the interview-format/coding-coverage gap between interviewers on the automation-tester role",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-07T06:15:04Z",
     "nudgeThreadTs": "1788768807.086119",
     "nudgeChannelId": "D026A8WF8BY"
@@ -412,7 +412,7 @@
     "emailThreadId": "1a07a818dae71baf",
     "description": "Get automation-framework-building experience details from Sumit for current candidates and share notes with Abhishek",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-07T06:15:04Z",
     "nudgeThreadTs": "1788768807.086119",
     "nudgeChannelId": "D026A8WF8BY"
@@ -423,7 +423,7 @@
     "emailThreadId": "1a07a818dae71baf",
     "description": "Prioritize outreach/screening for the Infoedge and Zepto backend candidates",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-07T06:15:04Z",
     "nudgeThreadTs": "1788768807.086119",
     "nudgeChannelId": "D026A8WF8BY"
@@ -434,7 +434,7 @@
     "emailThreadId": "1a07a818dae71baf",
     "description": "Chase JD sign-off status and confirm interviewers with Nicholas for the product-designer role",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-07T06:15:04Z",
     "nudgeThreadTs": "1788768807.086119",
     "nudgeChannelId": "D026A8WF8BY"
@@ -445,7 +445,7 @@
     "emailThreadId": "1a07a818dae71baf",
     "description": "Follow up with the skill-training institute for a free candidate-pool sheet (automation/backend)",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-07T06:15:04Z",
     "nudgeThreadTs": "1788768807.086119",
     "nudgeChannelId": "D026A8WF8BY"
@@ -456,7 +456,7 @@
     "emailThreadId": "1a07a93d6572fc9f",
     "description": "Build the per-recruiter/per-location LinkedIn usage grid (hires, sourcing channel, seats/ads/email usage) for last year and this year, by this week",
     "owner": "Chelsea & Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-07T06:35:02Z",
     "nudgeThreadTs": "1788768807.086119",
     "nudgeChannelId": "D026A8WF8BY"
@@ -467,7 +467,7 @@
     "emailThreadId": "1a07a93d6572fc9f",
     "description": "Keep pushing the LinkedIn vendor for clarity on the inflated 25-30% renewal quote",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-07T06:35:02Z",
     "nudgeThreadTs": "1788768807.086119",
     "nudgeChannelId": "D026A8WF8BY"
@@ -476,9 +476,9 @@
     "seq": 44,
     "meetingTitle": "LinkedIn Renewal",
     "emailThreadId": "1a07a93d6572fc9f",
-    "description": "Confirm à la carte LinkedIn product limits (seat types, bundled vs. extra) before finalizing the usage grid",
+    "description": "Confirm \u00e0 la carte LinkedIn product limits (seat types, bundled vs. extra) before finalizing the usage grid",
     "owner": "Chelsea & Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-07T06:35:02Z",
     "nudgeThreadTs": "1788768807.086119",
     "nudgeChannelId": "D026A8WF8BY"
@@ -489,7 +489,7 @@
     "emailThreadId": "1a07f5a15d247cb4",
     "description": "Get Atin Mukherjee's CV via LinkedIn and create his candidate profile",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-08T04:59:05Z",
     "nudgeThreadTs": "1788855259.786009",
     "nudgeChannelId": "D026A8WF8BY"
@@ -500,7 +500,7 @@
     "emailThreadId": "1a07f5a15d247cb4",
     "description": "Share hiring-manager interview slots with Atin Mukherjee this week",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-08T04:59:05Z",
     "nudgeThreadTs": "1788855259.786009",
     "nudgeChannelId": "D026A8WF8BY"
@@ -511,7 +511,7 @@
     "emailThreadId": "1a084531b2916808",
     "description": "Get Patnaik and Tien Pham aligned face-to-face (with Nikhil) on round-four assessment scope immediately after this call, before the senior DE round proceeds",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T08:12:28Z",
     "nudgeThreadTs": "1788941764.844399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -522,7 +522,7 @@
     "emailThreadId": "1a084531b2916808",
     "description": "Chase Zakir for SRE JD approval, then schedule the intake",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T08:12:28Z",
     "nudgeThreadTs": "1788941764.844399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -533,7 +533,7 @@
     "emailThreadId": "1a084531b2916808",
     "description": "Chase Bernard/PIC confirmation and complete the interviewer briefing for the senior backend role before any round proceeds",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T08:12:28Z",
     "nudgeThreadTs": "1788941764.844399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -544,7 +544,7 @@
     "emailThreadId": "1a084531b2916808",
     "description": "Share candidate profiles with Nicholas for the product-designer role while the interviewer briefing is arranged",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T08:12:28Z",
     "nudgeThreadTs": "1788941764.844399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -555,7 +555,7 @@
     "emailThreadId": "1a084531b2916808",
     "description": "Get Chung's sign-off on a senior (vs. mid) PM level for the monetization/RPM-backfill role before proceeding",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T08:12:28Z",
     "nudgeThreadTs": "1788941764.844399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -566,7 +566,7 @@
     "emailThreadId": "1a0846e1e4177403",
     "description": "Get sign-off from Igor, Kelvin, and Jyoti today to close the offer",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T08:12:42Z",
     "nudgeThreadTs": "1788941764.844399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -577,7 +577,7 @@
     "emailThreadId": "1a0846e1e4177403",
     "description": "Confirm with the candidate whether he can bring his notice period down from 90 days toward the 30-35 day target (before the Sept 30 cutoff)",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T08:12:42Z",
     "nudgeThreadTs": "1788941764.844399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -588,7 +588,7 @@
     "emailThreadId": "1a0846e1e4177403",
     "description": "Continue pursuing budget approval to convert the role from contract to permanent",
     "owner": "Venkateswara Reddy",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T08:12:42Z",
     "nudgeThreadTs": "1788941764.844399",
     "nudgeChannelId": "D026A8WF8BY"
