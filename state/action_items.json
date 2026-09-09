@@ -614,5 +614,16 @@
     "createdAt": "2026-09-09T09:15:08Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 57,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a0846e1e4177403",
+    "description": "Check internal budget and follow up with Divyanshu Dadheech via WhatsApp with final compensation numbers",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-09T11:13:35Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

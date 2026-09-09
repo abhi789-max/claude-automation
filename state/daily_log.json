@@ -314,11 +314,21 @@
     },
     {
       "meetingTitle": "Jyoti / Abhishek",
-      "type": "Unclear",
+      "type": "General internal meeting",
       "emailThreadId": "1a084bbf074321f4",
-      "discussionSummary": "Transcript capture almost entirely failed for this ~5.5-minute call (265 characters total, mostly unintelligible fragments) -- no legible topic or context recovered.",
+      "discussionSummary": "Transcript capture almost entirely failed for this ~5.5-minute call (265 characters total, mostly unintelligible fragments) -- no legible topic or context recovered. Abhishek confirmed via Slack reply this should be classified as a general internal meeting.",
       "actionItems": [],
       "conversationHighlight": ""
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a0846e1e4177403",
+      "discussionSummary": "Orientation/comp-negotiation call between Abhishek Gurani and candidate Divyanshu Dadheech (currently at DaVinci, a public company; based remotely in Rajasthan) for the same Lead Software Engineer role (Pro-Seller vertical) screened earlier with Anshul Garg and Divyanshu Soni. Almost entirely Abhishek pitching Carousell's org structure, the role's three-way autonomy charter (coding/design-architecture/problem-solving), and the 5-round process; candidate asked sharp structural questions (people-management scope, IC/leadership split, tech stack -- Go/New Relic/Prometheus/GCP/ELK/Redis). No competency assessment occurred. Extended comp negotiation: candidate's current CTC ~50-55 LPA (DaVinci) but already holds a competing offer at ~88 LPA CTC and is asking ~93-95 LPA to move; Carousell's ceiling tops out around 80-90 LPA with buffer/bonus -- candidate was direct that a pay cut versus his existing offer is a non-starter. Already resigned (notice since Aug 28, free end of October). Next step: Abhishek to check internally and follow up with final numbers via WhatsApp.",
+      "actionItems": [
+        "Abhishek: check internal budget and follow up with Divyanshu Dadheech via WhatsApp with final compensation numbers"
+      ],
+      "conversationHighlight": "Candidate was unusually direct rather than non-committal about the comp gap -- volunteering his full current and competing-offer breakdowns and stating plainly he can't move forward on a pay cut versus his existing ~88 LPA offer, while acknowledging Carousell's budget constraints are real."
     }
   ]
 }
