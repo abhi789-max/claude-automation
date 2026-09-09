@@ -504,5 +504,93 @@
     "createdAt": "2026-09-08T04:59:05Z",
     "nudgeThreadTs": "1788855259.786009",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 47,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a084531b2916808",
+    "description": "Get Patnaik and Tien Pham aligned face-to-face (with Nikhil) on round-four assessment scope immediately after this call, before the senior DE round proceeds",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-09T08:12:28Z",
+    "nudgeThreadTs": "1788941764.844399",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 48,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a084531b2916808",
+    "description": "Chase Zakir for SRE JD approval, then schedule the intake",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-09T08:12:28Z",
+    "nudgeThreadTs": "1788941764.844399",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 49,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a084531b2916808",
+    "description": "Chase Bernard/PIC confirmation and complete the interviewer briefing for the senior backend role before any round proceeds",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-09T08:12:28Z",
+    "nudgeThreadTs": "1788941764.844399",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 50,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a084531b2916808",
+    "description": "Share candidate profiles with Nicholas for the product-designer role while the interviewer briefing is arranged",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-09T08:12:28Z",
+    "nudgeThreadTs": "1788941764.844399",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 51,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a084531b2916808",
+    "description": "Get Chung's sign-off on a senior (vs. mid) PM level for the monetization/RPM-backfill role before proceeding",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-09T08:12:28Z",
+    "nudgeThreadTs": "1788941764.844399",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 52,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a0846e1e4177403",
+    "description": "Get sign-off from Igor, Kelvin, and Jyoti today to close the offer",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-09T08:12:42Z",
+    "nudgeThreadTs": "1788941764.844399",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 53,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a0846e1e4177403",
+    "description": "Confirm with the candidate whether he can bring his notice period down from 90 days toward the 30-35 day target (before the Sept 30 cutoff)",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-09T08:12:42Z",
+    "nudgeThreadTs": "1788941764.844399",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 54,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a0846e1e4177403",
+    "description": "Continue pursuing budget approval to convert the role from contract to permanent",
+    "owner": "Venkateswara Reddy",
+    "status": "open",
+    "createdAt": "2026-09-09T08:12:42Z",
+    "nudgeThreadTs": "1788941764.844399",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]

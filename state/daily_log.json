@@ -265,5 +265,41 @@
       ],
       "conversationHighlight": "Candidate volunteered two unprompted boundaries on his own experience -- no hands-on data-governance exposure, and explicitly declining to call himself an AI \"guru\" despite having built his own fleet-anomaly agent -- the same self-aware-honesty pattern seen in other CTF candidates for this role."
     }
+  ],
+  "2026-09-09": [
+    {
+      "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+      "type": "General internal meeting",
+      "emailThreadId": "1a084531b2916808",
+      "discussionSummary": "Pipeline review across senior backend, SRE, product designer, automation, and senior data-engineer reqs, run by Nikhil with recruiter Sheryl. Nikhil held firm that no interview round proceeds without both intake and interviewer briefing completed (senior backend and product designer both still missing the briefing step). Automation role: all three round-one candidates from the prior batch failed on a level mismatch; two more scheduled. Senior DE: Nikhil blocked round four from proceeding until a new interviewer (Tien Pham) and Patnaik align face-to-face on assessment scope, citing the earlier automation-role misalignment as the cautionary tale. Separate people-ops thread on converting UX researcher Hasika to contractor and hiring a more senior UX researcher to mentor her -- Nikhil told the recruiting team to stay out of the HR mechanics and defer to Sharon/Prashant/Chung.",
+      "actionItems": [
+        "Sheryl: get Patnaik and Tien Pham aligned face-to-face (with Nikhil) on round-four assessment scope immediately after this call, before the senior DE round proceeds",
+        "Sheryl: chase Zakir for SRE JD approval, then schedule the intake",
+        "Sheryl: chase Bernard/PIC confirmation and complete the interviewer briefing for the senior backend role before any round proceeds",
+        "Sheryl: share candidate profiles with Nicholas for the product-designer role while the interviewer briefing is arranged",
+        "Sheryl: get Chung's sign-off on a senior (vs. mid) PM level for the monetization/RPM-backfill role before proceeding"
+      ],
+      "conversationHighlight": "Nikhil, on why the new senior-DE interviewer must align with Patnaik before round four resumes: \"If Patnaik wants a bulldozer and this guy thinks he wants a truck, you can see there's a mismatch... otherwise we will go into the same quicksand as we did with the automation role.\""
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "General internal meeting",
+      "emailThreadId": "1a0846e1e4177403",
+      "discussionSummary": "Abhishek and hiring manager Venkateswara Reddy worked through a comp/leveling decision for a candidate whose ask (17.5 LPA base, ~20 LPA total) sits near the top of the JL2 band, against internal-parity risk versus an existing JL4 contractor already at 27 LPA base. Agreed to bring him in at JL2 now with an explicit plan to promote to JL3 at his 2028 performance cycle as the retention lever, looping in Igor, Kelvin, and Jyoti for same-day approval. Notice period contractually 90 days, candidate negotiating toward 30-35; onboarding before end of September would make him eligible for the current performance cycle, which also aligns with an audit-timeline pressure on Venkat's side.",
+      "actionItems": [
+        "Abhishek: get sign-off from Igor, Kelvin, and Jyoti today to close the offer",
+        "Abhishek: confirm with the candidate whether he can bring his notice period down from 90 days toward the 30-35 day target (before the Sept 30 cutoff)",
+        "Venkateswara Reddy: continue pursuing budget approval to convert the role from contract to permanent"
+      ],
+      "conversationHighlight": "Venkat, on why he'd rather move fast than keep shopping: \"We have explored around more than 100 candidates... compensation wise I'm totally okay, even if we go and shop around we might not get good candidates in the range -- right now people's expectations are too high.\""
+    },
+    {
+      "meetingTitle": "Jyoti / Abhishek",
+      "type": "Unclear",
+      "emailThreadId": "1a084bbf074321f4",
+      "discussionSummary": "Transcript capture failed almost entirely for this ~8-minute call -- only a single fragment (\"Don't talk to. Don't talk to.\") was recorded, with nothing from Jyoti at all. Awaiting Abhishek's reply on how to classify it.",
+      "actionItems": [],
+      "conversationHighlight": ""
+    }
   ]
 }
