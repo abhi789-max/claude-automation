@@ -340,5 +340,21 @@
       ],
       "conversationHighlight": "Candidate probed Carousell's fundamentals before engaging on logistics -- asking pointed questions about monthly traffic, the three-pronged revenue model (classifieds/e-commerce/retail-outlet), and whether the stack was Go-exclusive -- rather than passively accepting the pitch."
     }
+  ],
+  "2026-09-10": [
+    {
+      "meetingTitle": "Weekly TA team catchup and updates",
+      "type": "General internal meeting",
+      "emailThreadId": "1a089948136eb331",
+      "discussionSummary": "Weekly TA team sync. Jyoti walked the team through the newly-live Equip↔SmartRecruiter integration (select the assessment package on the job, publish the job, move only genuinely-selected candidates to the \"test assignment\" stage since that auto-triggers the test invite; new Equip tests take ~24h to sync). Nikhil then ran a round-up: confirm the Lacoustics/Laku6 usage-tracking item is closed with Christine; today's Equip account-manager training call is happening; LinkedIn will NOT be renewed (quote came back ~25% higher) so an à-la-carte/replacement path must be scoped and closed within September ahead of AOP budgeting; Nikhil will be remote from India and largely out for two weeks but reachable for approvals; Jenna and Christine have overlapping end-of-September leave needing backup coverage; AJ's and Vlad's open roles were flagged as most critical, plus Chung separately asked for more velocity on a few roles. Chelsea reminded the team about a new Claude-based \"offer scale\" tool that checks a draft offer before it goes up the sign-off chain -- already shared with everyone except Dama.",
+      "actionItems": [
+        "Chelsea: confirm with Christine that Lacoustics/Laku6 credit-usage tracking is fully closed",
+        "Chelsea (with AJ): scope and close the LinkedIn à-la-carte/replacement path (usage-per-country, job-wrapping and Pages clarification) within September, ahead of AOP budgeting",
+        "Jenna & Christine: arrange backup coverage for their overlapping end-of-September leave",
+        "AJ: push to close his critical open role (coordinating with a candidate in Japan)",
+        "Chelsea: share the \"offer scale\" Claude skill with Dama"
+      ],
+      "conversationHighlight": "Nikhil was blunt about the LinkedIn timeline: everything must close in September because AOP budgeting is coming and getting sign-off (Chong, others) takes real socializing time -- \"please don't last minute, like equip\"."
+    }
   ]
 }

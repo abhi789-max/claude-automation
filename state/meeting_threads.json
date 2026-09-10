@@ -178,5 +178,14 @@
     "meetingId": "AmQ2yQ3DZepj3OJbIAvl",
     "emailThreadId": "1a084bbf074321f4",
     "lastHandledTs": "1788951117.850449"
+  },
+  {
+    "threadTs": "1789027892.709479",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "type": "General internal meeting",
+    "meetingId": "l6cx2g5Ro0hyrp2b42GU",
+    "emailThreadId": "1a089948136eb331",
+    "lastHandledTs": "1789027892.709479"
   }
 ]

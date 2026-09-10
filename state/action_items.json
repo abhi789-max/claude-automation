@@ -636,5 +636,60 @@
     "createdAt": "2026-09-09T12:35:18Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 59,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a089948136eb331",
+    "description": "Confirm with Christine that Lacoustics/Laku6 credit-usage tracking is fully closed",
+    "owner": "Chelsea",
+    "status": "open",
+    "createdAt": "2026-09-10T04:30:05Z",
+    "nudgeThreadTs": "1789027959.414799",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 60,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a089948136eb331",
+    "description": "Scope and close the LinkedIn à-la-carte/replacement path (usage-per-country, job-wrapping and Pages clarification) within September, ahead of AOP budgeting",
+    "owner": "Chelsea (with AJ)",
+    "status": "open",
+    "createdAt": "2026-09-10T04:30:05Z",
+    "nudgeThreadTs": "1789027959.414799",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 61,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a089948136eb331",
+    "description": "Arrange backup coverage for their overlapping end-of-September leave",
+    "owner": "Jenna & Christine",
+    "status": "open",
+    "createdAt": "2026-09-10T04:30:05Z",
+    "nudgeThreadTs": "1789027959.414799",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 62,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a089948136eb331",
+    "description": "Push to close his critical open role (coordinating with a candidate in Japan)",
+    "owner": "AJ",
+    "status": "open",
+    "createdAt": "2026-09-10T04:30:05Z",
+    "nudgeThreadTs": "1789027959.414799",
+    "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 63,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a089948136eb331",
+    "description": "Share the \"offer scale\" Claude skill with Dama",
+    "owner": "Chelsea",
+    "status": "open",
+    "createdAt": "2026-09-10T04:30:05Z",
+    "nudgeThreadTs": "1789027959.414799",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]
