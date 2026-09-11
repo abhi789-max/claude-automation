@@ -341,6 +341,16 @@
       "conversationHighlight": "Candidate probed Carousell's fundamentals before engaging on logistics -- asking pointed questions about monthly traffic, the three-pronged revenue model (classifieds/e-commerce/retail-outlet), and whether the stack was Go-exclusive -- rather than passively accepting the pitch."
     }
   ],
+  "2026-09-11": [
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a08f6d650a30901",
+      "discussionSummary": "Orientation/exploratory call between Abhishek Gurani and candidate Prateek Agarwal (Delhi-based, currently at Snapdeal/AceVector Group) for the same Lead Software Engineer role (Pro-Seller vertical) screened earlier with Anshul Garg, Divyanshu Soni, Divyanshu Dadheech, and Sajid Dayer. Mostly Abhishek pitching Carousell's business model, org structure, and the 5-round interview process, but unlike the other four candidates for this req, a real segment probed Prateek's own systems: 5 years at Snapdeal leading a team of 3, personally owning the order-payable system and seller-payments components (~5 lakh orders/day, ~5M transactions/day on payments) plus the catalog/listing pipeline, on a Java/Spring Boot/AWS/Kafka/MySQL/Redis stack, including a named AWS migration that cut infra cost ~38%. Notice period 60 days (negotiable to 30); current comp 29 LPA fixed with no stated expectation, comp discussion deferred by both sides. Take-home assignment and JD already shared over email during the call.",
+      "actionItems": [],
+      "conversationHighlight": "Candidate volunteered his own Kafka/Redis experience unprompted the moment Abhishek described Carousell's stack (\"I'm also using Kafka and Redis... similar architecture\") — a direct, specific stack-overlap signal rather than a generic nod."
+    }
+  ],
   "2026-09-10": [
     {
       "meetingTitle": "Weekly TA team catchup and updates",
