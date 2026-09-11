@@ -691,5 +691,27 @@
     "createdAt": "2026-09-10T04:30:05Z",
     "nudgeThreadTs": "1789027959.414799",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 64,
+    "meetingTitle": "{Confirmed} : : Debrief : : LSE : : Goutam Bose",
+    "emailThreadId": "1a08fd6b9b309e5a",
+    "description": "Move fast on next steps given the flight-risk signal -- line up the comparison against the second LSE candidate for a decision by early next week",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-11T09:40:07Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 65,
+    "meetingTitle": "{Confirmed} : : Debrief : : LSE : : Goutam Bose",
+    "emailThreadId": "1a08fd6b9b309e5a",
+    "description": "Make sure the team frames expectations correctly -- an entry-level JL5 profile (strong narrow depth) rather than a fully well-rounded JL5, if this hire proceeds",
+    "owner": "Naveen",
+    "status": "open",
+    "createdAt": "2026-09-11T09:40:07Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

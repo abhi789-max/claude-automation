@@ -187,5 +187,14 @@
     "meetingId": "l6cx2g5Ro0hyrp2b42GU",
     "emailThreadId": "1a089948136eb331",
     "lastHandledTs": "1789027892.709479"
+  },
+  {
+    "threadTs": "1789121516.368849",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "{Confirmed} : : Debrief : : LSE : : Goutam Bose",
+    "type": "General internal meeting",
+    "meetingId": "JOAozstyLc7clLDuX06U",
+    "emailThreadId": "1a08fd6b9b309e5a",
+    "lastHandledTs": "1789121516.368849"
   }
 ]
