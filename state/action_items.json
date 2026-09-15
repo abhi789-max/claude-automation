@@ -82,9 +82,9 @@
     "emailThreadId": "1a03d67caef6f814",
     "description": "Share and formally document the six-step Carousell hiring process with Sheryl and the wider team",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-26T10:08:00Z",
-    "nudgeThreadTs": "1787746521.687399",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -93,9 +93,9 @@
     "emailThreadId": "191da5ff8baa96b6",
     "description": "Correlate interview feedback with the role requirement and pass it to Christine",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-26T17:09:40Z",
-    "nudgeThreadTs": "1787818228.222269",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -104,9 +104,9 @@
     "emailThreadId": "191da5ff8baa96b6",
     "description": "Connect with Sheryl on LinkedIn and follow up with feedback/decision",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-26T17:09:40Z",
-    "nudgeThreadTs": "1787818228.222269",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -115,9 +115,9 @@
     "emailThreadId": "1a041e95ee06883a",
     "description": "Push the Equip vendor for contract sign-off (respond by 3pm cutoff today; loop in AG at 3:30pm if silent)",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-27T06:30:06Z",
-    "nudgeThreadTs": "1787818228.222269",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -126,9 +126,9 @@
     "emailThreadId": "1a041e95ee06883a",
     "description": "Finish rechecking all Equip test cases/compilers and rename tests per Christine's suggestion; confirm completion to Nikhil",
     "owner": "Jyoti",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-27T06:30:06Z",
-    "nudgeThreadTs": "1787818228.222269",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -137,9 +137,9 @@
     "emailThreadId": "1a041e95ee06883a",
     "description": "Own Equip credit-usage tracking going forward -- get account manager training call post-signing, explore automating a Slack usage/top-up alert",
     "owner": "Jyoti",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-27T06:30:06Z",
-    "nudgeThreadTs": "1787818228.222269",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -148,9 +148,9 @@
     "emailThreadId": "1a041e95ee06883a",
     "description": "Inform the \"automate\" team once the Equip contract is fully signed and closed",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-27T06:30:06Z",
-    "nudgeThreadTs": "1787818228.222269",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -159,9 +159,9 @@
     "emailThreadId": "1a0424e0b8898b21",
     "description": "Share hiring-manager interview time slots with Manesh Chaturvedi for early next week",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-27T09:11:53Z",
-    "nudgeThreadTs": "1787832746.467639",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -170,20 +170,20 @@
     "emailThreadId": "1a0424e0b8898b21",
     "description": "Create Manesh Chaturvedi's ATS profile once his CV/experience write-up arrives",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-27T09:11:53Z",
-    "nudgeThreadTs": "1787832746.467639",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 17,
     "meetingTitle": "Abhishek & Nik - weekly catchup",
     "emailThreadId": "1a0561051f99f30a",
-    "description": "Pick up internship-program coverage from Jannah during her Sept 28 – Oct 9 honeymoon leave",
+    "description": "Pick up internship-program coverage from Jannah during her Sept 28 \u2013 Oct 9 honeymoon leave",
     "owner": "Jyoti",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-31T04:25:03Z",
-    "nudgeThreadTs": "1788163870.105819",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -192,9 +192,9 @@
     "emailThreadId": "1a056b08d0ec280c",
     "description": "Finish adding all remaining Equip test questions/screenshots and complete testing by end of day (with Chelsea's help)",
     "owner": "Jyoti",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-31T07:20:04Z",
-    "nudgeThreadTs": "1788163870.105819",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -203,9 +203,9 @@
     "emailThreadId": "1a056b08d0ec280c",
     "description": "Respond to Terry's two outstanding contract questions and push him firmly for a fast turnaround",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-31T07:20:04Z",
-    "nudgeThreadTs": "1788163870.105819",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -214,9 +214,9 @@
     "emailThreadId": "1a056b08d0ec280c",
     "description": "Resolve the pending Equip-side technical workaround with Christine today",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-31T07:20:04Z",
-    "nudgeThreadTs": "1788163870.105819",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -225,9 +225,9 @@
     "emailThreadId": "1a056b08d0ec280c",
     "description": "Push to close the vendor contract (legal revisions) today or by tomorrow, before Sept 2",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-08-31T07:20:04Z",
-    "nudgeThreadTs": "1788163870.105819",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -236,9 +236,9 @@
     "emailThreadId": "1a05bbb6ce406a31",
     "description": "Get internal approval on the 17.5 LPA fixed comp figure and come back to Atharva Khot with final numbers",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-01T08:12:15Z",
-    "nudgeThreadTs": "1788250381.163829",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -247,9 +247,9 @@
     "emailThreadId": "1a05bbb6ce406a31",
     "description": "Follow up with Atharva Khot via WhatsApp",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-01T08:12:15Z",
-    "nudgeThreadTs": "1788250381.163829",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -258,9 +258,9 @@
     "emailThreadId": "1a061f470704188d",
     "description": "Pass Amit Kesari's conversation notes to the CTO for review",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-02T12:12:07Z",
-    "nudgeThreadTs": "1788351202.076709",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -269,9 +269,9 @@
     "emailThreadId": "1a061f470704188d",
     "description": "Get Amit Kesari's CV once he sends it, and set up the bi-directional hiring-manager screening call",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-02T12:12:07Z",
-    "nudgeThreadTs": "1788351202.076709",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -280,9 +280,9 @@
     "emailThreadId": "1a065d135453c63c",
     "description": "Check whether the senior candidate is open to relocating before sharing his profile further",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-03T05:50:03Z",
-    "nudgeThreadTs": "1788423249.714719",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -291,9 +291,9 @@
     "emailThreadId": "1a065d135453c63c",
     "description": "Share the technical-round candidate batch with Patnaik for review",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-03T05:50:03Z",
-    "nudgeThreadTs": "1788423249.714719",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -302,9 +302,9 @@
     "emailThreadId": "1a065f5d498fdff7",
     "description": "Push Christine hard to resolve the outstanding technical bridge issue; loop in Abhishek if it stalls",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-03T06:30:03Z",
-    "nudgeThreadTs": "1788423249.714719",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -476,7 +476,7 @@
     "seq": 44,
     "meetingTitle": "LinkedIn Renewal",
     "emailThreadId": "1a07a93d6572fc9f",
-    "description": "Confirm à la carte LinkedIn product limits (seat types, bundled vs. extra) before finalizing the usage grid",
+    "description": "Confirm \u00e0 la carte LinkedIn product limits (seat types, bundled vs. extra) before finalizing the usage grid",
     "owner": "Chelsea & Abhishek",
     "status": "done",
     "createdAt": "2026-09-07T06:35:02Z",
@@ -599,9 +599,9 @@
     "emailThreadId": "1a085731bd43c901",
     "description": "Send the second-brain/Builder OS slides back to the group",
     "owner": "Sarah Ho",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T09:15:08Z",
-    "nudgeThreadTs": "1788955934.089259",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -610,9 +610,9 @@
     "emailThreadId": "1a085731bd43c901",
     "description": "Come prepared with a deck to demo his Tactiq recruiting-automation workflow at the next AI-sharing session (~2 weeks out)",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T09:15:08Z",
-    "nudgeThreadTs": "1788955934.089259",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -621,9 +621,9 @@
     "emailThreadId": "1a0846e1e4177403",
     "description": "Check internal budget and follow up with Divyanshu Dadheech via WhatsApp with final compensation numbers",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T11:13:35Z",
-    "nudgeThreadTs": "1788955934.089259",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -632,9 +632,9 @@
     "emailThreadId": "1a0846e1e4177403",
     "description": "Share the take-home assignment and job description with Sajid Dayer",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-09T12:35:18Z",
-    "nudgeThreadTs": "1789042315.176949",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -643,20 +643,20 @@
     "emailThreadId": "1a089948136eb331",
     "description": "Confirm with Christine that Lacoustics/Laku6 credit-usage tracking is fully closed",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-10T04:30:05Z",
-    "nudgeThreadTs": "1789027959.414799",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 60,
     "meetingTitle": "Weekly TA team catchup and updates",
     "emailThreadId": "1a089948136eb331",
-    "description": "Scope and close the LinkedIn à-la-carte/replacement path (usage-per-country, job-wrapping and Pages clarification) within September, ahead of AOP budgeting",
+    "description": "Scope and close the LinkedIn \u00e0-la-carte/replacement path (usage-per-country, job-wrapping and Pages clarification) within September, ahead of AOP budgeting",
     "owner": "Chelsea (with AJ)",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-10T04:30:05Z",
-    "nudgeThreadTs": "1789027959.414799",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -665,9 +665,9 @@
     "emailThreadId": "1a089948136eb331",
     "description": "Arrange backup coverage for their overlapping end-of-September leave",
     "owner": "Jenna & Christine",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-10T04:30:05Z",
-    "nudgeThreadTs": "1789027959.414799",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -676,9 +676,9 @@
     "emailThreadId": "1a089948136eb331",
     "description": "Push to close his critical open role (coordinating with a candidate in Japan)",
     "owner": "AJ",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-10T04:30:05Z",
-    "nudgeThreadTs": "1789027959.414799",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -687,9 +687,9 @@
     "emailThreadId": "1a089948136eb331",
     "description": "Share the \"offer scale\" Claude skill with Dama",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-10T04:30:05Z",
-    "nudgeThreadTs": "1789027959.414799",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -698,9 +698,9 @@
     "emailThreadId": "1a08fd6b9b309e5a",
     "description": "Move fast on next steps given the flight-risk signal -- line up the comparison against the second LSE candidate for a decision by early next week",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-11T09:40:07Z",
-    "nudgeThreadTs": "1789128745.101819",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -709,9 +709,9 @@
     "emailThreadId": "1a08fd6b9b309e5a",
     "description": "Make sure the team frames expectations correctly -- an entry-level JL5 profile (strong narrow depth) rather than a fully well-rounded JL5, if this hire proceeds",
     "owner": "Naveen",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-11T09:40:07Z",
-    "nudgeThreadTs": "1789128745.101819",
+    "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
   },
   {
@@ -720,7 +720,7 @@
     "emailThreadId": "1a0a3bd9047cdc6f",
     "description": "Check with Patnaik on including Tiger in the automation-tester EM round, then thank and release Sumit from further interviews",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-15T06:25:03Z",
     "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
@@ -731,7 +731,7 @@
     "emailThreadId": "1a0a3bd9047cdc6f",
     "description": "Confirm Tiger's and the Taiwan-based interviewer's availability for Friday/Monday 5pm KL-time round-two automation interviews",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-15T06:25:03Z",
     "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
@@ -742,7 +742,7 @@
     "emailThreadId": "1a0a3bd9047cdc6f",
     "description": "Build out the data-engineer candidate's notice-period engagement plan (reading materials, gestures, cross-team lunches)",
     "owner": "Sheryl & Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-15T06:25:03Z",
     "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
@@ -753,7 +753,7 @@
     "emailThreadId": "1a0a3bd9047cdc6f",
     "description": "Reschedule/confirm product-designer round-one interviews with Nicholas for Thursday (17th)",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-15T06:25:03Z",
     "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
@@ -764,7 +764,7 @@
     "emailThreadId": "1a0a3bd9047cdc6f",
     "description": "Hold off on progressing the new Product Manager role until formal approvals land",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-15T06:25:03Z",
     "nudgeThreadTs": "1789460064.766309",
     "nudgeChannelId": "D026A8WF8BY"
