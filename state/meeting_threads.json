@@ -196,5 +196,23 @@
     "meetingId": "JOAozstyLc7clLDuX06U",
     "emailThreadId": "1a08fd6b9b309e5a",
     "lastHandledTs": "1789121516.368849"
+  },
+  {
+    "threadTs": "1789459995.317179",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Team Cadence :: Preparation",
+    "type": "General internal meeting",
+    "meetingId": "xq1Pf7v20KqxQ1oL7lgj",
+    "emailThreadId": "1a0a37d7e6d8061f",
+    "lastHandledTs": "1789459995.317179"
+  },
+  {
+    "threadTs": "1789460008.976759",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Weekly Cadence",
+    "type": "General internal meeting",
+    "meetingId": "ji1nKFrlLJ4aRseB6wzT",
+    "emailThreadId": "1a0a3bd9047cdc6f",
+    "lastHandledTs": "1789460008.976759"
   }
 ]
