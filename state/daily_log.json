@@ -401,5 +401,17 @@
       ],
       "conversationHighlight": "Abhishek's framing of what Carousell/Muda interviews should actually probe for: not just technical correctness, but hunger, comfort with ambiguity, and active AI adoption -- \"we don't measure whether your idea will be successful, we measure whether you're bringing the things and discussing with the team.\""
     }
+  ],
+  "2026-09-17": [
+    {
+      "meetingTitle": "Exploratory Call :: Carousell <> Sachin",
+      "type": "Candidate interview",
+      "emailThreadId": "1a0aeaa8729d016a",
+      "discussionSummary": "Recruiter screen with Sachin Jambhulkar (Bangalore) for the same Director, Common Technology Foundation role as Anri Digholm, Manesh Chaturvedi, Amit Kesari, and Atin Mukherjee. Abhishek walked through Carousell's structure and the role's charter; Sachin (21 years experience, currently at Warner Bros Discovery leading a 7-engineer team) described two well-quantified platform/infra wins -- a cost-metering platform closing a ~$1.3M/year AWS cost-visibility gap, and an IDP (Spotify Backstage-based) won against a competing internal tool via a dogfood-then-onboard adoption strategy -- plus a detailed PagerDuty/postmortem incident-management practice. His AI/agentic answer stayed conceptual (a generic RAG-chatbot example) rather than a named personally-built system, and Abhishek gave him direct real-time feedback that his data-pipeline ownership needs sharper articulation before the CTO round. Comp: current ~85-86L CTC vs. an ask of ~1.2 CR; Carousell floated a soft ~1 CR ballpark. Next step: Abhishek to summarize and pass notes to the CTO to try to expedite a next round, possibly tomorrow.",
+      "actionItems": [
+        "Abhishek: summarize the conversation and pass notes to the CTO (hiring manager) to expedite scheduling the next round"
+      ],
+      "conversationHighlight": "Abhishek gave the candidate direct, real-time coaching feedback mid-process -- flagging that his data-pipeline/governance answers need to be more concretely articulated before the CTO round -- a more actively developmental move than the purely evaluative stance taken with other CTF candidates."
+    }
   ]
 }
