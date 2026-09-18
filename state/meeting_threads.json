@@ -214,5 +214,14 @@
     "meetingId": "ji1nKFrlLJ4aRseB6wzT",
     "emailThreadId": "1a0a3bd9047cdc6f",
     "lastHandledTs": "1789460008.976759"
+  },
+  {
+    "threadTs": "1789726254.181709",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "{Confirmed} : : Debrief : : Richa",
+    "type": "General internal meeting",
+    "meetingId": "wELRUXE95MxoRjEZL7v6",
+    "emailThreadId": "1a0b3d57accaa6dd",
+    "lastHandledTs": "1789726254.181709"
   }
 ]

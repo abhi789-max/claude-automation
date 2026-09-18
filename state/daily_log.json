@@ -402,6 +402,16 @@
       "conversationHighlight": "Abhishek's framing of what Carousell/Muda interviews should actually probe for: not just technical correctness, but hunger, comfort with ambiguity, and active AI adoption -- \"we don't measure whether your idea will be successful, we measure whether you're bringing the things and discussing with the team.\""
     }
   ],
+  "2026-09-18": [
+    {
+      "meetingTitle": "{Confirmed} : : Debrief : : Richa",
+      "type": "General internal meeting",
+      "emailThreadId": "1a0b3d57accaa6dd",
+      "discussionSummary": "Panel debrief for candidate Richa, considered for the Lead Software Engineer role in the Pro-Seller vertical (PSS). Harshit found her technically 'not extraordinary' and agreed three rounds was signal enough; Praveen found her technically competent but flagged a major product/business-understanding gap. Naveen's main concern was communication -- consistently 'overly verbose' answers needing repeated redirection, weighted heavily for a JL5 lead role others are expected to look up to. Naveen and Praveen both said they wouldn't be comfortable even at a JL4 bar. Consensus: reject, not viable even one level down.",
+      "actionItems": [],
+      "conversationHighlight": "Naveen explicitly invited Harshit -- the one panelist who might argue for her -- to make the case, and Harshit instead agreed the reject signal was clear rather than pushing back."
+    }
+  ],
   "2026-09-17": [
     {
       "meetingTitle": "Exploratory Call :: Carousell <> Sachin",
