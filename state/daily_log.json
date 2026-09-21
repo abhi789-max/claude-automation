@@ -423,5 +423,37 @@
       ],
       "conversationHighlight": "Abhishek gave the candidate direct, real-time coaching feedback mid-process -- flagging that his data-pipeline/governance answers need to be more concretely articulated before the CTO round -- a more actively developmental move than the purely evaluative stance taken with other CTF candidates."
     }
+  ],
+  "2026-09-21": [
+    {
+      "meetingTitle": "Abhishek & Nik - weekly catchup",
+      "type": "General internal meeting",
+      "emailThreadId": "1a0c2482b654d896",
+      "discussionSummary": "Mostly personal/family conversation (audio very poor); sparse legible recruiting fragments: an upcoming candidate meeting, an inbound-review/top-of-funnel discussion where Nikhil favored a candidate referred to as \"the Mercury guy,\" names Igor/Dulume/Calvin, a compensation/equity remark about closing a candidate, and mentions of a Senior Director (data science, Malaysia) role and a Director PM role.",
+      "actionItems": [],
+      "conversationHighlight": "Nikhil: \"We are, we should be able to close because he seems more inclined towards him.\""
+    },
+    {
+      "meetingTitle": "Team Cadence :: Preparation",
+      "type": "General internal meeting",
+      "emailThreadId": "1a0c25a78cacb631",
+      "discussionSummary": "Extremely short, heavily garbled working session (~514 characters). Legible fragments: calendar cleanup, a reference to \"2K interviews,\" something going live, and a rollout sign-off to India. No candidate assessed.",
+      "actionItems": [],
+      "conversationHighlight": null
+    },
+    {
+      "meetingTitle": "Weekly Cadence",
+      "type": "General internal meeting",
+      "emailThreadId": "1a0c29a8e84c6a16",
+      "discussionSummary": "Pipeline-cadence sync between Abhishek and Sheryl Oon across SPM (Monetization, accepted offer but shifting Nov 10 start date and flight-risk concern), Automation-tester (candidate Snehil positive from Tiger, comp ~12K MYR), Senior backend (candidate Afifa good first round, RPT visa status; a referred US-proximate candidate being chased), Product designer (narrow pipeline, needs more sourcing), and SRE (on-call/24x7 structure walkthrough, reporting lines into Venkat).",
+      "actionItems": [
+        "Abhishek: get the WhatsApp number for the referred senior-backend candidate and share it with Sheryl",
+        "Sheryl: get Tiger's full written feedback on automation candidate Snehil, then decide next-round format",
+        "Sheryl: follow up on the second senior-backend candidate's relocation openness",
+        "Sheryl: continue sourcing for the product designer, automation, and SRE pipelines",
+        "Abhishek: meet the SPM candidate this week to align on start date given the shifting timeline"
+      ],
+      "conversationHighlight": "Abhishek on the SPM candidate's shifting start date: \"If she is literally unwell... he could have shared it... already informed that on these matters.\""
+    }
   ]
 }
