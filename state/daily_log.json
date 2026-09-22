@@ -1,4 +1,22 @@
 {
+  "2026-09-22": [
+    {
+      "meetingTitle": "Exploratory Call :: Carousell <> Vaibhav",
+      "type": "Candidate interview",
+      "emailThreadId": "1a0c7856b22a1c8d",
+      "discussionSummary": "Pitch/orientation call with Vaibhav Anur (Bangalore-based) for the Director, Common Technology Foundation role — the sixth candidate screened for this req. Almost entirely Abhishek walking through Carousell's business model, group structure, and the role's group-wide platform/infra/data charter; Vaibhav asked sharp, well-targeted clarifying questions (IC vs. leadership scope, unification rationale across acquisitions, travel expectations, company financial health) and volunteered a relevant outside comparison (Twilio/Segment platform consolidation), but no competency or technical content on his own background was covered. He asked for 2-3 days to think it over before deciding whether to proceed to a bi-directional hiring-manager screening call.",
+      "actionItems": [],
+      "conversationHighlight": "Vaibhav quickly and independently grasped the role's core unification challenge — merging disparate acquisition infrastructure into one consistent platform — and drew an unprompted parallel to the Twilio/Segment consolidation, without yet being asked a single question about his own background."
+    },
+    {
+      "meetingTitle": "Catchup :: Naveen / Abhishek",
+      "type": "General internal meeting",
+      "emailThreadId": "1a0c7c581b59f152",
+      "discussionSummary": "Audio quality was very poor throughout (~11,000 characters, heavily fragmented, some Hindi-English code-switching), so this is a partial reconstruction. Pipeline review between Abhishek and hiring-side stakeholder Naveen Moorjani: a tech-lead candidate Naveen wants to \"take a bet on\" despite mixed signals; a possible echo of the external-help concern raised on a prior SE1 candidate (\"he doesn't know the basics... very likely he had help\") — possibly a follow-up on the Aashish SE1 case; an SE1-track candidate referenced as \"Gautam\"/\"Gotham\" (may be Goutam Bose, debriefed Sept 11) discussed alongside lateral SE1 hiring-bar concerns; Arvind's onboarding as Chota's technical lead confirmed for Oct 1; a broader India-vs-Singapore compensation-perception discussion (Naveen relaying a company view that Bangalore talent should be priced cheaper; Abhishek pushed back that this is really an Opex-control narrative rather than a layoffs-driven one), illustrated by a past near-miss losing a laid-off candidate to a competing Salesforce offer; and a livestream/e-commerce team update — order volume \"more than doubled\" within 6-7 months of a fresh team.",
+      "actionItems": [],
+      "conversationHighlight": "Naveen cited a concrete proof point for the recent hiring push: livestream/e-commerce order volume has more than doubled within 6-7 months of standing up a fresh team, framed as vindication (\"it is for a purpose that purpose is yielding results\") after some internal skepticism."
+    }
+  ],
   "2026-08-26": [
     {
       "meetingTitle": "Exploratory Call :: Carousell <> Anri",
