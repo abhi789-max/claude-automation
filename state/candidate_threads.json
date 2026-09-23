@@ -84,7 +84,7 @@
     "channelId": "D026A8WF8BY",
     "candidateName": "Divyanshu Dadheech",
     "roleKey": "lead software engineer pro seller vertical autos home services seller tools pods",
-    "roleLabel": "Lead Software Engineer — Pro Seller vertical (Autos / Home Services / Seller Tools pods)",
+    "roleLabel": "Lead Software Engineer \u2014 Pro Seller vertical (Autos / Home Services / Seller Tools pods)",
     "meetingId": "G4d1s0xXSNCkbyf2iEtv",
     "emailThreadId": "1a0846e1e4177403",
     "lastHandledTs": "1788952410.446489"
@@ -94,7 +94,7 @@
     "channelId": "D026A8WF8BY",
     "candidateName": "Sajid Dayer",
     "roleKey": "lead software engineer pro seller vertical autos home services seller tools pods",
-    "roleLabel": "Lead Software Engineer — Pro Seller vertical (Autos / Home Services / Seller Tools pods)",
+    "roleLabel": "Lead Software Engineer \u2014 Pro Seller vertical (Autos / Home Services / Seller Tools pods)",
     "meetingId": "j5pBnafaImYpUwyHD5Uw",
     "emailThreadId": "1a0846e1e4177403",
     "lastHandledTs": "1788959658.438049"
@@ -104,7 +104,7 @@
     "channelId": "D026A8WF8BY",
     "candidateName": "Prateek Agarwal",
     "roleKey": "lead software engineer pro seller vertical autos home services seller tools pods",
-    "roleLabel": "Lead Software Engineer — Pro Seller vertical (Autos / Home Services / Seller Tools pods)",
+    "roleLabel": "Lead Software Engineer \u2014 Pro Seller vertical (Autos / Home Services / Seller Tools pods)",
     "meetingId": "eiNQCfqfzIYNm7Pcsrxt",
     "emailThreadId": "1a08f6d650a30901",
     "lastHandledTs": "1789114337.960809"
@@ -128,5 +128,15 @@
     "meetingId": "Jgqyu4l41W4NHpIOMtW5",
     "emailThreadId": "1a0c7856b22a1c8d",
     "lastHandledTs": "1790064585.740229"
+  },
+  {
+    "threadTs": "1790152326.519799",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Ravishankar Lakshmanan",
+    "roleKey": "director common technology foundation",
+    "roleLabel": "Director, Common Technology Foundation",
+    "meetingId": "vzyJcobIUYnak3FN8pa0",
+    "emailThreadId": "manual:tactiq:vzyJcobIUYnak3FN8pa0",
+    "lastHandledTs": "1790152326.519799"
   }
 ]

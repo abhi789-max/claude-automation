@@ -834,5 +834,38 @@
     "createdAt": "2026-09-21T08:15:00Z",
     "nudgeThreadTs": "1790079029.738859",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 77,
+    "meetingTitle": "Exploratory Call :: Carousell <> Ravi",
+    "emailThreadId": "manual:tactiq:vzyJcobIUYnak3FN8pa0",
+    "description": "Get Ravishankar Lakshmanan's CV and create his ATS profile",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-23T10:32:06Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 78,
+    "meetingTitle": "Exploratory Call :: Carousell <> Ravi",
+    "emailThreadId": "manual:tactiq:vzyJcobIUYnak3FN8pa0",
+    "description": "Share hiring-manager (Igor Valensky) interview time slots and set up the screening call with Ravishankar",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-23T10:32:06Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 79,
+    "meetingTitle": "Exploratory Call :: Carousell <> Ravi",
+    "emailThreadId": "manual:tactiq:vzyJcobIUYnak3FN8pa0",
+    "description": "Share additional organization/people details with Ravishankar to help him prepare for the hiring-manager round",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-23T10:32:06Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
