@@ -775,7 +775,7 @@
     "emailThreadId": "1a0aeaa8729d016a",
     "description": "Summarize the conversation and pass notes to the CTO (hiring manager) to expedite scheduling the next round",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-17T10:10:46Z",
     "nudgeThreadTs": "1790237400.782709",
     "nudgeChannelId": "D026A8WF8BY"
@@ -786,7 +786,7 @@
     "emailThreadId": "1a0c29a8e84c6a16",
     "description": "Get the WhatsApp number for the referred senior-backend candidate and share it with Sheryl",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-21T08:15:00Z",
     "nudgeThreadTs": "1790237400.782709",
     "nudgeChannelId": "D026A8WF8BY"
@@ -797,7 +797,7 @@
     "emailThreadId": "1a0c29a8e84c6a16",
     "description": "Get Tiger's full written feedback on automation candidate Snehil, then decide next-round format (technical connect vs. straight to culture-fit)",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-21T08:15:00Z",
     "nudgeThreadTs": "1790237400.782709",
     "nudgeChannelId": "D026A8WF8BY"
@@ -808,7 +808,7 @@
     "emailThreadId": "1a0c29a8e84c6a16",
     "description": "Follow up on the second senior-backend candidate's relocation openness",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-21T08:15:00Z",
     "nudgeThreadTs": "1790237400.782709",
     "nudgeChannelId": "D026A8WF8BY"
@@ -819,7 +819,7 @@
     "emailThreadId": "1a0c29a8e84c6a16",
     "description": "Continue sourcing for the product designer, automation, and SRE pipelines",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-21T08:15:00Z",
     "nudgeThreadTs": "1790237400.782709",
     "nudgeChannelId": "D026A8WF8BY"
@@ -830,7 +830,7 @@
     "emailThreadId": "1a0c29a8e84c6a16",
     "description": "Meet the SPM candidate this week to align on start date given the shifting timeline",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-21T08:15:00Z",
     "nudgeThreadTs": "1790237400.782709",
     "nudgeChannelId": "D026A8WF8BY"
@@ -841,7 +841,7 @@
     "emailThreadId": "manual:tactiq:vzyJcobIUYnak3FN8pa0",
     "description": "Get Ravishankar Lakshmanan's CV and create his ATS profile",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T10:32:06Z",
     "nudgeThreadTs": "1790237400.782709",
     "nudgeChannelId": "D026A8WF8BY"
@@ -852,7 +852,7 @@
     "emailThreadId": "manual:tactiq:vzyJcobIUYnak3FN8pa0",
     "description": "Share hiring-manager (Igor Valensky) interview time slots and set up the screening call with Ravishankar",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T10:32:06Z",
     "nudgeThreadTs": "1790237400.782709",
     "nudgeChannelId": "D026A8WF8BY"
@@ -863,7 +863,7 @@
     "emailThreadId": "manual:tactiq:vzyJcobIUYnak3FN8pa0",
     "description": "Share additional organization/people details with Ravishankar to help him prepare for the hiring-manager round",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T10:32:06Z",
     "nudgeThreadTs": "1790237400.782709",
     "nudgeChannelId": "D026A8WF8BY"
