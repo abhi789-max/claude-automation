@@ -1076,5 +1076,71 @@
     "createdAt": "2026-09-24T05:17:48Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 99,
+    "meetingTitle": "Weekly Sync: Product Pipeline",
+    "emailThreadId": "manual:tactiq:99ySIYIO2aZsh3uDlumN",
+    "description": "Have a direct conversation with Jian about his repeated start-date slippage",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-24T06:32:01Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 100,
+    "meetingTitle": "Weekly Sync: Product Pipeline",
+    "emailThreadId": "manual:tactiq:99ySIYIO2aZsh3uDlumN",
+    "description": "Continue parallel India/Indonesia sourcing pipeline for the platform PM role",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-24T06:32:01Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 101,
+    "meetingTitle": "Weekly Sync: Product Pipeline",
+    "emailThreadId": "manual:tactiq:99ySIYIO2aZsh3uDlumN",
+    "description": "Push Dika for a decision given the ~1-month stall on Chung alignment",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-24T06:32:01Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 102,
+    "meetingTitle": "Weekly Sync: Product Pipeline",
+    "emailThreadId": "manual:tactiq:99ySIYIO2aZsh3uDlumN",
+    "description": "Explore Dribbble/Behance sourcing and cold outreach for the product designer role",
+    "owner": "Abhishek/Sheryl",
+    "status": "open",
+    "createdAt": "2026-09-24T06:32:01Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 103,
+    "meetingTitle": "{Confirmed} Senior Director Platform",
+    "emailThreadId": "manual:tactiq:VPFRa74GrbueuQ97wxa1",
+    "description": "Confirm time tomorrow for Igor/Kelvin/Rajat's deeper technical round with Henry",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-24T09:59:19Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 104,
+    "meetingTitle": "{Confirmed} Senior Director Platform",
+    "emailThreadId": "manual:tactiq:VPFRa74GrbueuQ97wxa1",
+    "description": "Probe Henry's data engineering/agentic-AI depth in the follow-up technical round",
+    "owner": "Igor/Kelvin/Rajat",
+    "status": "open",
+    "createdAt": "2026-09-24T09:59:19Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

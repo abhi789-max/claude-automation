@@ -304,5 +304,23 @@
     "meetingId": "nI32chVCIKc3nBeYaB4A",
     "emailThreadId": "manual:tactiq:nI32chVCIKc3nBeYaB4A",
     "lastHandledTs": "1790851710.084369"
+  },
+  {
+    "threadTs": "1790852373.329929",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Weekly Sync: Product Pipeline",
+    "type": "General internal meeting",
+    "meetingId": "99ySIYIO2aZsh3uDlumN",
+    "emailThreadId": "manual:tactiq:99ySIYIO2aZsh3uDlumN",
+    "lastHandledTs": "1790852373.329929"
+  },
+  {
+    "threadTs": "1790853032.988359",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "{Confirmed} Senior Director Platform",
+    "type": "General internal meeting",
+    "meetingId": "VPFRa74GrbueuQ97wxa1",
+    "emailThreadId": "manual:tactiq:VPFRa74GrbueuQ97wxa1",
+    "lastHandledTs": "1790853032.988359"
   }
 ]

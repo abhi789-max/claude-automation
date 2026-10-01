@@ -552,6 +552,30 @@
         "Sheryl: continue automation-tester process through Monday debrief"
       ],
       "conversationHighlight": "Sheryl, reflecting on India comp vs. overseas offers: \"I really feel like you should now exactly in India right now -- we should change country, make some money, and come back.\""
+    },
+    {
+      "meetingTitle": "Weekly Sync: Product Pipeline",
+      "type": "General internal meeting",
+      "emailThreadId": "manual:tactiq:99ySIYIO2aZsh3uDlumN",
+      "discussionSummary": "Product-role pipeline review. Platform PM candidate 'Jian' (backfilling Vincent at Senior PM1/JL5) pushed his start date twice, now to Nov 10 -- real commitment doubts, prompting a planned direct conversation and parallel India/Indonesia sourcing as a hedge, with openness to revoking the offer. Monetization PM deprioritized until the platform PM situation resolves. Product designer role has 2 candidates in loop; one declined after learning of biweekly Bhutan travel incompatible with childcare. Sourcing expanding to Dribbble/Behance and cold outreach at comparable product companies. 'Dika' hire flagged as stalled ~1 month awaiting Chung's alignment.",
+      "actionItems": [
+        "Abhishek: direct conversation with Jian about commitment/timeline next week",
+        "Sheryl: continue parallel India/Indonesia pipeline for platform PM as a hedge",
+        "Sheryl: push Dika for a decision given the 1-month stall",
+        "Abhishek/Sheryl: explore Dribbble/Behance sourcing and cold outreach for product designer"
+      ],
+      "conversationHighlight": "Sheryl contrasted Jian's wavering with her own past experience: when she resigned from TikTok, her manager tried to retain her, but she never left anyone in doubt about her commitment."
+    },
+    {
+      "meetingTitle": "{Confirmed} Senior Director Platform",
+      "type": "General internal meeting",
+      "emailThreadId": "manual:tactiq:VPFRa74GrbueuQ97wxa1",
+      "discussionSummary": "Hiring-panel debrief comparing two finalists (Henry from Mercari, Satwik from a startup background) for a Senior Director Platform role replacing Rajat. Henry: strong architecture communicator, admitted on direct probing he hadn't personally solved a specific hard technical problem; Naveen flagged he explicitly doesn't want to be the most technical person in the room, preferring top-down delegation -- a real gap against a role meant to be the org's technical anchor. No people-management red flags. Satwik: more hands-on/resourceful in scenario questions but gave a weak coaching example and rated 'liable but higher risk' on large-scale infra/platform depth. Panel leans toward Henry overall (Naveen, Kelvin); one more technical-depth conversation with Henry (with Rajat joining) scheduled before a final call.",
+      "actionItems": [
+        "Confirm time tomorrow for Igor/Kelvin/Rajat deeper technical round with Henry",
+        "Probe Henry's data/agentic-AI depth specifically in that follow-up"
+      ],
+      "conversationHighlight": "Naveen's structural concern about Henry: this role needs someone who can single-handedly architect and drive direction org-wide, and Henry 'may not be able to pull it off by themselves' without an equally senior architect partner alongside him."
     }
   ]
 }
