@@ -1230,5 +1230,27 @@
     "createdAt": "2026-09-28T10:00:44Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 113,
+    "meetingTitle": "Quick Sync :: Carousell <> Vaibhav",
+    "emailThreadId": "manual:tactiq:PLzy5iPkF5gkcHt0PdAA",
+    "description": "Review Vaibhav Anur's CV and discuss internally before deciding on the hiring-manager round",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-01T11:32:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 114,
+    "meetingTitle": "Quick Sync :: Carousell <> Vaibhav",
+    "emailThreadId": "manual:tactiq:PLzy5iPkF5gkcHt0PdAA",
+    "description": "In the hiring-manager round, directly probe Vaibhav Anur's readiness and appetite for 'manager of managers' scope",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-01T11:32:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

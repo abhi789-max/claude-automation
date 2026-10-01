@@ -168,5 +168,15 @@
     "meetingId": "ADYnR66mSbXtRxpgIlDM",
     "emailThreadId": "manual:tactiq:ADYnR66mSbXtRxpgIlDM",
     "lastHandledTs": "1790854035.362479"
+  },
+  {
+    "threadTs": "1790854320.484769",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Vaibhav Anur",
+    "roleKey": "director common technology foundation",
+    "roleLabel": "Director, Common Technology Foundation",
+    "meetingId": "PLzy5iPkF5gkcHt0PdAA",
+    "emailThreadId": "manual:tactiq:PLzy5iPkF5gkcHt0PdAA",
+    "lastHandledTs": "1790854320.484769"
   }
 ]

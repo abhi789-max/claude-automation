@@ -627,5 +627,18 @@
       ],
       "conversationHighlight": "Priyam built a 'skills over agents' framework -- domain teams write markdown skill definitions and guardrails while his platform centrally handles LLM routing, evaluation, and Slack integration -- solving real adoption chaos where teams had independently picked incompatible vector databases."
     }
+  ],
+  "2026-09-30": [
+    {
+      "meetingTitle": "Quick Sync :: Carousell <> Vaibhav",
+      "type": "Candidate interview",
+      "emailThreadId": "manual:tactiq:PLzy5iPkF5gkcHt0PdAA",
+      "discussionSummary": "Second call (deeper competency screen) with Vaibhav Anur for the Director, Common Technology Foundation role, following his Sept 22 exploratory call. Vaibhav (17 years experience) walked through his platform-engineering career: Twilio (IC turned manager of 7-10) owning a high-scale CDP streaming pipeline and leading an org-wide ~600-service Kubernetes migration off AWS lock-in, plus reliability sharding design and ~20-40% compute cost savings; then Rippling, leading a multi-quarter SRE initiative that cut MTTR from ~30 min to under 5, introduced a service mesh enabling SOC2-relevant service-to-service encryption, and drove site-wide Sev1 incidents to near zero. He is now a sole Principal Engineer (director-level IC/architect) for a ~150-person group, no longer directly people-managing, and described practical agentic-infrastructure work (a PR-generating provisioning agent), n8n automation, and LiteLLM-based cost governance. Notice period 60 days (negotiable); compensation is fixed ~82L plus a 2-year-capped ~20L/year retention bonus and an ~8L target performance bonus (paid far under target last year), no equity, and he said comp isn't a blocker. Abhishek flagged live that the role expects 'manager of managers' scope over senior, multicultural architects, which is ahead of Vaibhav's current pure-IC posture despite prior management experience. Shared his CV over email; warm, low-pressure close on both sides.",
+      "actionItems": [
+        "Abhishek: review Vaibhav Anur's CV and discuss internally before deciding on the hiring-manager round",
+        "Abhishek: in the hiring-manager round, directly probe Vaibhav's readiness and appetite for 'manager of managers' scope given his current pure-IC/architect posture"
+      ],
+      "conversationHighlight": "Abhishek raised the people-management scope question live and candidly rather than deferring it \u2014 flagging that the role expects managing senior, multicultural architects, a step up from Vaibhav's current individual-contributor architecture role, even though Vaibhav has prior direct management experience at Twilio and Rippling."
+    }
   ]
 }
