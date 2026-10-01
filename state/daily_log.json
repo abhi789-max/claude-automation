@@ -485,5 +485,73 @@
       ],
       "conversationHighlight": "Abhishek on the SPM candidate's shifting start date: \"If she is literally unwell... he could have shared it... already informed that on these matters.\""
     }
+  ],
+  "2026-09-23": [
+    {
+      "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+      "type": "General internal meeting",
+      "emailThreadId": "manual:tactiq:H67mIlrUoEgeoFtiygE0",
+      "discussionSummary": "Weekly recruiting pipeline review across 6+ open roles (automation tester, senior backend, SRE, product designer, senior UX, SPM, PM/monetization). Key threads: senior-backend offer stuck pending budget alignment; SRE sourcing widened after budget/seniority mismatches; SPM candidate's start date slipped from Oct 6 to Nov 3 (family emergency), prompting Abhishek to personally verify commitment and the team to build a backup pipeline; senior UX incumbent moved to a 6-month contract.",
+      "actionItems": [
+        "Abhishek: personally call the delayed SPM candidate this week to gauge genuine commitment",
+        "Sheryl: continue widening SRE sourcing given budget/seniority mismatches so far",
+        "Sheryl: finalize the second product-designer candidate's updated portfolio before sending",
+        "Abhishek/Sheryl: get Chung aligned before pushing Patnaik on the senior-backend comp decision"
+      ],
+      "conversationHighlight": "Nikhil described the stuck senior-backend comp negotiation as \"a chess game\" -- play it properly, since Abhishek already knows how."
+    },
+    {
+      "meetingTitle": "LinkedIn Sync",
+      "type": "General internal meeting",
+      "emailThreadId": "manual:tactiq:4OZblo0wQ1Xxj3mfPVsh",
+      "discussionSummary": "Working session on the LinkedIn renewal ahead of a ~30% price hike on the Enterprise plan. Weighed staying on Enterprise vs. downgrading to Recruiter Corporate (negotiable seats) vs. Recruiter Light (cheaper but no ATS integration, a blocker). Team survey showed strong preference to keep LinkedIn for tech/senior hiring; non-tech could shift to free aggregators. Reconfirmed 4 seats; the real cost lever is job-slot usage, not seat count. Next step: Chelsea to gather per-recruiter job-slot data before a wider team decision.",
+      "actionItems": [
+        "Chelsea: pull per-recruiter/per-entity job-slot usage data",
+        "Abhishek/Chelsea: hold wider team meeting once data is ready to finalize job-slot allocation",
+        "Abhishek: brief Nikhil on the Enterprise-vs-Corporate tradeoff",
+        "Chelsea: confirm with LinkedIn whether private job-wrap postings count against quota"
+      ],
+      "conversationHighlight": "Nikhil has already given the wider team a heads-up: if LinkedIn insists on the full 30% Enterprise hike, they're prepared to walk."
+    },
+    {
+      "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+      "type": "General internal meeting",
+      "emailThreadId": "manual:tactiq:4j0BJ0y1xtS5oMKiHPaY",
+      "discussionSummary": "Broad monthly People Team sync covering multiple workstreams: Future Business Leader program (first 2 FBLs deployed, campus recruitment drive planned, 2 interns starting), Builder OS moving into org-level AI coordination phase, September AI transformation dashboard launched (~180 workflows, 6 departments), Group AI Showcase format being retired for a more targeted one (Q4 event pushed to mid-November), Claude/AI tool cost and seat-allocation tracking starting, and the onboarding redesign fully relaunched Sept 21 with a new completion-tracking dashboard.",
+      "actionItems": [
+        "Align on new AI Showcase format before group-wide communication",
+        "Review finalized showcase format with Su Lin before announcing",
+        "Begin tracking Claude/AI tool cost and premium-seat allocation ROI",
+        "Continue tracking onboarding-program effectiveness via new completion dashboard"
+      ],
+      "conversationHighlight": "September's AI transformation dashboard launch revealed ~180 AI workflows built across 6 departments, with the People Team itself the single largest contributor."
+    }
+  ],
+  "2026-09-24": [
+    {
+      "meetingTitle": "Weekly TA team catchup and updates",
+      "type": "General internal meeting",
+      "emailThreadId": "manual:tactiq:LgnS5JYzn4WOtEkEJp6c",
+      "discussionSummary": "Weekly TA team round-robin pipeline/pulse check. Sheryl near-closing automation tester and senior data engineer roles, being handed 7-10 more roles as Muda's external contractors convert to internal perm staff. Ryan closed 2 roles with ~5 more in flight. Chelsea handling ~10 intern/regional roles, no blockers. Jyoti has backend + intern roles pending Igor's confirmation. Jannah juggling 13 Singapore roles plus Hong Kong intern roles. Christine fighting a security-team crisis alongside recruiting. Headline item: a Director-level role (India vs. Japan finalist, ~1,894-applicant funnel) has its debrief panel meeting that evening after Igor made a special in-person stop in Japan despite typhoon disruption.",
+      "actionItems": [
+        "Ryan: set up a recurring in-person update cadence with Chung",
+        "Sheryl: continue closing automation tester + senior data engineer; absorb incoming contractor-conversion roles",
+        "Jyoti: confirm intern role approvals with Igor before sourcing; push backend interviews without further slippage",
+        "Team: arrange mutual backup coverage while Jannah and Christine are on leave"
+      ],
+      "conversationHighlight": "Igor made a special stop in Japan despite a typhoon disrupting his flights, just to meet the Japan finalist for the Director-level role face-to-face before tonight's debrief."
+    },
+    {
+      "meetingTitle": "Weekly Cadence",
+      "type": "General internal meeting",
+      "emailThreadId": "manual:tactiq:nI32chVCIKc3nBeYaB4A",
+      "discussionSummary": "Abhishek and Sheryl worked through budget mismatches on the senior backend (Muda) role -- candidates sourced were consistently above budget at JL5/mentorship level -- and agreed to reframe it as an early-JL4 role, pulling from an existing JL3/JL4 pipeline rather than starting fresh. Also flagged a possible 1-year cooling-off/non-poach risk on a contractor-to-perm candidate. Automation tester candidate cleared culture fit with no concerns; meeting Chung/Traffic next, debrief Monday.",
+      "actionItems": [
+        "Abhishek: set up quick sync with Jyoti to review JL3/JL4 pool candidates for the reframed role",
+        "Sheryl: verify the cooling-off/non-poach risk on the contractor-to-perm candidate",
+        "Sheryl: continue automation-tester process through Monday debrief"
+      ],
+      "conversationHighlight": "Sheryl, reflecting on India comp vs. overseas offers: \"I really feel like you should now exactly in India right now -- we should change country, make some money, and come back.\""
+    }
   ]
 }
