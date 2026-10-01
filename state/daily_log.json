@@ -577,5 +577,18 @@
       ],
       "conversationHighlight": "Naveen's structural concern about Henry: this role needs someone who can single-handedly architect and drive direction org-wide, and Henry 'may not be able to pull it off by themselves' without an equally senior architect partner alongside him."
     }
+  ],
+  "2026-09-25": [
+    {
+      "meetingTitle": "Quick Sync :: On Anri and Satwik",
+      "type": "General internal meeting",
+      "emailThreadId": "manual:tactiq:jce8u8p5RpEiuDfhEVIT",
+      "discussionSummary": "Rajath Ramesh (the outgoing Director being backfilled) personally ran deeper technical rounds with both finalists, Henry and Satwik, for the Senior Director Platform role. Henry: competent descriptive knowledge of Mercari's platform/search setup, but struggled on open-ended design probes (image search, 2x QPS scaling) and was vague on agentic-engineering guardrails -- Rajath tagged him 'a maintainer' with no evidence of independently driving new technical direction. Satwik: reasonable agent-building vocabulary but couldn't go deeper on knowledge-base freshness or agent scoping, and proposed a questionable data-pipeline design (pre-aggregating before BigQuery ingestion via Redis) without justifying topic/partition choices. Rajath's verdict: of ~4-5 candidates he screened, only these two are real contenders and Henry edges out Satwik only slightly -- neither showed strong independent depth. Separately, Abhishek flagged the sourcing pipeline has slowed over the last 3 weeks, pool now ~95 people and narrowing after filtering for people-management experience.",
+      "actionItems": [
+        "Igor/Kelvin: sync later today to decide on Henry",
+        "Abhishek: continue sourcing given the narrowing pool"
+      ],
+      "conversationHighlight": "Rajath Ramesh noted this was his 'last official' day running candidate rounds before departing -- his technical verdict on both finalists carries extra weight as the person they're both being evaluated to replace."
+    }
   ]
 }

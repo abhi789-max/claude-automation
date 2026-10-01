@@ -322,5 +322,14 @@
     "meetingId": "VPFRa74GrbueuQ97wxa1",
     "emailThreadId": "manual:tactiq:VPFRa74GrbueuQ97wxa1",
     "lastHandledTs": "1790853032.988359"
+  },
+  {
+    "threadTs": "1790853655.731999",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Quick Sync :: On Anri and Satwik",
+    "type": "General internal meeting",
+    "meetingId": "jce8u8p5RpEiuDfhEVIT",
+    "emailThreadId": "manual:tactiq:jce8u8p5RpEiuDfhEVIT",
+    "lastHandledTs": "1790853655.731999"
   }
 ]

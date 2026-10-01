@@ -1142,5 +1142,27 @@
     "createdAt": "2026-09-24T09:59:19Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 105,
+    "meetingTitle": "Quick Sync :: On Anri and Satwik",
+    "emailThreadId": "manual:tactiq:jce8u8p5RpEiuDfhEVIT",
+    "description": "Sync with Kelvin to decide whether to proceed with Henry",
+    "owner": "Igor",
+    "status": "open",
+    "createdAt": "2026-09-25T04:00:42Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 106,
+    "meetingTitle": "Quick Sync :: On Anri and Satwik",
+    "emailThreadId": "manual:tactiq:jce8u8p5RpEiuDfhEVIT",
+    "description": "Continue sourcing given the narrowing candidate pool (~95 screened)",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-25T04:00:42Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
