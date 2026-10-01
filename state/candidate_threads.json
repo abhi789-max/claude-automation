@@ -158,5 +158,15 @@
     "meetingId": "Mi3KffkdYpr4wsYFfbFG",
     "emailThreadId": "manual:tactiq:Mi3KffkdYpr4wsYFfbFG",
     "lastHandledTs": "1790853949.877449"
+  },
+  {
+    "threadTs": "1790854035.362479",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Priyam Gupta",
+    "roleKey": "director common technology foundation",
+    "roleLabel": "Director, Common Technology Foundation",
+    "meetingId": "ADYnR66mSbXtRxpgIlDM",
+    "emailThreadId": "manual:tactiq:ADYnR66mSbXtRxpgIlDM",
+    "lastHandledTs": "1790854035.362479"
   }
 ]

@@ -1208,5 +1208,27 @@
     "createdAt": "2026-09-29T10:00:54Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 111,
+    "meetingTitle": "Exploratory Call :: Carousell <> Ramnik",
+    "emailThreadId": "manual:tactiq:ADYnR66mSbXtRxpgIlDM",
+    "description": "Summarize Priyam Gupta conversation for CTO review",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-28T10:00:44Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 112,
+    "meetingTitle": "Exploratory Call :: Carousell <> Ramnik",
+    "emailThreadId": "manual:tactiq:ADYnR66mSbXtRxpgIlDM",
+    "description": "Schedule hiring-manager bi-directional round with Priyam Gupta this week",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-28T10:00:44Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

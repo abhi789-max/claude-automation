@@ -614,5 +614,18 @@
       ],
       "conversationHighlight": "Qamar can join immediately if an offer works out -- already has a mutual understanding with his current CTO -- making him the fastest-moving CTF candidate on logistics so far."
     }
+  ],
+  "2026-09-28": [
+    {
+      "meetingTitle": "Exploratory Call :: Carousell <> Ramnik",
+      "type": "Candidate interview",
+      "emailThreadId": "manual:tactiq:ADYnR66mSbXtRxpgIlDM",
+      "discussionSummary": "Exploratory screen with Priyam Gupta (meeting mislabeled 'Ramnik' in Tactiq) for the Director, CTF role. Strongest, most systemic AI/agentic infrastructure evidence of any CTF candidate (multi-provider LLM routing layer, 'skills over agents' framework), plus quantified data-engineering impact (50->10 headcount via self-serve AI analytics) and real multi-region people leadership. Only 3 months into current role -- hiring manager and skip-level both left within a week of his joining, leaving him with a poor management-style fit; short probation-period notice (~7-10 days) creates a near-term window. No JD/framework shared yet.",
+      "actionItems": [
+        "Abhishek: summarize conversation for CTO review",
+        "Abhishek: schedule hiring-manager bi-directional round within the week"
+      ],
+      "conversationHighlight": "Priyam built a 'skills over agents' framework -- domain teams write markdown skill definitions and guardrails while his platform centrally handles LLM routing, evaluation, and Slack integration -- solving real adoption chaos where teams had independently picked incompatible vector databases."
+    }
   ]
 }
