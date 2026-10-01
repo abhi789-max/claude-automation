@@ -148,5 +148,15 @@
     "meetingId": "85iokpRLXf7cZ2JwEsUU",
     "emailThreadId": "manual:tactiq:85iokpRLXf7cZ2JwEsUU",
     "lastHandledTs": "1790853738.063869"
+  },
+  {
+    "threadTs": "1790853949.877449",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Qamar Ali Shaikh",
+    "roleKey": "director common technology foundation",
+    "roleLabel": "Director, Common Technology Foundation",
+    "meetingId": "Mi3KffkdYpr4wsYFfbFG",
+    "emailThreadId": "manual:tactiq:Mi3KffkdYpr4wsYFfbFG",
+    "lastHandledTs": "1790853949.877449"
   }
 ]

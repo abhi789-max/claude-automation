@@ -601,5 +601,18 @@
       ],
       "conversationHighlight": "Ramnik personally built a multi-agent infrastructure-as-code workflow at LinkedIn -- separate agents for manifest authoring, CI/CD, and observability -- the most concrete personally-built agentic system of any CTF candidate screened so far."
     }
+  ],
+  "2026-09-29": [
+    {
+      "meetingTitle": "Exploratory Call :: Carousell <> Qamar",
+      "type": "Candidate interview",
+      "emailThreadId": "manual:tactiq:Mi3KffkdYpr4wsYFfbFG",
+      "discussionSummary": "Exploratory screen with Qamar Ali Shaikh (VP Infrastructure Platforms at Zepto, ex-Dream11/Wayfair) for the Director, CTF role. Broadest people-management scope of any CTF candidate (60+ reports including directors/principal architects), two concrete AI/agentic systems built (SRE agents, internal knowledge-bot), immediate availability. Likely comp mismatch: his fixed CTC (Rs1.75 Cr) appears above Carousell's director band (~Rs1.3-1.4 Cr) -- Abhishek to confirm internally and come back with a ballpark. No JD/framework shared yet.",
+      "actionItems": [
+        "Abhishek: confirm Carousell's actual comp ceiling for this role internally",
+        "Abhishek: share a ballpark compensation number with Qamar by next day"
+      ],
+      "conversationHighlight": "Qamar can join immediately if an offer works out -- already has a mutual understanding with his current CTO -- making him the fastest-moving CTF candidate on logistics so far."
+    }
   ]
 }

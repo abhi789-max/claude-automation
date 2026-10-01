@@ -1186,5 +1186,27 @@
     "createdAt": "2026-09-25T06:00:43Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 109,
+    "meetingTitle": "Exploratory Call :: Carousell <> Qamar",
+    "emailThreadId": "manual:tactiq:Mi3KffkdYpr4wsYFfbFG",
+    "description": "Confirm Carousell's actual comp ceiling for the Director CTF role internally",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-29T10:00:54Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 110,
+    "meetingTitle": "Exploratory Call :: Carousell <> Qamar",
+    "emailThreadId": "manual:tactiq:Mi3KffkdYpr4wsYFfbFG",
+    "description": "Share a ballpark compensation number with Qamar Ali Shaikh",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-29T10:00:54Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
