@@ -1164,5 +1164,27 @@
     "createdAt": "2026-09-25T04:00:42Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 107,
+    "meetingTitle": "Exploratory Call :: Carousell <> Ramnik",
+    "emailThreadId": "manual:tactiq:85iokpRLXf7cZ2JwEsUU",
+    "description": "Set up hiring-manager screening call with Igor for Ramnik Bhatia early next week",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-25T06:00:43Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 108,
+    "meetingTitle": "Exploratory Call :: Carousell <> Ramnik",
+    "emailThreadId": "manual:tactiq:85iokpRLXf7cZ2JwEsUU",
+    "description": "Share CTO's LinkedIn profile with Ramnik ahead of the HM call",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-09-25T06:00:43Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

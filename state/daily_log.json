@@ -589,6 +589,17 @@
         "Abhishek: continue sourcing given the narrowing pool"
       ],
       "conversationHighlight": "Rajath Ramesh noted this was his 'last official' day running candidate rounds before departing -- his technical verdict on both finalists carries extra weight as the person they're both being evaluated to replace."
+    },
+    {
+      "meetingTitle": "Exploratory Call :: Carousell <> Ramnik",
+      "type": "Candidate interview",
+      "emailThreadId": "manual:tactiq:85iokpRLXf7cZ2JwEsUU",
+      "discussionSummary": "Exploratory screen with Ramnik Bhatia (LinkedIn's first infra hire, built the core-infra/control-plane team to 45 people) for the Director, CTF role. Strongest personally-built AI/agentic evidence of any CTF candidate to date (RAG co-pilot + multi-agent IaC workflow), plus a quantified $50-70M platform win. Not planning to join until after Diwali; prioritizing role scope over comp. No JD/framework shared yet.",
+      "actionItems": [
+        "Abhishek: set up HM screening call with Igor (CTO) for early next week",
+        "Abhishek: share CTO's LinkedIn profile with Ramnik ahead of that call"
+      ],
+      "conversationHighlight": "Ramnik personally built a multi-agent infrastructure-as-code workflow at LinkedIn -- separate agents for manifest authoring, CI/CD, and observability -- the most concrete personally-built agentic system of any CTF candidate screened so far."
     }
   ]
 }
