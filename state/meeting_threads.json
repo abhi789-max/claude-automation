@@ -376,5 +376,14 @@
     "meetingId": "P8LpBuNR6KuNnvj6xn2H",
     "emailThreadId": "1a10aea8f40e9ea6",
     "lastHandledTs": "1791190009.917919"
+  },
+  {
+    "threadTs": "1791200828.951299",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Sync on Snehil",
+    "type": "General internal meeting",
+    "meetingId": "UuDcrXKkutJBfY4MGWKE",
+    "emailThreadId": "1a10b81adb2031a7",
+    "lastHandledTs": "1791200828.951299"
   }
 ]
