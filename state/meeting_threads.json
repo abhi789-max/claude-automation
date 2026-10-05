@@ -358,5 +358,23 @@
     "meetingId": "DDcFS50UqOCmV52WJi5k",
     "emailThreadId": "1a10a85d00a4abd2",
     "lastHandledTs": "1791179205.054079"
+  },
+  {
+    "threadTs": "1791190001.330519",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Weekly Cadence",
+    "type": "General internal meeting",
+    "meetingId": "Jc0TEccX5HxVmIV7MGHO",
+    "emailThreadId": "1a10ae15ecb4496d",
+    "lastHandledTs": "1791190001.330519"
+  },
+  {
+    "threadTs": "1791190009.917919",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "LinkedIn Sync",
+    "type": "General internal meeting",
+    "meetingId": "P8LpBuNR6KuNnvj6xn2H",
+    "emailThreadId": "1a10aea8f40e9ea6",
+    "lastHandledTs": "1791190009.917919"
   }
 ]
