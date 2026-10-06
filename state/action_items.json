@@ -179,7 +179,7 @@
     "seq": 17,
     "meetingTitle": "Abhishek & Nik - weekly catchup",
     "emailThreadId": "1a0561051f99f30a",
-    "description": "Pick up internship-program coverage from Jannah during her Sept 28 – Oct 9 honeymoon leave",
+    "description": "Pick up internship-program coverage from Jannah during her Sept 28 \u2013 Oct 9 honeymoon leave",
     "owner": "Jyoti",
     "status": "done",
     "createdAt": "2026-08-31T04:25:03Z",
@@ -476,7 +476,7 @@
     "seq": 44,
     "meetingTitle": "LinkedIn Renewal",
     "emailThreadId": "1a07a93d6572fc9f",
-    "description": "Confirm à la carte LinkedIn product limits (seat types, bundled vs. extra) before finalizing the usage grid",
+    "description": "Confirm \u00e0 la carte LinkedIn product limits (seat types, bundled vs. extra) before finalizing the usage grid",
     "owner": "Chelsea & Abhishek",
     "status": "done",
     "createdAt": "2026-09-07T06:35:02Z",
@@ -652,7 +652,7 @@
     "seq": 60,
     "meetingTitle": "Weekly TA team catchup and updates",
     "emailThreadId": "1a089948136eb331",
-    "description": "Scope and close the LinkedIn à-la-carte/replacement path (usage-per-country, job-wrapping and Pages clarification) within September, ahead of AOP budgeting",
+    "description": "Scope and close the LinkedIn \u00e0-la-carte/replacement path (usage-per-country, job-wrapping and Pages clarification) within September, ahead of AOP budgeting",
     "owner": "Chelsea (with AJ)",
     "status": "done",
     "createdAt": "2026-09-10T04:30:05Z",
@@ -874,7 +874,7 @@
     "emailThreadId": "manual:tactiq:H67mIlrUoEgeoFtiygE0",
     "description": "Personally call the delayed SPM candidate this week to gauge genuine commitment",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T03:33:22Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -885,7 +885,7 @@
     "emailThreadId": "manual:tactiq:H67mIlrUoEgeoFtiygE0",
     "description": "Continue widening SRE sourcing given budget/seniority mismatches so far",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T03:33:22Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -896,7 +896,7 @@
     "emailThreadId": "manual:tactiq:H67mIlrUoEgeoFtiygE0",
     "description": "Finalize the second product-designer candidate's updated portfolio before sending",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T03:33:22Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -907,7 +907,7 @@
     "emailThreadId": "manual:tactiq:H67mIlrUoEgeoFtiygE0",
     "description": "Get Chung aligned before pushing Patnaik on the senior-backend comp decision",
     "owner": "Abhishek/Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T03:33:22Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -918,7 +918,7 @@
     "emailThreadId": "manual:tactiq:4OZblo0wQ1Xxj3mfPVsh",
     "description": "Pull per-recruiter/per-entity LinkedIn job-slot usage data",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T06:33:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -929,7 +929,7 @@
     "emailThreadId": "manual:tactiq:4OZblo0wQ1Xxj3mfPVsh",
     "description": "Hold wider team meeting once job-slot data is ready to finalize allocation",
     "owner": "Abhishek/Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T06:33:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -940,7 +940,7 @@
     "emailThreadId": "manual:tactiq:4OZblo0wQ1Xxj3mfPVsh",
     "description": "Brief Nikhil on the Enterprise-vs-Corporate LinkedIn tradeoff",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T06:33:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -951,7 +951,7 @@
     "emailThreadId": "manual:tactiq:4OZblo0wQ1Xxj3mfPVsh",
     "description": "Confirm with LinkedIn whether private job-wrap postings count against quota",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T06:33:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -962,7 +962,7 @@
     "emailThreadId": "manual:tactiq:4j0BJ0y1xtS5oMKiHPaY",
     "description": "Align on new AI Showcase format before group-wide communication",
     "owner": "Subhra / muda & Chotoji teams",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T08:01:56Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -973,7 +973,7 @@
     "emailThreadId": "manual:tactiq:4j0BJ0y1xtS5oMKiHPaY",
     "description": "Review finalized AI Showcase format with Su Lin before announcing",
     "owner": "Subhra",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T08:01:56Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -984,7 +984,7 @@
     "emailThreadId": "manual:tactiq:4j0BJ0y1xtS5oMKiHPaY",
     "description": "Begin tracking Claude/AI tool cost and premium-seat allocation ROI",
     "owner": "Huiyi",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T08:01:56Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -995,7 +995,7 @@
     "emailThreadId": "manual:tactiq:4j0BJ0y1xtS5oMKiHPaY",
     "description": "Continue tracking onboarding-program effectiveness via new completion dashboard",
     "owner": "Efarina/Marissa",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-23T08:01:56Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1006,7 +1006,7 @@
     "emailThreadId": "manual:tactiq:LgnS5JYzn4WOtEkEJp6c",
     "description": "Set up a recurring in-person update cadence with Chung on role status",
     "owner": "Ryan",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T04:02:19Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1017,7 +1017,7 @@
     "emailThreadId": "manual:tactiq:LgnS5JYzn4WOtEkEJp6c",
     "description": "Continue closing automation tester and senior data engineer roles; absorb incoming Muda contractor-conversion roles",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T04:02:19Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1028,7 +1028,7 @@
     "emailThreadId": "manual:tactiq:LgnS5JYzn4WOtEkEJp6c",
     "description": "Confirm intern role approvals with Igor before starting sourcing; push backend interviews without further slippage",
     "owner": "Jyoti",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T04:02:19Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1039,7 +1039,7 @@
     "emailThreadId": "manual:tactiq:LgnS5JYzn4WOtEkEJp6c",
     "description": "Arrange mutual backup coverage while Jannah and Christine are on leave",
     "owner": "TA team",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T04:02:19Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1050,7 +1050,7 @@
     "emailThreadId": "manual:tactiq:nI32chVCIKc3nBeYaB4A",
     "description": "Set up quick sync with Jyoti to review JL3/JL4 pool candidates for the reframed senior backend role",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T05:17:48Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1061,7 +1061,7 @@
     "emailThreadId": "manual:tactiq:nI32chVCIKc3nBeYaB4A",
     "description": "Verify cooling-off/non-poach risk on the contractor-to-perm candidate before proceeding",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T05:17:48Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1072,7 +1072,7 @@
     "emailThreadId": "manual:tactiq:nI32chVCIKc3nBeYaB4A",
     "description": "Continue automation-tester process through Monday debrief",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T05:17:48Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1083,7 +1083,7 @@
     "emailThreadId": "manual:tactiq:99ySIYIO2aZsh3uDlumN",
     "description": "Have a direct conversation with Jian about his repeated start-date slippage",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T06:32:01Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1094,7 +1094,7 @@
     "emailThreadId": "manual:tactiq:99ySIYIO2aZsh3uDlumN",
     "description": "Continue parallel India/Indonesia sourcing pipeline for the platform PM role",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T06:32:01Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1105,7 +1105,7 @@
     "emailThreadId": "manual:tactiq:99ySIYIO2aZsh3uDlumN",
     "description": "Push Dika for a decision given the ~1-month stall on Chung alignment",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T06:32:01Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1116,7 +1116,7 @@
     "emailThreadId": "manual:tactiq:99ySIYIO2aZsh3uDlumN",
     "description": "Explore Dribbble/Behance sourcing and cold outreach for the product designer role",
     "owner": "Abhishek/Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T06:32:01Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1127,7 +1127,7 @@
     "emailThreadId": "manual:tactiq:VPFRa74GrbueuQ97wxa1",
     "description": "Confirm time tomorrow for Igor/Kelvin/Rajat's deeper technical round with Henry",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T09:59:19Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1138,7 +1138,7 @@
     "emailThreadId": "manual:tactiq:VPFRa74GrbueuQ97wxa1",
     "description": "Probe Henry's data engineering/agentic-AI depth in the follow-up technical round",
     "owner": "Igor/Kelvin/Rajat",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-24T09:59:19Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1149,7 +1149,7 @@
     "emailThreadId": "manual:tactiq:jce8u8p5RpEiuDfhEVIT",
     "description": "Sync with Kelvin to decide whether to proceed with Henry",
     "owner": "Igor",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-25T04:00:42Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1160,7 +1160,7 @@
     "emailThreadId": "manual:tactiq:jce8u8p5RpEiuDfhEVIT",
     "description": "Continue sourcing given the narrowing candidate pool (~95 screened)",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-25T04:00:42Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1171,7 +1171,7 @@
     "emailThreadId": "manual:tactiq:85iokpRLXf7cZ2JwEsUU",
     "description": "Set up hiring-manager screening call with Igor for Ramnik Bhatia early next week",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-25T06:00:43Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1182,7 +1182,7 @@
     "emailThreadId": "manual:tactiq:85iokpRLXf7cZ2JwEsUU",
     "description": "Share CTO's LinkedIn profile with Ramnik ahead of the HM call",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-25T06:00:43Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1193,7 +1193,7 @@
     "emailThreadId": "manual:tactiq:Mi3KffkdYpr4wsYFfbFG",
     "description": "Confirm Carousell's actual comp ceiling for the Director CTF role internally",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-29T10:00:54Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1204,7 +1204,7 @@
     "emailThreadId": "manual:tactiq:Mi3KffkdYpr4wsYFfbFG",
     "description": "Share a ballpark compensation number with Qamar Ali Shaikh",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-29T10:00:54Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1215,7 +1215,7 @@
     "emailThreadId": "manual:tactiq:ADYnR66mSbXtRxpgIlDM",
     "description": "Summarize Priyam Gupta conversation for CTO review",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-28T10:00:44Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1226,7 +1226,7 @@
     "emailThreadId": "manual:tactiq:ADYnR66mSbXtRxpgIlDM",
     "description": "Schedule hiring-manager bi-directional round with Priyam Gupta this week",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-09-28T10:00:44Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1237,7 +1237,7 @@
     "emailThreadId": "manual:tactiq:PLzy5iPkF5gkcHt0PdAA",
     "description": "Review Vaibhav Anur's CV and discuss internally before deciding on the hiring-manager round",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-01T11:32:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1248,7 +1248,7 @@
     "emailThreadId": "manual:tactiq:PLzy5iPkF5gkcHt0PdAA",
     "description": "In the hiring-manager round, directly probe Vaibhav Anur's readiness and appetite for 'manager of managers' scope",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-01T11:32:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1259,7 +1259,7 @@
     "emailThreadId": "1a10a613013e4f0d",
     "description": "Confirm go-ahead and get Gene added to the group for the offer discussion",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T04:48:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1270,7 +1270,7 @@
     "emailThreadId": "1a10a613013e4f0d",
     "description": "Start building the offer package (~23+ with relocation joining bonus) once approved",
     "owner": "Abhishek/Nik",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T04:48:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1279,9 +1279,9 @@
     "seq": 117,
     "meetingTitle": "Weekly Cadence",
     "emailThreadId": "1a10ae15ecb4496d",
-    "description": "Broaden senior-backend pipeline (Malaysia/Java internet-domain profiles) and check comp bracket with 1–2 candidates first",
+    "description": "Broaden senior-backend pipeline (Malaysia/Java internet-domain profiles) and check comp bracket with 1\u20132 candidates first",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1292,7 +1292,7 @@
     "emailThreadId": "1a10ae15ecb4496d",
     "description": "Tag email-sourced profiles as 'CRM' and LinkedIn Recruiter profiles correctly in the ATS",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1303,7 +1303,7 @@
     "emailThreadId": "1a10ae15ecb4496d",
     "description": "Ping Jyoti for SE2 candidates and share the referred backend candidate's CV with Sheryl",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1314,7 +1314,7 @@
     "emailThreadId": "1a10ae15ecb4496d",
     "description": "WhatsApp the automation-tester candidate for his floor number; discuss offer with Sheryl ~5:30pm",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1325,7 +1325,7 @@
     "emailThreadId": "1a10ae15ecb4496d",
     "description": "Build India-vs-Malaysia purchasing-power/cost-of-living comparison for the automation-tester candidate",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1336,7 +1336,7 @@
     "emailThreadId": "1a10ae15ecb4496d",
     "description": "Start sourcing backup automation-tester candidates",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1347,7 +1347,7 @@
     "emailThreadId": "1a10ae15ecb4496d",
     "description": "Source senior UX researcher at JL5/JL6, open to non-local Asia-based candidates with spoken Bahasa",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1358,7 +1358,7 @@
     "emailThreadId": "1a10ae15ecb4496d",
     "description": "Get Chung's approval on the PM (replacement) role once he is back from leave",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1369,7 +1369,7 @@
     "emailThreadId": "1a10ae15ecb4496d",
     "description": "Arrange senior-backend round 2 with Zakir once he is back; keep candidate warm",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1378,9 +1378,9 @@
     "seq": 126,
     "meetingTitle": "LinkedIn Sync",
     "emailThreadId": "1a10aea8f40e9ea6",
-    "description": "Build four-column LinkedIn comparison in Excel (Enterprise / HEP / à la carte 6 seats+40 slots / Recruiter Lite) with benefits and cost, ready by Wednesday (Oct 7)",
+    "description": "Build four-column LinkedIn comparison in Excel (Enterprise / HEP / \u00e0 la carte 6 seats+40 slots / Recruiter Lite) with benefits and cost, ready by Wednesday (Oct 7)",
     "owner": "Chelsea/Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1391,7 +1391,7 @@
     "emailThreadId": "1a10aea8f40e9ea6",
     "description": "Prepare per-entity LinkedIn cost apportionment (Carousell / Lacoustics / Muda)",
     "owner": "Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1402,7 +1402,7 @@
     "emailThreadId": "1a10aea8f40e9ea6",
     "description": "Justify the 40 LinkedIn job slots (incl. the 10-slot request)",
     "owner": "Abhishek/Chelsea",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T08:58:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1413,7 +1413,7 @@
     "emailThreadId": "1a10b81adb2031a7",
     "description": "Keep building rapport with Snehil, reinforce stability/growth story, decide whether to loop Patnaik in for a roadmap chat",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T11:50:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1424,7 +1424,7 @@
     "emailThreadId": "1a10b81adb2031a7",
     "description": "Close Snehil within the 14K-15K RM band with variable bonus on top",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T11:50:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1435,7 +1435,7 @@
     "emailThreadId": "1a10b81adb2031a7",
     "description": "Keep sourcing backup candidates while Snehil decides",
     "owner": "Sheryl/Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-05T11:50:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1446,7 +1446,7 @@
     "emailThreadId": "1a10fbe76f802430",
     "description": "Share the DS JD with Shannon today, then post the role live after her tweaks",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T05:48:17Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1457,7 +1457,7 @@
     "emailThreadId": "1a10fbe76f802430",
     "description": "Tweak and return the DS JD; send further subjective/character requirements",
     "owner": "Shannon",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T05:48:17Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1468,7 +1468,7 @@
     "emailThreadId": "1a10fbe76f802430",
     "description": "Send interview panel names for Tech 1 and Tech 2",
     "owner": "Shannon",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T05:48:17Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1479,7 +1479,7 @@
     "emailThreadId": "1a10fbe76f802430",
     "description": "Get added to the DS hiring group chat and share shortlisted profiles there via Smart Recruiters",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T05:48:17Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1490,7 +1490,7 @@
     "emailThreadId": "1a10fbe76f802430",
     "description": "Start inbound review and outbound sourcing for DS role; schedule interviews on Mon/Tue/Thu",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T05:48:17Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1501,7 +1501,7 @@
     "emailThreadId": "1a10fec4a0b6a80a",
     "description": "Meet candidate Friday on PSS feedback and run the offer discussion with Gotham",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T07:50:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1512,7 +1512,7 @@
     "emailThreadId": "1a10fec4a0b6a80a",
     "description": "Set up SE1 hiring-manager discussion with Arvin (James replacement)",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T07:50:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1523,7 +1523,7 @@
     "emailThreadId": "1a10fec4a0b6a80a",
     "description": "Set up the proctored physical-round pilot (Singapore room + Bangalore coordinator) from next week",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T07:50:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1534,7 +1534,7 @@
     "emailThreadId": "1a10fec4a0b6a80a",
     "description": "Build/propose a hiring-pipeline visibility board for stakeholders and flag the HAF approval bottleneck to Gene",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T07:50:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1545,7 +1545,7 @@
     "emailThreadId": "1a10fec4a0b6a80a",
     "description": "Keep a Plan B candidate pipeline (incl. AI-experienced profiles) alongside the lead candidate",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T07:50:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
@@ -1556,7 +1556,7 @@
     "emailThreadId": "1a10fec4a0b6a80a",
     "description": "Share names (e.g. Vinod) for candidate-facing AI-utilization stories; ask Rohini to nudge Pjwal to book flights",
     "owner": "Naveen",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-06T07:50:00Z",
     "nudgeThreadTs": "1791272817.124289",
     "nudgeChannelId": "D026A8WF8BY"
