@@ -385,5 +385,14 @@
     "meetingId": "UuDcrXKkutJBfY4MGWKE",
     "emailThreadId": "1a10b81adb2031a7",
     "lastHandledTs": "1791200828.951299"
+  },
+  {
+    "threadTs": "1791265686.419949",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Intake Meeting on DS role :: Shannon / Abhishek",
+    "type": "General internal meeting",
+    "meetingId": "mjgi6ncBZbGf5ZLhw1dh",
+    "emailThreadId": "1a10fbe76f802430",
+    "lastHandledTs": "1791265686.419949"
   }
 ]

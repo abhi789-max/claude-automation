@@ -711,5 +711,21 @@
       ],
       "conversationHighlight": "Team agreed Amazon wins on comp, so pitch rests on overseas move, stability and growth path."
     }
+  ],
+  "2026-10-06": [
+    {
+      "meetingTitle": "Intake Meeting on DS role :: Shannon / Abhishek",
+      "type": "General internal meeting",
+      "emailThreadId": "1a10fbe76f802430",
+      "discussionSummary": "Intake with Shannon Chan for a Singapore L3 Data Scientist backfill: engineer-first profile, Chinese fluency and e-commerce search/recs preferred, 3-round process (no-AI coding, AI-judgment case, culture), flagged a pre-AI-era graduate preference as potentially biased.",
+      "actionItems": [
+        "Abhishek: Share the DS JD with Shannon today, then post the role live after her tweaks",
+        "Shannon: Tweak and return the DS JD; send further subjective/character requirements",
+        "Shannon: Send interview panel names for Tech 1 and Tech 2",
+        "Abhishek: Get added to the DS hiring group chat and share shortlisted profiles there via Smart Recruiters",
+        "Abhishek: Start inbound review and outbound sourcing for DS role; schedule interviews on Mon/Tue/Thu"
+      ],
+      "conversationHighlight": "Shannon admitted the 'pre-AI-era graduate' preference 'might be a bit biased' while explaining concern about coding fundamentals."
+    }
   ]
 }

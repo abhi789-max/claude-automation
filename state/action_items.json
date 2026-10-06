@@ -1439,5 +1439,60 @@
     "createdAt": "2026-10-05T11:50:00Z",
     "nudgeThreadTs": "1791200859.006379",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 132,
+    "meetingTitle": "Intake Meeting on DS role :: Shannon / Abhishek",
+    "emailThreadId": "1a10fbe76f802430",
+    "description": "Share the DS JD with Shannon today, then post the role live after her tweaks",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-06T05:48:17Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 133,
+    "meetingTitle": "Intake Meeting on DS role :: Shannon / Abhishek",
+    "emailThreadId": "1a10fbe76f802430",
+    "description": "Tweak and return the DS JD; send further subjective/character requirements",
+    "owner": "Shannon",
+    "status": "open",
+    "createdAt": "2026-10-06T05:48:17Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 134,
+    "meetingTitle": "Intake Meeting on DS role :: Shannon / Abhishek",
+    "emailThreadId": "1a10fbe76f802430",
+    "description": "Send interview panel names for Tech 1 and Tech 2",
+    "owner": "Shannon",
+    "status": "open",
+    "createdAt": "2026-10-06T05:48:17Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 135,
+    "meetingTitle": "Intake Meeting on DS role :: Shannon / Abhishek",
+    "emailThreadId": "1a10fbe76f802430",
+    "description": "Get added to the DS hiring group chat and share shortlisted profiles there via Smart Recruiters",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-06T05:48:17Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 136,
+    "meetingTitle": "Intake Meeting on DS role :: Shannon / Abhishek",
+    "emailThreadId": "1a10fbe76f802430",
+    "description": "Start inbound review and outbound sourcing for DS role; schedule interviews on Mon/Tue/Thu",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-06T05:48:17Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
