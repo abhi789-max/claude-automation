@@ -726,6 +726,21 @@
         "Abhishek: Start inbound review and outbound sourcing for DS role; schedule interviews on Mon/Tue/Thu"
       ],
       "conversationHighlight": "Shannon admitted the 'pre-AI-era graduate' preference 'might be a bit biased' while explaining concern about coding fundamentals."
+    },
+    {
+      "meetingTitle": "Catchup :: Naveen / Abhishek",
+      "type": "General internal meeting",
+      "emailThreadId": "1a10fec4a0b6a80a",
+      "discussionSummary": "Weekly hiring catchup: open roles (technical lead, C1, intern, marketplace/live-streaming backend), a candidate with Friday PSS feedback and offer discussion, AI-assisted interview cheating risk and a proposed proctored physical final round (Singapore room, remote interviewers), HAF approval bottleneck and a visibility board, and informal intern/full-stack 'builder' positioning.",
+      "actionItems": [
+        "Abhishek: Meet candidate Friday on PSS feedback and run the offer discussion with Gotham",
+        "Abhishek: Set up SE1 hiring-manager discussion with Arvin (James replacement)",
+        "Abhishek: Set up the proctored physical-round pilot (Singapore room + Bangalore coordinator) from next week",
+        "Abhishek: Build/propose a hiring-pipeline visibility board for stakeholders and flag the HAF approval bottleneck to Gene",
+        "Abhishek: Keep a Plan B candidate pipeline (incl. AI-experienced profiles) alongside the lead candidate",
+        "Naveen: Share names (e.g. Vinod) for candidate-facing AI-utilization stories; ask Rohini to nudge Pjwal to book flights"
+      ],
+      "conversationHighlight": "Naveen and Abhishek agreed to pilot a proctored in-person interview round from next week after a recent candidate was rejected in round two following strong early rounds."
     }
   ]
 }

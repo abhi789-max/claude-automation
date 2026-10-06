@@ -394,5 +394,14 @@
     "meetingId": "mjgi6ncBZbGf5ZLhw1dh",
     "emailThreadId": "1a10fbe76f802430",
     "lastHandledTs": "1791265686.419949"
+  },
+  {
+    "threadTs": "1791272774.988699",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Catchup :: Naveen / Abhishek",
+    "type": "General internal meeting",
+    "meetingId": "SarBpCwdw7khOkpojG22",
+    "emailThreadId": "1a10fec4a0b6a80a",
+    "lastHandledTs": "1791272774.988699"
   }
 ]
