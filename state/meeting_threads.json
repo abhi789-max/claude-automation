@@ -403,5 +403,14 @@
     "meetingId": "SarBpCwdw7khOkpojG22",
     "emailThreadId": "1a10fec4a0b6a80a",
     "lastHandledTs": "1791272774.988699"
+  },
+  {
+    "threadTs": "1791780455.974199",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Abhishek & Nik - weekly catchup",
+    "type": "General internal meeting",
+    "meetingId": "8Q3tgosebgvDVTpFrN3h",
+    "emailThreadId": "1a12e6920f7a43f0",
+    "lastHandledTs": "1791780455.974199"
   }
 ]

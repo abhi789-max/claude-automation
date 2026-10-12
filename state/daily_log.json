@@ -742,5 +742,19 @@
       ],
       "conversationHighlight": "Naveen and Abhishek agreed to pilot a proctored in-person interview round from next week after a recent candidate was rejected in round two following strong early rounds."
     }
+  ],
+  "2026-10-12": [
+    {
+      "meetingTitle": "Abhishek & Nik - weekly catchup",
+      "type": "General internal meeting",
+      "emailThreadId": "1a12e6920f7a43f0",
+      "discussionSummary": "Badly garbled transcript. Abhishek reviewed open reqs (Director, Tech Lead/Android, senior data science, technical lead) and asked Nik for interview-panel support across Bangalore and Delhi; Nik read through offer/contract terms (vesting with 1-yr cliff, relocation, notice, sign-on clawback, definition of cause).",
+      "actionItems": [
+        "Nik: check with Vivek and share contact",
+        "Nik: check flexibility on discussed clause",
+        "Abhishek: schedule hiring-manager intake and line up panel support"
+      ],
+      "conversationHighlight": "Abhishek pressed for clarity on the definition of 'cause' and how it affects notice and severance in the offer contract."
+    }
   ]
 }
