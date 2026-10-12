@@ -755,6 +755,14 @@
         "Abhishek: schedule hiring-manager intake and line up panel support"
       ],
       "conversationHighlight": "Abhishek pressed for clarity on the definition of 'cause' and how it affects notice and severance in the offer contract."
+    },
+    {
+      "meetingTitle": "Team Cadence :: Preparation",
+      "type": "General internal meeting",
+      "emailThreadId": "1a12e9b80554be92",
+      "discussionSummary": "Very short, heavily garbled prep session between Abhishek and Jyoti (~640 chars). Only clear item: Jyoti asking to ensure a system design round happens early, starting with an Android intern. No decisions or firm action items.",
+      "actionItems": [],
+      "conversationHighlight": "Android intern system-design round to be prioritised (low confidence)."
     }
   ]
 }
