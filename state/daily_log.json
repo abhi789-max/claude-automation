@@ -763,6 +763,39 @@
       "discussionSummary": "Very short, heavily garbled prep session between Abhishek and Jyoti (~640 chars). Only clear item: Jyoti asking to ensure a system design round happens early, starting with an Android intern. No decisions or firm action items.",
       "actionItems": [],
       "conversationHighlight": "Android intern system-design round to be prioritised (low confidence)."
+    },
+    {
+      "meetingTitle": "LinkedIn Sync",
+      "type": "General internal meeting",
+      "emailThreadId": "1a12f1badd95d084",
+      "discussionSummary": "Nik pushed Abhishek to build a recruiter x function x entity coverage/apportionment grid for LinkedIn seats/slots before renewal; HEP quote negotiation using 187 Enterprise quote.",
+      "actionItems": [
+        "Coverage grid",
+        "Couture Jobs check",
+        "HEP quote"
+      ],
+      "conversationHighlight": "Nik: two problems — coverage and apportionment to entities."
+    },
+    {
+      "meetingTitle": "Connect Call : Atharva /Abhishek",
+      "type": "Unclear",
+      "emailThreadId": "1a12f7749678901d",
+      "discussionSummary": "Joining-date slip (19 Oct -> ~26 Oct/2 Nov) and joining-bonus cut-off discussion with offered candidate Atharva Khot.",
+      "actionItems": [
+        "Bonus retention push",
+        "Confirm date"
+      ],
+      "conversationHighlight": "Atharva: 100% committed, no offer-shopping."
+    },
+    {
+      "meetingTitle": "Sync up :: Carousell <> Goutam",
+      "type": "Unclear",
+      "emailThreadId": "1a12f9bfb7c24f87",
+      "discussionSummary": "Feedback + comp negotiation with Goutam Bose: ~72 LPA fixed offered vs ask ~93-95; he holds another ~1.2Cr offer.",
+      "actionItems": [
+        "Take comp ask to approvers"
+      ],
+      "conversationHighlight": "Gap ~21-23 LPA on fixed; Abhishek to respond within a day."
     }
   ]
 }
