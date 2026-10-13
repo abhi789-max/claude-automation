@@ -466,5 +466,14 @@
     "meetingId": "wW4CI8FflUj7fi12iRcL",
     "emailThreadId": "1a12f9bfb7c24f87",
     "lastHandledTs": "1791802003.420019"
+  },
+  {
+    "threadTs": "1791888421.890019",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Meeting Transcription",
+    "type": "General internal meeting",
+    "meetingId": "PkiIlIDNvHRfSqlrB27f",
+    "emailThreadId": "1a1348fe432dc6a5",
+    "lastHandledTs": "1791888421.890019"
   }
 ]

@@ -797,5 +797,19 @@
       ],
       "conversationHighlight": "Gap ~21-23 LPA on fixed; Abhishek to respond within a day."
     }
+  ],
+  "2026-10-13": [
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "General internal meeting",
+      "emailThreadId": "1a1348fe432dc6a5",
+      "discussionSummary": "Abhishek and Sheryl discussed handling Malaysia automation-role hire where EP timing is unpredictable and consultant-arrangement process was questioned by hiring manager; weighed resign-after-EP vs. transparency on take-home/tax; no concrete fix, plan to brief hiring manager.",
+      "actionItems": [
+        "Brainstorm solutions with Sheryl and consult other stakeholders (Chung, Sharon) on EP/consultant-arrangement risk",
+        "Call the hiring manager: explain EP variability by market, share data, and say no concrete fix yet",
+        "Follow up with the automation-role candidate on EP timeline and be transparent on take-home/tax impact"
+      ],
+      "conversationHighlight": "Sheryl advised being upfront with candidates about post-relocation rent and 30% non-resident tax so they decide knowingly."
+    }
   ]
 }
