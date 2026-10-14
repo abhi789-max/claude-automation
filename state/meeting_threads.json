@@ -493,5 +493,23 @@
     "meetingId": "ZtvvEpD9U1bqrSvUX5uW",
     "emailThreadId": "1a1394cfe0036736",
     "lastHandledTs": "1791963936.971859"
+  },
+  {
+    "threadTs": "1791971111.839119",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Monthly People Team Sync - AI Experiments and Learning",
+    "type": "General internal meeting",
+    "meetingId": "cZFFgMHX0kUiAZCESva1",
+    "emailThreadId": "1a139b1ae0acd389",
+    "lastHandledTs": "1791971111.839119"
+  },
+  {
+    "threadTs": "1791974753.189499",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Intake Meeting :: Senior PD",
+    "type": "General internal meeting",
+    "meetingId": "bDvccTwRG1uLFJLN8TiT",
+    "emailThreadId": "1a139e4115fbb356",
+    "lastHandledTs": "1791974753.189499"
   }
 ]
