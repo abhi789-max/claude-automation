@@ -484,5 +484,14 @@
     "meetingId": "0QHqkeTmjqTiOKlkqmaH",
     "emailThreadId": "1a13891434099049",
     "lastHandledTs": "1791953153.050809"
+  },
+  {
+    "threadTs": "1791963936.971859",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Linkedin Recruiter <> Carousell",
+    "type": "General internal meeting",
+    "meetingId": "ZtvvEpD9U1bqrSvUX5uW",
+    "emailThreadId": "1a1394cfe0036736",
+    "lastHandledTs": "1791963936.971859"
   }
 ]
