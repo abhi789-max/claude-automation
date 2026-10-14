@@ -811,5 +811,20 @@
       ],
       "conversationHighlight": "Sheryl advised being upfront with candidates about post-relocation rent and 30% non-resident tax so they decide knowingly."
     }
+  ],
+  "2026-10-14": [
+    {
+      "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+      "type": "General internal meeting",
+      "emailThreadId": "1a13891434099049",
+      "discussionSummary": "Weekly TA catchup: Malaysia automation-role candidate's EP/consultant arrangement concerns (two options: continue as consultant in India or expedite direct Malaysia start; 15K budget exhausted), plus pipeline roll-call for SPM, backend, SRE, design, UX research roles.",
+      "actionItems": [
+        "Brainstorm solutions and consult Chung/Sharon on the EP/consultant-arrangement risk for the Malaysia automation-role candidate",
+        "Push the automation-role candidate to complete succession planning so Sharon can proceed with the EP",
+        "Chase hiring manager for SPM (Monetization) JD; confirm SPM Marketplace budget",
+        "Get feedback on Grab local senior-backend candidate's CV and arrange SRE round 2"
+      ],
+      "conversationHighlight": "Nik framed the automation hire as only two options — keep the committed 15K consultant-in-India route and accept the risk, or expedite the work permit for a direct Malaysia start."
+    }
   ]
 }
