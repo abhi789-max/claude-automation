@@ -865,5 +865,39 @@
       ],
       "conversationHighlight": "Hiring side stressed high agency and an opinionated designer who pushes back on top-down requests, with the team prototyping 60-80% of the time using Claude."
     }
+  ],
+  "2026-10-19": [
+    {
+      "meetingTitle": "Abhishek & Nik - weekly catchup",
+      "type": "General internal meeting",
+      "emailThreadId": "1a152711435ad3f6",
+      "discussionSummary": "Hiring pipeline catchup (garbled audio): Jenna to take Mandarin-speaking role, Abhishek keeps data science, pipeline reopening for one role.",
+      "actionItems": [
+        "Abhishek: reach out to references/contacts for timing",
+        "Abhishek: reopen pipeline and loop in HRBPs",
+        "Nikhil/Abhishek: transition Malaysia/Singapore lead",
+        "Nikhil/Abhishek: follow-up no earlier than Wednesday"
+      ],
+      "conversationHighlight": "Jenna picks up the Mandarin-requirement role."
+    },
+    {
+      "meetingTitle": "Team Cadence :: Preparation",
+      "type": "Unclear",
+      "emailThreadId": "1a152ac97e4ce92d",
+      "discussionSummary": "Almost entirely unintelligible audio; hiring/offer prep with Jyoti Mehta suspected.",
+      "actionItems": [],
+      "conversationHighlight": "Remark that eShops are 12 months for GL7 and above."
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a152f13e33fd113",
+      "discussionSummary": "Pitch plus screening of Adriel Jayden Charles for a group IT head (senior manager) role. ~18 yrs IT, ex-head of IT, out of work 5 months, immediately available, ~10,000 last comp. Security and AI depth shallow; CV tenure overlap flagged.",
+      "actionItems": [
+        "Abhishek: share notes with hiring manager",
+        "Abhishek: send security-round slots over WhatsApp"
+      ],
+      "conversationHighlight": "Brought in after an on-prem data breach, moved company data to cloud with layered firewalls and dynamic IPs."
+    }
   ]
 }
