@@ -188,5 +188,25 @@
     "meetingId": "Zg7sazxUBeWGRn087xET",
     "emailThreadId": "1a152f13e33fd113",
     "postedAt": "2026-10-19T07:36:00Z"
+  },
+  {
+    "threadTs": "1792413361.609369",
+    "channelId": "D026A8WF8BY",
+    "roleKey": "group it head senior manager",
+    "roleLabel": "Group IT Head (Senior Manager)",
+    "candidateName": "Chong Yee",
+    "meetingId": "9PH9bHKR0Xy5xCe6bjaf",
+    "emailThreadId": "1a15396143c16edd",
+    "postedAt": "2026-10-19T12:36:00Z"
+  },
+  {
+    "threadTs": "1792413369.475119",
+    "channelId": "D026A8WF8BY",
+    "roleKey": "group it head senior manager",
+    "roleLabel": "Group IT Head (Senior Manager)",
+    "candidateName": "Kian Yap Low",
+    "meetingId": "D0ItyVYuUfgboXQ5d60c",
+    "emailThreadId": "1a153f1a081e0a57",
+    "postedAt": "2026-10-19T12:36:00Z"
   }
 ]
