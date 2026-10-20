@@ -2214,5 +2214,60 @@
     "createdAt": "2026-10-20T10:00:00Z",
     "nudgeThreadTs": "1792489092.552589",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 202,
+    "meetingTitle": "Catchup - on PD hiring",
+    "emailThreadId": "1a158bc70a0c7a68",
+    "description": "Reach out directly to the outbound-sourced designer candidate and gauge expectation",
+    "owner": "Jena",
+    "status": "open",
+    "createdAt": "2026-10-20T10:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 203,
+    "meetingTitle": "Catchup - on PD hiring",
+    "emailThreadId": "1a158bc70a0c7a68",
+    "description": "Source senior product designers in Malaysia for ~1 week, outbound-first",
+    "owner": "Jena",
+    "status": "open",
+    "createdAt": "2026-10-20T10:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 204,
+    "meetingTitle": "Catchup - on PD hiring",
+    "emailThreadId": "1a158bc70a0c7a68",
+    "description": "Share call notes with Jena and confirm JD loop is updated",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-20T10:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 205,
+    "meetingTitle": "Catchup - on PD hiring",
+    "emailThreadId": "1a158bc70a0c7a68",
+    "description": "Pass above-budget senior designer profiles (12.5-13K) to Jena",
+    "owner": "Sheryl/Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-20T10:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 206,
+    "meetingTitle": "Catchup - on PD hiring",
+    "emailThreadId": "1a158bc70a0c7a68",
+    "description": "Check with hiring manager whether other markets are open if Malaysia pool is insufficient",
+    "owner": "Jena",
+    "status": "open",
+    "createdAt": "2026-10-20T10:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
