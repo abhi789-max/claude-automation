@@ -538,5 +538,14 @@
     "meetingId": "ZVRXpe87ICc7Yoxh1QZe",
     "emailThreadId": "1a153483b0537ce3",
     "lastHandledTs": "1792398982.235009"
+  },
+  {
+    "threadTs": "1792489017.885189",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Sync",
+    "type": "General internal meeting",
+    "meetingId": "wWwgofkRfvV6iG2Una3z",
+    "emailThreadId": "1a15865845529af2",
+    "lastHandledTs": "1792489017.885189"
   }
 ]

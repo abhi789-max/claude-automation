@@ -935,5 +935,39 @@
       ],
       "conversationHighlight": "Cut the call short (\"today is not a good time\") yet agreed to proceed to the security round."
     }
+  ],
+  "2026-10-20": [
+    {
+      "meetingTitle": "Sync",
+      "type": "General internal meeting",
+      "emailThreadId": "1a15865845529af2",
+      "discussionSummary": "Abhishek, Sheryl and hiring manager Abhishek Patnaik discussed relocation/EP and India-vs-Malaysia tax risk for the Malaysia automation-role candidate (no joining bonus - budget; proceed on current terms), and an extra architecture round for the Backend COE role.",
+      "actionItems": [
+        "Sheryl: chase signed contract and visa collection location",
+        "Sheryl: Grab candidate round 1 then round with Patnaik",
+        "Abhishek: brief Sheryl on India top-institute pool filters"
+      ],
+      "conversationHighlight": "Patnaik: joining bonus not possible, budget already ~double the candidate's current pay; suggested holding back salary until relocation."
+    },
+    {
+      "meetingTitle": "Exploratory Call :: Carousell <> Ariff",
+      "type": "Candidate interview",
+      "emailThreadId": "1a1587c50a49b9e3",
+      "discussionSummary": "Exploratory call with Mohd Ariff Fitri Mohammad for the Group IT Head role; mostly pitch. ~17 yrs IT, 3 regional reports, HQ owns security/endpoint, no AI deployment; current comp ~10K MYR. Recommendation leaning negative / limited evidence.",
+      "actionItems": [
+        "Abhishek: download LinkedIn/CV, share notes with hiring manager, revert on shortlist"
+      ],
+      "conversationHighlight": "Candid that AI is only at HQ pilot stage and he has no deployed AI IT tooling."
+    },
+    {
+      "meetingTitle": "Meeting Transcription (KM Leong)",
+      "type": "Candidate interview",
+      "emailThreadId": "1a15829ea0e220d9",
+      "discussionSummary": "Recruiter screen with KM Leong for Group IT Head role: ~30 people across 13 campuses, CIS/NIST/ISO security, Entra-based identity, privacy-aware AI projects; self-described more management than hands-on; ask 20-21K vs band 19-19.5K. Mixed.",
+      "actionItems": [
+        "Abhishek: send invite + JD and WhatsApp KM Leong for Round 1 (security) Thursday 5PM MY"
+      ],
+      "conversationHighlight": "Candid he is now more on the management side than hands-on config."
+    }
   ]
 }

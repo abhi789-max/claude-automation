@@ -208,5 +208,25 @@
     "meetingId": "D0ItyVYuUfgboXQ5d60c",
     "emailThreadId": "1a153f1a081e0a57",
     "lastHandledTs": "1792413369.475119"
+  },
+  {
+    "threadTs": "1792489039.778109",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Mohd Ariff Fitri Mohammad",
+    "roleKey": "group it head senior manager",
+    "roleLabel": "Group IT Head (Senior Manager)",
+    "meetingId": "tfXFve2RfFWnUCWsilKP",
+    "emailThreadId": "1a1587c50a49b9e3",
+    "lastHandledTs": "1792489039.778109"
+  },
+  {
+    "threadTs": "1792481717.652149",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "KM Leong",
+    "roleKey": "group it head senior manager",
+    "roleLabel": "Group IT Head (Senior Manager)",
+    "meetingId": "7LNKDcye9A2yWEhckKHw",
+    "emailThreadId": "1a15829ea0e220d9",
+    "lastHandledTs": "1792481717.652149"
   }
 ]
