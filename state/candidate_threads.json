@@ -228,5 +228,15 @@
     "meetingId": "7LNKDcye9A2yWEhckKHw",
     "emailThreadId": "1a15829ea0e220d9",
     "lastHandledTs": "1792481717.652149"
+  },
+  {
+    "threadTs": "1792650981.193449",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Andy",
+    "roleKey": "group it head senior manager",
+    "roleLabel": "Group IT Head (Senior Manager)",
+    "meetingId": "ulpeUvrpDDrEeabUqJml",
+    "emailThreadId": "1a162444835161d1",
+    "lastHandledTs": "1792650988.983259"
   }
 ]
