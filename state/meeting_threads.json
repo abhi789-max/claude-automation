@@ -556,5 +556,14 @@
     "meetingId": "asib8PbZgslKxUGCgHwH",
     "emailThreadId": "1a158bc70a0c7a68",
     "lastHandledTs": "1792492561.127739"
+  },
+  {
+    "threadTs": "1792643717.230939",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "sync :: Carousell <>Goutam",
+    "type": "Unclear",
+    "meetingId": "dyRTFCnLTX7xkjMMM7Ls",
+    "emailThreadId": "1a161c42705e1349",
+    "lastHandledTs": "1792643717.230939"
   }
 ]

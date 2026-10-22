@@ -2269,5 +2269,16 @@
     "createdAt": "2026-10-20T10:40:00Z",
     "nudgeThreadTs": "1792582548.026159",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 207,
+    "meetingTitle": "sync :: Carousell <>Goutam",
+    "emailThreadId": "1a161c42705e1349",
+    "description": "Follow up with Goutam Bose on Monday for his decision on the offer (~93.7 LPA first-year); offered a further conversation with Vlad/Naveen if he wants one",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-22T04:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
