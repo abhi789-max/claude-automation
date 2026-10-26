@@ -1026,5 +1026,19 @@
       "actionItems": [],
       "conversationHighlight": "None - insufficient intelligible content."
     }
+  ],
+  "2026-10-26": [
+    {
+      "meetingTitle": "Abhishek & Nik - weekly catchup",
+      "type": "General internal meeting",
+      "emailThreadId": "1a1768b53d2e62a2",
+      "discussionSummary": "Weekly recruiting catch-up with Nikhil Datt: non-compete/non-solicit stance, interview scheduling, process design, pipeline status, comp framing (transcript garbled).",
+      "actionItems": [
+        "Confirm interview scheduling — one candidate today, one tomorrow",
+        "Finalise interview round structure (~4 rounds + EQ, case challenge 1–2 hrs) and Round 1 format",
+        "Follow up on candidate with non-compete concern and relay company position"
+      ],
+      "conversationHighlight": "Company will not represent candidates on personal non-compete/non-solicit clauses."
+    }
   ]
 }

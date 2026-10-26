@@ -2313,5 +2313,38 @@
     "createdAt": "2026-10-22T06:37:00Z",
     "nudgeThreadTs": "1792928162.907849",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 211,
+    "meetingTitle": "Abhishek & Nik - weekly catchup",
+    "emailThreadId": "1a1768b53d2e62a2",
+    "description": "Confirm interview scheduling — one candidate today, one tomorrow",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-26T05:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 212,
+    "meetingTitle": "Abhishek & Nik - weekly catchup",
+    "emailThreadId": "1a1768b53d2e62a2",
+    "description": "Finalise interview round structure (~4 rounds + EQ, case challenge 1–2 hrs) and Round 1 format",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-26T05:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 213,
+    "meetingTitle": "Abhishek & Nik - weekly catchup",
+    "emailThreadId": "1a1768b53d2e62a2",
+    "description": "Follow up on candidate with non-compete concern and relay company position",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-26T05:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
