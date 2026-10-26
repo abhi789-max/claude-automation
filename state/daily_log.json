@@ -1039,6 +1039,14 @@
         "Follow up on candidate with non-compete concern and relay company position"
       ],
       "conversationHighlight": "Company will not represent candidates on personal non-compete/non-solicit clauses."
+    },
+    {
+      "meetingTitle": "Weekly Cadence",
+      "type": "General internal meeting",
+      "emailThreadId": "1a176f00a2fc72d5",
+      "discussionSummary": "Weekly TA pipeline sync across open roles: accepted hire resigning Wed 28 Oct, Backend/SRE loops in rounds 2-3, Product Designer two-way comparison, UX Researcher and technical PM earlier-stage; coaching on pipeline-building and candidate warmth.",
+      "actionItems": [],
+      "conversationHighlight": "Abhishek advised keeping the accepted hire warm during notice and mapping PM2s from Lazada/Grab/Zalora-type marketplaces for the technical PM role."
     }
   ]
 }

@@ -610,5 +610,23 @@
     "meetingId": "7bbSvxY49cmnepv801eu",
     "emailThreadId": "1a1768b53d2e62a2",
     "lastHandledTs": "1792993028.963479"
+  },
+  {
+    "threadTs": "1793000141.007519",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Weekly Cadence",
+    "type": "General internal meeting",
+    "meetingId": "MaoYQ851m9c7mA3bBSUG",
+    "emailThreadId": "1a176f00a2fc72d5",
+    "lastHandledTs": "1793000141.007519"
+  },
+  {
+    "threadTs": "1793003902.223189",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Open action items check-in",
+    "type": "General internal meeting",
+    "meetingId": null,
+    "emailThreadId": null,
+    "lastHandledTs": "1793003902.223189"
   }
 ]
