@@ -592,5 +592,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1792834671.336219"
+  },
+  {
+    "threadTs": "1792985752.866229",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Meeting Transcription",
+    "type": "Unclear",
+    "meetingId": "PARwdtD2ixPwUX42oKor",
+    "emailThreadId": "1a173ca5c3c892f6",
+    "lastHandledTs": "1792985752.866229"
   }
 ]

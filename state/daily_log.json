@@ -1016,5 +1016,15 @@
       "actionItems": [],
       "conversationHighlight": "n/a"
     }
+  ],
+  "2026-10-25": [
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Unclear",
+      "emailThreadId": "1a173ca5c3c892f6",
+      "discussionSummary": "Garbled ~1.3k-char transcript with Pragya Gururani; looks like a personal/administrative online payment/UPI form session, no recruiting content.",
+      "actionItems": [],
+      "conversationHighlight": "None - insufficient intelligible content."
+    }
   ]
 }
