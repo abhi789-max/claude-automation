@@ -628,5 +628,23 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1793003902.223189"
+  },
+  {
+    "threadTs": "1793090161.581349",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Sync",
+    "type": "General internal meeting",
+    "meetingId": "fJnMegFm747CI3i4gx36",
+    "emailThreadId": "1a17c601927700b2",
+    "lastHandledTs": "1793090161.581349"
+  },
+  {
+    "threadTs": "1793090205.921139",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Open action items check-in",
+    "type": "General internal meeting",
+    "meetingId": null,
+    "emailThreadId": null,
+    "lastHandledTs": "1793090205.921139"
   }
 ]

@@ -1048,5 +1048,20 @@
       "actionItems": [],
       "conversationHighlight": "Abhishek advised keeping the accepted hire warm during notice and mapping PM2s from Lazada/Grab/Zalora-type marketplaces for the technical PM role."
     }
+  ],
+  "2026-10-27": [
+    {
+      "meetingTitle": "Sync",
+      "type": "General internal meeting",
+      "emailThreadId": "1a17c601927700b2",
+      "discussionSummary": "Abhishek and Sheryl discussed an automation-role candidate who signed his offer but is asking for a later start (June vs January); reviewed EP/retention risks and fallback options; next step is checking with Sharon, Nik and the hiring manager.",
+      "actionItems": [
+        "Check with Sharon how long after EP approval the Malaysia automation-role candidate must land, whether later landing is allowed, and EP vs dependent-pass sequencing; report back",
+        "Write up the options for the automation-role candidate's start-date issue, post in team channel and discuss with Nik tomorrow",
+        "Get 20-25 min with the hiring manager tomorrow to walk through the start-date options",
+        "Send the automation-role candidate a short factual update (internal discussion under way, call to follow)"
+      ],
+      "conversationHighlight": "Both agreed to hold off committing to the candidate until EP timeline and hiring-manager appetite are verified."
+    }
   ]
 }
