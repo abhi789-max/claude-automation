@@ -682,5 +682,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1793176587.262469"
+  },
+  {
+    "threadTs": "1793180173.211729",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+    "type": "General internal meeting",
+    "meetingId": "gFU7U9AW0x1OOgeHvTPc",
+    "emailThreadId": "1a181d3d526d2874",
+    "lastHandledTs": "1793180173.211729"
   }
 ]

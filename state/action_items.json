@@ -2599,5 +2599,82 @@
     "createdAt": "2026-10-28T07:35:00Z",
     "nudgeThreadTs": "1793176587.262469",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 237,
+    "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+    "emailThreadId": "1a181d3d526d2874",
+    "description": "Lock AI builds in the new tracker by 6 Nov (all departments incl. People team)",
+    "owner": "All departments",
+    "status": "open",
+    "createdAt": "2026-10-28T09:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 238,
+    "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+    "emailThreadId": "1a181d3d526d2874",
+    "description": "Send the AI build tracker in the People team channel",
+    "owner": "Subhra",
+    "status": "open",
+    "createdAt": "2026-10-28T09:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 239,
+    "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+    "emailThreadId": "1a181d3d526d2874",
+    "description": "Send Carousell Voice reminders to low-participation brands before 30 Oct close; then clean/upload data to results site and test",
+    "owner": "Efarina",
+    "status": "open",
+    "createdAt": "2026-10-28T09:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 240,
+    "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+    "emailThreadId": "1a181d3d526d2874",
+    "description": "Add user/active-usage tracking to the Claude cost dashboard",
+    "owner": "Huiyi",
+    "status": "open",
+    "createdAt": "2026-10-28T09:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 241,
+    "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+    "emailThreadId": "1a181d3d526d2874",
+    "description": "Finish continuous-feedback module testing in Darwinbox and roll out (target year-end)",
+    "owner": "Christy",
+    "status": "open",
+    "createdAt": "2026-10-28T09:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 242,
+    "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+    "emailThreadId": "1a181d3d526d2874",
+    "description": "Run first leaders' Builder OS briefing next week",
+    "owner": "Sarah / Jena",
+    "status": "open",
+    "createdAt": "2026-10-28T09:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 243,
+    "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+    "emailThreadId": "1a181d3d526d2874",
+    "description": "Present day-to-day role at next People sync",
+    "owner": "Huiyi",
+    "status": "open",
+    "createdAt": "2026-10-28T09:40:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

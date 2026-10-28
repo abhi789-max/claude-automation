@@ -1101,6 +1101,19 @@
       "discussionSummary": "Solo, garbled ~11-min recording, apparently Abhishek rehearsing a talk on hiring acquisition and AI-assisted recruiting across Carousell entities. No reliable decisions or actions.",
       "actionItems": [],
       "conversationHighlight": "Single speaker; transcript too garbled to classify."
+    },
+    {
+      "meetingTitle": "Monthly People Sync - Monthly MWB Updates",
+      "type": "General internal meeting",
+      "emailThreadId": "1a181d3d526d2874",
+      "discussionSummary": "People team monthly sync: FBL 2027 intake, Builder OS, AI transformation dashboard (all depts, lock 6 Nov), Carousell Voice participation 79% (closes 30 Oct), continuous feedback in Darwinbox, Goal 3 automations, AG day-in-the-life case study of Director hire.",
+      "actionItems": [
+        "Depts lock AI builds by 6 Nov",
+        "Efarina Carousell Voice reminders",
+        "Huiyi usage tracking",
+        "Christy continuous feedback rollout"
+      ],
+      "conversationHighlight": "AG's case study of the critical Director hire (51 shortlisted→1 offer signed 27 Oct, cats relocation)."
     }
   ]
 }
