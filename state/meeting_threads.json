@@ -655,5 +655,32 @@
     "meetingId": "V2zGRINLJqDolRdcQZk7",
     "emailThreadId": "1a180aa445e76c32",
     "lastHandledTs": "1793165736.614209"
+  },
+  {
+    "threadTs": "1793172902.074239",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Sync",
+    "type": "General internal meeting",
+    "meetingId": "KXlvWfL23sxJI1bvfSc4",
+    "emailThreadId": "1a181382edf02588",
+    "lastHandledTs": "1793172902.074239"
+  },
+  {
+    "threadTs": "1793176569.940629",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Team Cadence :: Preparation",
+    "type": "Unclear",
+    "meetingId": "RK8iGz2uxdNBGMlODBjI",
+    "emailThreadId": "1a1818f2cf5961eb",
+    "lastHandledTs": "1793176569.940629"
+  },
+  {
+    "threadTs": "1793176587.262469",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Open action items check-in",
+    "type": "General internal meeting",
+    "meetingId": null,
+    "emailThreadId": null,
+    "lastHandledTs": "1793176587.262469"
   }
 ]
