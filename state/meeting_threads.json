@@ -646,5 +646,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1793090205.921139"
+  },
+  {
+    "threadTs": "1793165736.614209",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "type": "General internal meeting",
+    "meetingId": "V2zGRINLJqDolRdcQZk7",
+    "emailThreadId": "1a180aa445e76c32",
+    "lastHandledTs": "1793165736.614209"
   }
 ]
