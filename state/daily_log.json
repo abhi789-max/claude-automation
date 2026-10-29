@@ -1155,6 +1155,14 @@
         "Walk Sheryl through connecting AI to SmartRecruiters to resurface past candidates"
       ],
       "conversationHighlight": "Abhishek doubts the \"backup offer\": the comp structure looks like a LinkedIn/Microsoft package, not the big-tech names he cited."
+    },
+    {
+      "meetingTitle": "Meeting Transcription (Atharva Patel)",
+      "type": "Candidate interview",
+      "emailThreadId": "1a186a33d1811878",
+      "discussionSummary": "Exploratory/orientation call with Atharva Patel for the Lead Software Engineer, Pro Seller vertical role: mostly Abhishek's company/role/5-round process pitch; candidate gave a broad full-stack/data-science/PM background (Agoda cart API, Alcanzo AI startup), 4-week notice, no Go, no comp discussed, take-home already shared.",
+      "actionItems": [],
+      "conversationHighlight": "Wants stability above all and said he'd learn Go during his notice period; left PM roles over lack of control/resources."
     }
   ]
 }
