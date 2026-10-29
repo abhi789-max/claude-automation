@@ -1115,5 +1115,46 @@
       ],
       "conversationHighlight": "AG's case study of the critical Director hire (51 shortlisted→1 offer signed 27 Oct, cats relocation)."
     }
+  ],
+  "2026-10-29": [
+    {
+      "meetingTitle": "Weekly TA team catchup and updates",
+      "type": "General internal meeting",
+      "emailThreadId": "1a185f0afa32329d",
+      "discussionSummary": "TA bare-bones budget (~40% lower, no agency spend), LinkedIn seat sharing, vendor renewal counter at 2 yrs/~135k, ATS options (SmartRecruiters/Winston AI/Rippling), audit prep, team capacity and hiring updates.",
+      "actionItems": [
+        "Drive LinkedIn grid (Recruiter seats, ads, regional tools) keeping prior-year costing in mind",
+        "Negotiate vendor renewal at 2 years, target ~135k",
+        "Chase the internship approval before the window is missed",
+        "Decide ATS path (SmartRecruiters vs Rippling, check Winston AI MCP) and speak to SmartRecruiters",
+        "Raise the multi-year funding question with SK on Monday",
+        "Document processes in-system with samples ahead of audit"
+      ],
+      "conversationHighlight": "Nikhil re-worked the TA budget to bare bones, ~40% lower than last year."
+    },
+    {
+      "meetingTitle": "Sync with Snehil",
+      "type": "Unclear",
+      "emailThreadId": "1a1867e8fce1d153",
+      "discussionSummary": "Offer-stage call with Snehil: 30-day WFH policy, EP approval expected 2nd week Jan; candidate wants to join May/June and holds a backup offer; options are part ways or reflect with family.",
+      "actionItems": [
+        "Discuss with family and give a proper update by next Wednesday"
+      ],
+      "conversationHighlight": "Abhishek laid out two paths: part ways mutually or reflect with family and come back."
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "General internal meeting",
+      "emailThreadId": "1a186a33d1811878",
+      "discussionSummary": "Abhishek/Sheryl debrief: Snehil acceptance 50/50 and doubts on his backup offer; senior UX researcher finalists (notice period vs immediate), PM role budget framing, Rahul Singh lead, consultant profiles, SmartRecruiters+AI idea.",
+      "actionItems": [
+        "Share both UX researcher finalists' profiles and notice/comp guidelines with Prashant before the debrief",
+        "Set up 30-min candidate-hiring manager conversation and debrief (tentatively Fri 6 Nov ~4 PM)",
+        "Speak to Rahul Singh to gauge expectations vs ~16K budget; share 2024 review notes",
+        "Follow up with external consultant on free vetted product-designer profiles",
+        "Walk Sheryl through connecting AI to SmartRecruiters to resurface past candidates"
+      ],
+      "conversationHighlight": "Abhishek doubts the \"backup offer\": the comp structure looks like a LinkedIn/Microsoft package, not the big-tech names he cited."
+    }
   ]
 }

@@ -2676,5 +2676,137 @@
     "createdAt": "2026-10-28T09:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 244,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a185f0afa32329d",
+    "description": "Drive LinkedIn grid (Recruiter seats, ads, regional tools) keeping prior-year costing in mind",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 245,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a185f0afa32329d",
+    "description": "Negotiate vendor renewal at 2 years, target ~135k",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 246,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a185f0afa32329d",
+    "description": "Chase the internship approval before the window is missed",
+    "owner": "Abhishek + Dama/Jyoti",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 247,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a185f0afa32329d",
+    "description": "Decide ATS path (SmartRecruiters vs Rippling, check Winston AI MCP) and speak to SmartRecruiters",
+    "owner": "Kristin",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 248,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a185f0afa32329d",
+    "description": "Raise the multi-year funding question with SK on Monday",
+    "owner": "Nikhil",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 249,
+    "meetingTitle": "Weekly TA team catchup and updates",
+    "emailThreadId": "1a185f0afa32329d",
+    "description": "Document processes in-system with samples ahead of audit",
+    "owner": "All",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 250,
+    "meetingTitle": "Sync with Snehil",
+    "emailThreadId": "1a1867e8fce1d153",
+    "description": "Discuss with family and give a proper update by next Wednesday",
+    "owner": "Snehil",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 251,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a186a33d1811878",
+    "description": "Share both UX researcher finalists' profiles and notice/comp guidelines with Prashant before the debrief",
+    "owner": "Abhishek/Sheryl",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 252,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a186a33d1811878",
+    "description": "Set up 30-min candidate-hiring manager conversation and debrief (tentatively Fri 6 Nov ~4 PM)",
+    "owner": "Abhishek/Sheryl",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 253,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a186a33d1811878",
+    "description": "Speak to Rahul Singh to gauge expectations vs ~16K budget; share 2024 review notes",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 254,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a186a33d1811878",
+    "description": "Follow up with external consultant on free vetted product-designer profiles",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 255,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a186a33d1811878",
+    "description": "Walk Sheryl through connecting AI to SmartRecruiters to resurface past candidates",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-29T08:50:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
