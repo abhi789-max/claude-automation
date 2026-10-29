@@ -2485,7 +2485,7 @@
     "emailThreadId": "1a180aa445e76c32",
     "description": "Ask the automation-role candidate plainly if he will join on the required date / what would make him join; close out today and post status in the group",
     "owner": "Abhishek/Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T05:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2496,7 +2496,7 @@
     "emailThreadId": "1a180aa445e76c32",
     "description": "Discuss 30-day-remote and consultant/extender options with hiring manager Patnaik",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T05:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2507,7 +2507,7 @@
     "emailThreadId": "1a180aa445e76c32",
     "description": "Share over-budget / senior designer profiles with Jenna",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T05:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2518,7 +2518,7 @@
     "emailThreadId": "1a180aa445e76c32",
     "description": "Send Abhishek WhatsApp numbers of non-responding backend candidates",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T05:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2529,7 +2529,7 @@
     "emailThreadId": "1a180aa445e76c32",
     "description": "Check with Abhishek on keeping the round-3 backend candidate warm; get feedback on SPM profiles",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T05:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2540,7 +2540,7 @@
     "emailThreadId": "1a180aa445e76c32",
     "description": "Hold Product Designer and Senior UX Researcher debriefs (Fri/Mon)",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T05:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2551,7 +2551,7 @@
     "emailThreadId": "1a181382edf02588",
     "description": "Share the batch of backend engineer profiles with Sheryl for a quick tech screening",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T07:35:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2562,7 +2562,7 @@
     "emailThreadId": "1a181382edf02588",
     "description": "WhatsApp the candidate to hold off resigning; say we will revert by EOD today/tomorrow",
     "owner": "Abhishek",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T07:35:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2573,7 +2573,7 @@
     "emailThreadId": "1a181382edf02588",
     "description": "Check hiring manager's availability today (2:30-6:30 PM) to discuss and align",
     "owner": "Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T07:35:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2584,7 +2584,7 @@
     "emailThreadId": "1a181382edf02588",
     "description": "Reschedule a 15-20 min sync with the third participant before taking the final stance to the candidate",
     "owner": "Abhishek/Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T07:35:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2595,7 +2595,7 @@
     "emailThreadId": "1a181382edf02588",
     "description": "Confirm with the hiring manager whether the two joining options are acceptable",
     "owner": "Abhishek/Sheryl",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T07:35:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2606,7 +2606,7 @@
     "emailThreadId": "1a181d3d526d2874",
     "description": "Lock AI builds in the new tracker by 6 Nov (all departments incl. People team)",
     "owner": "All departments",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T09:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2617,7 +2617,7 @@
     "emailThreadId": "1a181d3d526d2874",
     "description": "Send the AI build tracker in the People team channel",
     "owner": "Subhra",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T09:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2628,7 +2628,7 @@
     "emailThreadId": "1a181d3d526d2874",
     "description": "Send Carousell Voice reminders to low-participation brands before 30 Oct close; then clean/upload data to results site and test",
     "owner": "Efarina",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T09:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2639,7 +2639,7 @@
     "emailThreadId": "1a181d3d526d2874",
     "description": "Add user/active-usage tracking to the Claude cost dashboard",
     "owner": "Huiyi",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T09:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2650,7 +2650,7 @@
     "emailThreadId": "1a181d3d526d2874",
     "description": "Finish continuous-feedback module testing in Darwinbox and roll out (target year-end)",
     "owner": "Christy",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T09:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2661,7 +2661,7 @@
     "emailThreadId": "1a181d3d526d2874",
     "description": "Run first leaders' Builder OS briefing next week",
     "owner": "Sarah / Jena",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T09:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2672,7 +2672,7 @@
     "emailThreadId": "1a181d3d526d2874",
     "description": "Present day-to-day role at next People sync",
     "owner": "Huiyi",
-    "status": "open",
+    "status": "done",
     "createdAt": "2026-10-28T09:40:00Z",
     "nudgeThreadTs": "1793187380.734399",
     "nudgeChannelId": "D026A8WF8BY"
@@ -2685,8 +2685,8 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 245,
@@ -2696,8 +2696,8 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 246,
@@ -2707,8 +2707,8 @@
     "owner": "Abhishek + Dama/Jyoti",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 247,
@@ -2718,8 +2718,8 @@
     "owner": "Kristin",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 248,
@@ -2729,8 +2729,8 @@
     "owner": "Nikhil",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 249,
@@ -2740,8 +2740,8 @@
     "owner": "All",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 250,
@@ -2751,8 +2751,8 @@
     "owner": "Snehil",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 251,
@@ -2762,8 +2762,8 @@
     "owner": "Abhishek/Sheryl",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 252,
@@ -2773,8 +2773,8 @@
     "owner": "Abhishek/Sheryl",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 253,
@@ -2784,8 +2784,8 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 254,
@@ -2795,8 +2795,8 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   },
   {
     "seq": 255,
@@ -2806,7 +2806,7 @@
     "owner": "Abhishek",
     "status": "open",
     "createdAt": "2026-10-29T08:50:00Z",
-    "nudgeThreadTs": null,
-    "nudgeChannelId": null
+    "nudgeThreadTs": "1793263012.416289",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]
