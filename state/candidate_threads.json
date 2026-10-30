@@ -248,5 +248,15 @@
     "meetingId": "taHkIgkP4zvCJ2dvUfeX",
     "emailThreadId": "1a186a33d1811878",
     "lastHandledTs": "1793273776.793509"
+  },
+  {
+    "threadTs": "1793352896.012359",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Gaurav",
+    "roleKey": "lead engineer pro seller vertical",
+    "roleLabel": "Lead Engineer, Pro Seller vertical",
+    "meetingId": "fx6F9HvA10ORJ75GV9kR",
+    "emailThreadId": "1a18bc5004ec0fa6",
+    "lastHandledTs": "1793352896.012359"
   }
 ]

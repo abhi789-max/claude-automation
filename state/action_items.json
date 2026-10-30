@@ -2808,5 +2808,16 @@
     "createdAt": "2026-10-29T08:50:00Z",
     "nudgeThreadTs": "1793273791.893709",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 256,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a18bc5004ec0fa6",
+    "description": "Review Gaurav's take-home assignment once submitted (expected in 3-5 days) and share JD/MSN framework to rate him",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-10-30T09:35:00Z",
+    "nudgeThreadTs": "1793352904.568819",
+    "nudgeChannelId": "D026A8WF8BY"
   }
 ]

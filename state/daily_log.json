@@ -1164,5 +1164,17 @@
       "actionItems": [],
       "conversationHighlight": "Wants stability above all and said he'd learn Go during his notice period; left PM roles over lack of control/resources."
     }
+  ],
+  "2026-10-30": [
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a18bc5004ec0fa6",
+      "discussionSummary": "Recruiter expectation-setting call with Gaurav (PhonePe; ex-Gojek, Uni Cards) for Lead Engineer, Pro Seller vertical. Motivated by bigger ownership; 30-day notice; ~69L base + 30L ESOPs; take-home received. No technical depth probed.",
+      "actionItems": [
+        "Review Gaurav's take-home once submitted"
+      ],
+      "conversationHighlight": "Told Abhishek the briefing showed more effort than other recruiters he'd met."
+    }
   ]
 }
