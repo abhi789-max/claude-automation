@@ -1185,6 +1185,21 @@
       "discussionSummary": "Short, garbled call; mostly personal content (omitted). Brief mention of a three-way candidate call. No decisions or action items captured.",
       "actionItems": [],
       "conversationHighlight": "Transcript quality too poor for work content."
+    },
+    {
+      "meetingTitle": "Weekly Cadence",
+      "type": "General internal meeting",
+      "emailThreadId": "1a19b0aa07ce2f95",
+      "discussionSummary": "Abhishek/Sheryl TA cadence: SRE/DevOps Malaysia req feedback misalignment (senior vs lead), comp band guidance for out-of-budget candidates, sourcing via SmartRecruiters Technical Lead pool, product designer/UX researcher/SPM status.",
+      "actionItems": [
+        "Coordinator access for Sheryl",
+        "Reach out to rejected under-budget candidates",
+        "Collect per-round SRE feedback",
+        "Talk to Prashant re SPM candidate",
+        "Send ballpark comp bands",
+        "Backup SPM pipeline"
+      ],
+      "conversationHighlight": "Abhishek pushed for per-round interviewer feedback so candidates can be prepped, questioning why on-prem vs cloud wasn't screened in round 1."
     }
   ]
 }
