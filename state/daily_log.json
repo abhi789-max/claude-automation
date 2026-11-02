@@ -1176,5 +1176,15 @@
       ],
       "conversationHighlight": "Told Abhishek the briefing showed more effort than other recruiters he'd met."
     }
+  ],
+  "2026-11-02": [
+    {
+      "meetingTitle": "Abhishek & Nik - weekly catchup",
+      "type": "General internal meeting",
+      "emailThreadId": "1a19a73321eca549",
+      "discussionSummary": "Short, garbled call; mostly personal content (omitted). Brief mention of a three-way candidate call. No decisions or action items captured.",
+      "actionItems": [],
+      "conversationHighlight": "Transcript quality too poor for work content."
+    }
   ]
 }
