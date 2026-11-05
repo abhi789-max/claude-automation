@@ -1222,6 +1222,16 @@
       "discussionSummary": "Orientation/pitch call with Pukhraj Soni for the Lead Software Engineer (Pro Seller) role: Abhishek covered company, role (80/20 tech/people), 5-round process and comp structure. Pukhraj is enthusiastic, has a 60-day notice (negotiable to 30) and said ~93 (units unstated) would work; little of his own background was probed.",
       "actionItems": [],
       "conversationHighlight": "After hearing the role, he said the ownership \"excited me\" and that a fixed component beyond 90, \"93, something will work for me\"."
+    },
+    {
+      "meetingTitle": "Meeting Transcription (Sourav Choudhary)",
+      "type": "Candidate interview",
+      "emailThreadId": "1a1aa943dfecc043",
+      "discussionSummary": "Orientation/pitch call with Sourav Choudhary for the Lead Software Engineer, Pro Seller vertical role (8th candidate for this req). Mostly Abhishek's company/role/5-round process pitch. Sourav, laid off from Walmart in July and immediately available, cited seller-center partner API work and a Go CLI background that matched the take-home. No comp discussed. Recommendation: Insufficient evidence.",
+      "actionItems": [
+        "Schedule Sourav's interview loop after Diwali"
+      ],
+      "conversationHighlight": "Sourav said the take-home Go CLI mirrored a cloud-platform CLI he built earlier, and that his last year at Walmart was spent on the Seller Center partner API."
     }
   ]
 }
