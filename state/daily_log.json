@@ -1233,5 +1233,17 @@
       ],
       "conversationHighlight": "Sourav said the take-home Go CLI mirrored a cloud-platform CLI he built earlier, and that his last year at Walmart was spent on the Seller Center partner API."
     }
+  ],
+  "2026-11-06": [
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a1af7f177724f8e",
+      "discussionSummary": "Orientation/exploratory call with Jayesh Mali (Bangalore, Java, ~4 yrs leading a post-payment journey) for the Pro Seller Lead Software Engineer role — the ninth candidate for this req. Mostly Abhishek's company/role/process pitch; Jayesh disclosed 56 current (49 fixed), ~60 expected, 60-day notice negotiable to 45, no other processes, and volunteered his Go gap.",
+      "actionItems": [
+        "Share take-home assignment/JD with Jayesh (he hadn't received Jyoti's email)"
+      ],
+      "conversationHighlight": "Jayesh raised the Go gap himself, unprompted, after the pitch."
+    }
   ]
 }

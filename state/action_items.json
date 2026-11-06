@@ -2907,5 +2907,16 @@
     "createdAt": "2026-11-05T07:56:30Z",
     "nudgeThreadTs": "1793864354.482619",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 265,
+    "meetingTitle": "Meeting Transcription (Jayesh Mali)",
+    "emailThreadId": "1a1af7f177724f8e",
+    "description": "Make sure Jayesh Mali receives the take-home assignment and JD (he had not received Jyoti's email)",
+    "owner": "Abhishek/Jyoti",
+    "status": "open",
+    "createdAt": "2026-11-06T06:37:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
