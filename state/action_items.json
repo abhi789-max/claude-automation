@@ -2918,5 +2918,60 @@
     "createdAt": "2026-11-06T06:37:00Z",
     "nudgeThreadTs": "1794306916.856139",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 266,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a1c8cc7468af279",
+    "description": "Hold 12:45 call with Chung to close out AJ \u2014 firm deadline or revoke offer; keep Chung posted",
+    "owner": "Sheryl/Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-11T04:36:19.277870Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 267,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a1c8cc7468af279",
+    "description": "Start replacement pipeline for AJ's role; confirm with Kiki/Mike the role is still needed",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-11T04:36:19.277870Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 268,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a1c8cc7468af279",
+    "description": "Set up SRE level-realignment sync with the interview panel",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-11T04:36:19.277870Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 269,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a1c8cc7468af279",
+    "description": "Get Senior UX Researcher candidate's decision on 6.7K max offer; keep backup pipeline going",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-11T04:36:19.277870Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 270,
+    "meetingTitle": "Nik / Sheryl catchup (AG for 15 mins)",
+    "emailThreadId": "1a1c8cc7468af279",
+    "description": "Source Data Scientist (3-5 yrs, Mandarin) in India; explore opening the role in another location (Malaysia/Taiwan)",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-11T04:36:19.277870Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
