@@ -2973,5 +2973,27 @@
     "createdAt": "2026-11-11T04:36:19.277870Z",
     "nudgeThreadTs": "1794382549.278489",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 271,
+    "meetingTitle": "Monthly People Team Sync - AI Experiments and Learning",
+    "emailThreadId": "1a1c9da8ffcd3f92",
+    "description": "Share other distribution lists (e.g. tech list) with Marissa to explore adding her as owner and extending the cleanup automation",
+    "owner": "Jeanne / Marissa",
+    "status": "open",
+    "createdAt": "2026-11-11T09:37:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 272,
+    "meetingTitle": "Monthly People Team Sync - AI Experiments and Learning",
+    "emailThreadId": "1a1c9da8ffcd3f92",
+    "description": "Build People-team Builder OS sandbox with the AI team and report back",
+    "owner": "Sarah / Huey",
+    "status": "open",
+    "createdAt": "2026-11-11T09:37:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

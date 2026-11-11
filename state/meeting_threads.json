@@ -853,5 +853,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1794382549.278489"
+  },
+  {
+    "threadTs": "1794389774.067269",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Monthly People Team Sync - AI Experiments and Learning",
+    "type": "General internal meeting",
+    "meetingId": "D7jsWPbPz96Ry5zO2P1y",
+    "emailThreadId": "1a1c9da8ffcd3f92",
+    "lastHandledTs": "1794389774.067269"
   }
 ]
