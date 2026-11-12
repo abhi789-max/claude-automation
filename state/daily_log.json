@@ -1303,6 +1303,17 @@
         "Abhishek: confirm she received the JD + take-home email; review once submitted"
       ],
       "conversationHighlight": "\"I don't see any clear direction from the leadership, to be honest… so I thought it's the right time for me to look for other opportunities.\""
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a1cf05806a87b64",
+      "discussionSummary": "Recruiter exploratory call with Vamshi Chiluka (Adobe, ~4.5 yrs, Adobe Express add-on SDK APIs, mentors 2-3) for Lead SE Pro Seller. Mostly pitch; comp 35 fixed + 15 RSU, expects ~70 LPA (in band). JD + take-home shared.",
+      "actionItems": [
+        "Vamshi to complete take-home in 3-5 days",
+        "Confirm notice period and reason for leaving"
+      ],
+      "conversationHighlight": "\"I do the planning and like architecture of the new APIs... I review the code... I mentor them.\""
     }
   ]
 }

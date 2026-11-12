@@ -3105,5 +3105,27 @@
     "createdAt": "2026-11-12T09:36:00Z",
     "nudgeThreadTs": "1794483436.072429",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 283,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a1cf05806a87b64",
+    "description": "Review Vamshi Chiluka's take-home assignment once submitted (given 3-5 days, expected early next week)",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-12T13:36:05Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 284,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a1cf05806a87b64",
+    "description": "Confirm Vamshi Chiluka's notice period (transcript suggests ~1 month) and his reason for leaving Adobe",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-12T13:36:05Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
