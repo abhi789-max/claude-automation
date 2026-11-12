@@ -1281,6 +1281,17 @@
       "discussionSummary": "Abhishek, Sheryl and Zakir: agreed to revoke the Malaysia automation-role offer (candidate hasn't resigned 6 weeks after offer, wants Feb 10 in-person start; maturity concerns). SRE role confirmed as JL5 (no down-levelling); Goku rated JL3-4 by Zakir; R1 screen currently passes everyone; JL5 local comp realistically ~18-21K vs 15K budget; Abhishek shared per-round rubric and sourcing keywords.",
       "actionItems": "Sheryl: align with Sharon/Chung, call the automation-role candidate to explain the timeline mismatch, then send a short revoke email on the offer thread (ping Abhishek on wording); Sheryl: share the rubric/attribute sheet with Zakir; get SRE team to define explicit per-round attributes + scoring guide, then quick sync; Abhishek: share recent Malaysia SRE comp data and a JL-by-JL benchmark sheet with Sheryl (within ~7-10 days); Sheryl: rebuild SRE pipeline via exploratory chats with strong senior SREs (incl. above-budget) to gather real-time comp data; Sheryl: check informally with Patnaik on the need for multiple JL5s and whether team dynamics affect the SRE loop; Abhishek + Sheryl: set up a separate session on regional automation talent-pool strategy",
       "conversationHighlight": "Zakir on his Round 1 screen: \"I'm just forwarding every candidate\", so gaps only surface in Round 3, prompting a push for explicit per-round attributes."
+    },
+    {
+      "meetingTitle": "Abhishek /Yuxue Yao",
+      "type": "Candidate interview",
+      "emailThreadId": "1a1ced3239f6c515",
+      "discussionSummary": "Recruiter screen for Data Scientist/ML Engineer, Core Marketplace ML (SG, reports to Shannon). Mostly company/role/loop pitch; candidate ~3 yrs applied AI/customer analysis at HP, Mandarin confirmed, 1-month notice, ~7K SGD base + 1m AWS + 2-3m bonus, wants 8K base. Technical depth not assessed; online test pending.",
+      "actionItems": [
+        "Abhishek/Jyoti: Email Yuxue Yao (Kathy) details of the two face-to-face technical rounds plus prep materials",
+        "Kathy (candidate): Yuxue Yao (Kathy) to complete the online Python/SQL assessment (link sent by Jyoti, not yet taken)"
+      ],
+      "conversationHighlight": "\"Now I'm thinking to challenge myself in a new environment to take more responsibilities... step out of the comfort zone.\""
     }
   ]
 }

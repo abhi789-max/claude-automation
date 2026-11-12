@@ -3061,5 +3061,27 @@
     "createdAt": "2026-11-12T05:40:49.342042+00:00",
     "nudgeThreadTs": "1794468965.709349",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 279,
+    "meetingTitle": "Abhishek /Yuxue Yao",
+    "emailThreadId": "1a1ced3239f6c515",
+    "description": "Email Yuxue Yao (Kathy) details of the two face-to-face technical rounds plus prep materials",
+    "owner": "Abhishek/Jyoti",
+    "status": "open",
+    "createdAt": "2026-11-12T08:36:27Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 280,
+    "meetingTitle": "Abhishek /Yuxue Yao",
+    "emailThreadId": "1a1ced3239f6c515",
+    "description": "Yuxue Yao (Kathy) to complete the online Python/SQL assessment (link sent by Jyoti, not yet taken)",
+    "owner": "Kathy (candidate)",
+    "status": "open",
+    "createdAt": "2026-11-12T08:36:27Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
