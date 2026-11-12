@@ -2995,5 +2995,71 @@
     "createdAt": "2026-11-11T09:37:00Z",
     "nudgeThreadTs": "1794396945.919619",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 273,
+    "meetingTitle": "Allignment on SRE role",
+    "emailThreadId": "1a1ce409c463e2b0",
+    "description": "align with Sharon/Chung, call the automation-role candidate to explain the timeline mismatch, then send a short revoke email on the offer thread (ping Abhishek on wording)",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-12T05:40:49.342042+00:00",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 274,
+    "meetingTitle": "Allignment on SRE role",
+    "emailThreadId": "1a1ce409c463e2b0",
+    "description": "share the rubric/attribute sheet with Zakir; get SRE team to define explicit per-round attributes + scoring guide, then quick sync",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-12T05:40:49.342042+00:00",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 275,
+    "meetingTitle": "Allignment on SRE role",
+    "emailThreadId": "1a1ce409c463e2b0",
+    "description": "share recent Malaysia SRE comp data and a JL-by-JL benchmark sheet with Sheryl (within ~7-10 days)",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-12T05:40:49.342042+00:00",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 276,
+    "meetingTitle": "Allignment on SRE role",
+    "emailThreadId": "1a1ce409c463e2b0",
+    "description": "rebuild SRE pipeline via exploratory chats with strong senior SREs (incl. above-budget) to gather real-time comp data",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-12T05:40:49.342042+00:00",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 277,
+    "meetingTitle": "Allignment on SRE role",
+    "emailThreadId": "1a1ce409c463e2b0",
+    "description": "check informally with Patnaik on the need for multiple JL5s and whether team dynamics affect the SRE loop",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-12T05:40:49.342042+00:00",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 278,
+    "meetingTitle": "Allignment on SRE role",
+    "emailThreadId": "1a1ce409c463e2b0",
+    "description": "set up a separate session on regional automation talent-pool strategy",
+    "owner": "Abhishek/Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-12T05:40:49.342042+00:00",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

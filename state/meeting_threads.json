@@ -871,5 +871,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1794396945.919619"
+  },
+  {
+    "threadTs": "1794462035.279039",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Allignment on SRE role",
+    "type": "General internal meeting",
+    "meetingId": "LOZQ7beWfcpPBQBThPvj",
+    "emailThreadId": "1a1ce409c463e2b0",
+    "lastHandledTs": "1794462035.279039"
   }
 ]
