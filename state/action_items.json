@@ -3083,5 +3083,27 @@
     "createdAt": "2026-11-12T08:36:27Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 281,
+    "meetingTitle": "Meeting Transcription (Gayathri Kaliaperumal)",
+    "emailThreadId": "1a1cf05806a87b64",
+    "description": "Confirm Gayathri Kaliaperumal received the JD + take-home email (Jyoti hadn't sent it); review the submission (expected early next week)",
+    "owner": "Abhishek/Jyoti",
+    "status": "open",
+    "createdAt": "2026-11-12T09:36:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 282,
+    "meetingTitle": "Meeting Transcription (Gayathri Kaliaperumal)",
+    "emailThreadId": "1a1cf05806a87b64",
+    "description": "Probe Gayathri Kaliaperumal's real fixed-pay floor early (40% hike ask ~74 LPA vs 55-60 LPA fixed band)",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-12T09:36:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
