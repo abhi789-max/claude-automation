@@ -297,7 +297,7 @@
     "roleLabel": "Lead Software Engineer — Pro Seller vertical (Autos / Home Services / Seller Tools pods)",
     "meetingId": "KXHvDkslAojK9Ald3AWd",
     "emailThreadId": "1a1af7f177724f8e",
-    "lastHandledTs": "1793946931.123849"
+    "lastHandledTs": "1793946941.000000"
   },
   {
     "threadTs": "1794472573.069439",
@@ -337,7 +337,7 @@
     "roleLabel": "Senior Manager, Corporate IT",
     "meetingId": "VcDGPJALwTeSP82fxP4P",
     "emailThreadId": "1a1d3425ccc781f5",
-    "lastHandledTs": "1794548183.065539"
+    "lastHandledTs": "1794548189.000000"
   },
   {
     "threadTs": "1794551786.766319",
@@ -348,5 +348,15 @@
     "meetingId": "YCw5N91FnfeX3gUqewV9",
     "emailThreadId": "1a1d3425ccc781f5",
     "lastHandledTs": "1794551815.882139"
+  },
+  {
+    "threadTs": "1794558975.703729",
+    "channelId": "D026A8WF8BY",
+    "candidateName": "Satish Geddam",
+    "roleKey": "lead software engineer pro seller vertical autos home services seller tools pods",
+    "roleLabel": "Lead Software Engineer — Pro Seller vertical (Autos / Home Services / Seller Tools pods)",
+    "meetingId": "aPrN7PS4KP6MoPdEqeNs",
+    "emailThreadId": "1a1d3425ccc781f5",
+    "lastHandledTs": "1794558985.350459"
   }
 ]
