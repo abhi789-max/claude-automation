@@ -3127,5 +3127,38 @@
     "createdAt": "2026-11-12T13:36:05Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 285,
+    "meetingTitle": "Meeting Transcription (Jerry Tan Go Go)",
+    "emailThreadId": "1a1d3425ccc781f5",
+    "description": "Send Jerry Tan Go Go the video interview invite for Round 1 with the group security head — Mon 16 Nov, 6:30 PM MYT / 4:00 PM IST",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-13T05:36:30Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 286,
+    "meetingTitle": "Meeting Transcription (Jerry Tan Go Go)",
+    "emailThreadId": "1a1d3425ccc781f5",
+    "description": "Schedule Jerry Tan Go Go's remaining rounds (CTOs, HRBP, Chung) next week, before his travel ~24-25 Nov",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-13T05:36:30Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 287,
+    "meetingTitle": "Meeting Transcription (Jerry Tan Go Go)",
+    "emailThreadId": "1a1d3425ccc781f5",
+    "description": "Confirm Jerry Tan Go Go's actual notice period (answer on the call was unclear)",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-13T05:36:30Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

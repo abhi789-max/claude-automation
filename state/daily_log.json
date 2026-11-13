@@ -1315,5 +1315,19 @@
       ],
       "conversationHighlight": "\"I do the planning and like architecture of the new APIs... I review the code... I mentor them.\""
     }
+  ],
+  "2026-11-13": [
+    {
+      "meetingTitle": "Meeting Transcription (Jerry Tan Go Go)",
+      "type": "Candidate interview",
+      "emailThreadId": "1a1d3425ccc781f5",
+      "discussionSummary": "Recruiter exploratory call with Jerry Tan Go Go for Senior Manager, Corporate IT (group-wide Head of Corporate IT, Malaysia). ~26 yrs infra (managed services, consulting, JV group infra, cloud since 2015); currently runs IT across 9 countries (~20 people, ~12 direct) at a fleet-telematics software company. Security execution under HQ CISO (AD/Entra, MFA, RBAC, phishing/awareness); AI use is Microsoft-tooling adoption, not built. Current base MYR 17K + 1K flexi; OK with 17-19K + 2-month bonus band. Recommendation: Generally positive for Round 1.",
+      "actionItems": [
+        "Send video invite for Round 1 with group security head, Mon 16 Nov 6:30 PM MYT",
+        "Schedule remaining rounds before candidate travel ~24-25 Nov",
+        "Confirm notice period"
+      ],
+      "conversationHighlight": "Candidate on round 1: \"Is it very technical?\" — recalled a past interview asking \"what button to click\" for a firewall profile as \"crazy\"."
+    }
   ]
 }
