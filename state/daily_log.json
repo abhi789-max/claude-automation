@@ -1328,6 +1328,17 @@
         "Confirm notice period"
       ],
       "conversationHighlight": "Candidate on round 1: \"Is it very technical?\" — recalled a past interview asking \"what button to click\" for a firewall profile as \"crazy\"."
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a1d3425ccc781f5",
+      "discussionSummary": "Recruiter intro/screen with Harsh Gangwar (Flipkart SSE, de-facto TL) for Lead SE – Pro Seller vertical. Pitched Carousell, role (L5 TL, 3 pods, reports to Vlad) and 5-round process. Candidate: 1.4M QPS gateway perf work (JFR), cart-migration roadmap/HLD lead; 60d notice (neg. 40–45); 45 LPA current, expects 60–65 LPA. Recommendation: Generally positive.",
+      "actionItems": [
+        "Abhishek: share take-home assignment and JD with Harsh Gangwar",
+        "Harsh Gangwar: complete take-home assignment (3–5 days)"
+      ],
+      "conversationHighlight": "\"I just want to step outside my comfort zone\" — after 5 yrs and ~5 BBDs at Flipkart, feels he has been \"doing the repeating things\" for 2–2.5 years."
     }
   ]
 }

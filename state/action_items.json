@@ -3160,5 +3160,27 @@
     "createdAt": "2026-11-13T05:36:30Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 288,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a1d3425ccc781f5",
+    "description": "Share take-home assignment and JD with Harsh Gangwar (Lead SE – Pro Seller)",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-13T06:37:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 289,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a1d3425ccc781f5",
+    "description": "Complete take-home assignment (3–5 days) — Harsh Gangwar",
+    "owner": "Harsh Gangwar",
+    "status": "open",
+    "createdAt": "2026-11-13T06:37:00Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
