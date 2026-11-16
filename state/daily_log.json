@@ -1368,6 +1368,16 @@
       "discussionSummary": "Transcript essentially empty (67 chars, single ~3-min segment of filler words); likely a capture failure. No substantive content.",
       "actionItems": [],
       "conversationHighlight": "None captured"
+    },
+    {
+      "meetingTitle": "Abhishek & Nik - weekly catchup",
+      "type": "General internal meeting",
+      "emailThreadId": "1a1e35a40322139f",
+      "discussionSummary": "Fragmented transcript. Candidate updates (a ~25-yr-experience candidate plus others; Malaysian/Indonesian candidates open to relocation), regional talent pool + relocation to Malaysia, re-levelling internal remote staff vs external JL5 hires, a former candidate reaching back out. Only the automation tester role is on escalation.",
+      "actionItems": [
+        "Abhishek: speak to the remaining two candidates and give them a close review"
+      ],
+      "conversationHighlight": "Nikhil: \"Except for the automation tester, nothing else is on escalation mode.\""
     }
   ]
 }

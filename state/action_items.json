@@ -3204,5 +3204,16 @@
     "createdAt": "2026-11-13T08:36:30Z",
     "nudgeThreadTs": "1794814574.617109",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 292,
+    "meetingTitle": "Abhishek & Nik - weekly catchup",
+    "emailThreadId": "1a1e35a40322139f",
+    "description": "Speak to the remaining two candidates discussed and give them a close review",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-16T08:35:51Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
