@@ -970,5 +970,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1794742531.275019"
+  },
+  {
+    "threadTs": "1794807423.716429",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Team Cadence :: Preparation",
+    "type": "Unclear",
+    "meetingId": "To7P6ku6Si5Yo2nR5Gj6",
+    "emailThreadId": "1a1e2d0e53a47efb",
+    "lastHandledTs": "1794807423.716429"
   }
 ]

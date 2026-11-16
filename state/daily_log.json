@@ -1359,5 +1359,15 @@
       ],
       "conversationHighlight": "'Sometimes it's not about the money. It's more of the engineering problems which we want to experience.'"
     }
+  ],
+  "2026-11-16": [
+    {
+      "meetingTitle": "Team Cadence :: Preparation",
+      "type": "Unclear",
+      "emailThreadId": "1a1e2d0e53a47efb",
+      "discussionSummary": "Transcript essentially empty (67 chars, single ~3-min segment of filler words); likely a capture failure. No substantive content.",
+      "actionItems": [],
+      "conversationHighlight": "None captured"
+    }
   ]
 }
