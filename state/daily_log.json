@@ -1378,6 +1378,17 @@
         "Abhishek: speak to the remaining two candidates and give them a close review"
       ],
       "conversationHighlight": "Nikhil: \"Except for the automation tester, nothing else is on escalation mode.\""
+    },
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "Candidate interview",
+      "emailThreadId": "1a1e3bef593420c1",
+      "discussionSummary": "Recruiter intro/screen with Wasim Akram (ex-Agoda, ~2 yrs contracting) for Lead Software Engineer, Pro Seller vertical. Mostly the Carousell, role and 5-round process pitch. Immediately available, ~70 LPA last CTC, open to 60–70. Insufficient evidence on capability.",
+      "actionItems": [
+        "Abhishek: share take-home assignment PDF and JD with Wasim Akram",
+        "Abhishek: track Wasim's take-home submission and schedule the LLD round once it is reviewed"
+      ],
+      "conversationHighlight": "\"I'm more of a contract kind of person, so I can leave them any day.\" Immediate availability, comp range 60–70 LPA."
     }
   ]
 }

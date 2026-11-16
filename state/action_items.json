@@ -3215,5 +3215,27 @@
     "createdAt": "2026-11-16T08:35:51Z",
     "nudgeThreadTs": null,
     "nudgeChannelId": null
+  },
+  {
+    "seq": 293,
+    "meetingTitle": "Meeting Transcription (Wasim Akram screen, 16 Nov)",
+    "emailThreadId": "1a1e3bef593420c1",
+    "description": "Share take-home assignment PDF and JD with Wasim Akram (Lead SE – Pro Seller)",
+    "owner": "Abhishek Gurani",
+    "status": "open",
+    "createdAt": "2026-11-16T10:36:30Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 294,
+    "meetingTitle": "Meeting Transcription (Wasim Akram screen, 16 Nov)",
+    "emailThreadId": "1a1e3bef593420c1",
+    "description": "Track Wasim Akram's take-home submission; schedule LLD round once reviewed; clarify his Agoda→contract timeline",
+    "owner": "Abhishek Gurani",
+    "status": "open",
+    "createdAt": "2026-11-16T10:36:30Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
