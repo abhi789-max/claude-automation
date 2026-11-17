@@ -1390,5 +1390,20 @@
       ],
       "conversationHighlight": "\"I'm more of a contract kind of person, so I can leave them any day.\" Immediate availability, comp range 60–70 LPA."
     }
+  ],
+  "2026-11-17": [
+    {
+      "meetingTitle": "Meeting Transcription",
+      "type": "General internal meeting",
+      "emailThreadId": "1a1e9657bfade68f",
+      "discussionSummary": "Intake with Naveen Moorjani for App Engineer (iOS core, cross-platform) JL2–JL3, Marketplace: listings/search/recommendation/chat/notifications/3rd-party integrations, ~20M MAU; must be open to agentic AI; interview loop to test both platforms, AI-usage/business-problem assignment vs HLD/LLD; panel Vijay/Deep/Sneha/Kim, shadows Anush/Nischal/Shubham; quality over volume.",
+      "actionItems": [
+        "Abhishek: start high-signal pipeline for App Engineer (iOS) JL2–JL3 Marketplace",
+        "Abhishek + Naveen: finalize interview loop with engineers' input",
+        "Abhishek: set up panel (Vijay, Deep, Sneha, Kim) + shadows (Anush, Nischal, Shubham)",
+        "Abhishek: get agentic-AI story from senior engineering (Vipul) for outreach"
+      ],
+      "conversationHighlight": "Naveen: \"I don't want a pipeline for the sake of it… people who will actually kill your engineer time.\""
+    }
   ]
 }

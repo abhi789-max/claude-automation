@@ -1024,5 +1024,23 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1794915385.691449"
+  },
+  {
+    "threadTs": "1794918954.575419",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Meeting Transcription",
+    "type": "General internal meeting",
+    "meetingId": "jbj0xlKK3ee2gqVkeHoq",
+    "emailThreadId": "1a1e9657bfade68f",
+    "lastHandledTs": "1794918954.575419"
+  },
+  {
+    "threadTs": "1794916291.856189",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Meeting Transcription",
+    "type": "General internal meeting",
+    "meetingId": "jbj0xlKK3ee2gqVkeHoq",
+    "emailThreadId": "1a1e9657bfade68f",
+    "lastHandledTs": "1794918963.510479"
   }
 ]

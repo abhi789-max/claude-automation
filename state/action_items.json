@@ -3237,5 +3237,49 @@
     "createdAt": "2026-11-16T10:36:30Z",
     "nudgeThreadTs": "1794915385.691449",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 295,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a1e9657bfade68f",
+    "description": "Start high-signal (not volume) pipeline for App Engineer (iOS core, cross-platform) JL2–JL3 Marketplace role",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-17T12:36:17.300393+00:00",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 296,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a1e9657bfade68f",
+    "description": "Finalize interview loop for App Engineer (iOS) role — AI-usage/business-problem assignment vs HLD/LLD + cross-platform check, with engineers' input",
+    "owner": "Abhishek + Naveen",
+    "status": "open",
+    "createdAt": "2026-11-17T12:36:17.300393+00:00",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 297,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a1e9657bfade68f",
+    "description": "Set up App Engineer (iOS) panel (Vijay, Deep, Sneha, Kim) and add Anush, Nischal, Shubham as shadows",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-17T12:36:17.300393+00:00",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 298,
+    "meetingTitle": "Meeting Transcription",
+    "emailThreadId": "1a1e9657bfade68f",
+    "description": "Circle back with senior engineering (Vipul) for a concrete agentic-AI story to use in candidate outreach",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-17T12:36:17.300393+00:00",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
