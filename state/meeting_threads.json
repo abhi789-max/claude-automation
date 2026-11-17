@@ -1015,5 +1015,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1794900932.043179"
+  },
+  {
+    "threadTs": "1794915385.691449",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Open action items check-in",
+    "type": "General internal meeting",
+    "meetingId": null,
+    "emailThreadId": null,
+    "lastHandledTs": "1794915385.691449"
   }
 ]
