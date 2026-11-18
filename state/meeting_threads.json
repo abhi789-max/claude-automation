@@ -1042,5 +1042,14 @@
     "meetingId": "jbj0xlKK3ee2gqVkeHoq",
     "emailThreadId": "1a1e9657bfade68f",
     "lastHandledTs": "1794918963.510479"
+  },
+  {
+    "threadTs": "1794980146.831539",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Shannon / Abhishek",
+    "type": "General internal meeting",
+    "meetingId": "40vInONGe7ue0YOReV7e",
+    "emailThreadId": "1a1ed0b54a30d7c5",
+    "lastHandledTs": "1794980146.831539"
   }
 ]
