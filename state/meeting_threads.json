@@ -1078,5 +1078,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1795001748.199309"
+  },
+  {
+    "threadTs": "1795070162.386639",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Weekly Cadence",
+    "type": "General internal meeting",
+    "meetingId": "iZ69NRCQUpKSqDhUuUoE",
+    "emailThreadId": "1a1f25f78939c589",
+    "lastHandledTs": "1795070162.386639"
   }
 ]

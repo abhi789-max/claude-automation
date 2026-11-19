@@ -3325,5 +3325,60 @@
     "createdAt": "2026-11-18T05:35:59Z",
     "nudgeThreadTs": "1795001748.199309",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 303,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a1f25f78939c589",
+    "description": "Build JL1–JL7/8 leveling sheet (YoE + Malaysia comp band per level, SRE/DevOps/automation) by next week for Patnaik's review",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-19T06:36:14Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 304,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a1f25f78939c589",
+    "description": "Pause the SRE role on the ATS during the benchmarking study while continuing to source",
+    "owner": "Abhishek/Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-19T06:36:14Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 305,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a1f25f78939c589",
+    "description": "Keep sourcing SREs from product companies (Naukri + LinkedIn) and screen strictly on Zakir's attributes",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-19T06:36:14Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 306,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a1f25f78939c589",
+    "description": "Get Round 1 feedback for the two backend candidates in the loop",
+    "owner": "Sheryl",
+    "status": "open",
+    "createdAt": "2026-11-19T06:36:14Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 307,
+    "meetingTitle": "Weekly Cadence",
+    "emailThreadId": "1a1f25f78939c589",
+    "description": "After the sheet, decide SRE level and whether to seek a budget increase via Chung or a learning-path plan with Zakir",
+    "owner": "Abhishek Patnaik",
+    "status": "open",
+    "createdAt": "2026-11-19T06:36:14Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
