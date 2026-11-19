@@ -3380,5 +3380,27 @@
     "createdAt": "2026-11-19T06:36:14Z",
     "nudgeThreadTs": "1795073809.267009",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 308,
+    "meetingTitle": "Linkedin way forward <> Carousell",
+    "emailThreadId": "1a1f2db10818d0dd",
+    "description": "Share à la carte LinkedIn pricing breakdown (seat cost, job slots, Career Page, inclusions) with Shilpha via DM",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-19T08:36:07Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 309,
+    "meetingTitle": "Linkedin way forward <> Carousell",
+    "emailThreadId": "1a1f2db10818d0dd",
+    "description": "Work out à la carte numbers (6 seats / 26 slots / Career Page), schedule afternoon call with LinkedIn rep and report back",
+    "owner": "Shilpha Xavier",
+    "status": "open",
+    "createdAt": "2026-11-19T08:36:07Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

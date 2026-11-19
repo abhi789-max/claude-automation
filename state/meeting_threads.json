@@ -1105,5 +1105,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1795073809.267009"
+  },
+  {
+    "threadTs": "1795077353.998339",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Linkedin way forward <> Carousell",
+    "type": "General internal meeting",
+    "meetingId": "uliAv5gGej49UNCqHgxg",
+    "emailThreadId": "1a1f2db10818d0dd",
+    "lastHandledTs": "1795077353.998339"
   }
 ]
