@@ -1087,5 +1087,14 @@
     "meetingId": "iZ69NRCQUpKSqDhUuUoE",
     "emailThreadId": "1a1f25f78939c589",
     "lastHandledTs": "1795070162.386639"
+  },
+  {
+    "threadTs": "1795072935.920569",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Lookup: Vishal Dangi offer proposal (no Tactiq match)",
+    "type": "Unclear",
+    "meetingId": null,
+    "emailThreadId": null,
+    "lastHandledTs": "1795073766.732499"
   }
 ]
