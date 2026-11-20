@@ -1447,5 +1447,19 @@
       ],
       "conversationHighlight": "Abhishek: 'the career page is what's driving traffic' — it's non-negotiable in any à la carte package; preference is 2 years max, Recruiter Corporate no more than 1 year."
     }
+  ],
+  "2026-11-20": [
+    {
+      "meetingTitle": "{Confirmed} Debrief Terrence for Sr. Mgr CORP IT",
+      "type": "General internal meeting",
+      "emailThreadId": "1a1f81ce5eee606f",
+      "discussionSummary": "Panel debrief (Kelvin, Jeanne, Chung, Venkat, Abhishek) on Terence for Sr. Mgr Corporate IT: qualified yes, no red flags. Strengths: user-centric, influence without direct reporting lines, structured/thoughtful, corporate IT + acquisition IT setup, ISO governance. Concerns: limited security depth, low decisiveness outside set boundaries (Jira migration took ~3 yrs), AI adopter not builder, hands-on depth vs seniority. Next: Kelvin + Igor sync next week.",
+      "actionItems": [
+        "Abhishek: share debrief notes with Kelvin and Igor in separate channel",
+        "Abhishek: re-gauge Terence's expectations/level and active interviews, report to Kelvin",
+        "Kelvin + Igor: quick sync next week on next step for Terence"
+      ],
+      "conversationHighlight": "Chung: 'what kind of leader are you looking for? If it's a peacetime leader... it should be fine.' Kelvin: 'not a no-go', but questions whether there's a better ideal candidate given AI-native builder push."
+    }
   ]
 }

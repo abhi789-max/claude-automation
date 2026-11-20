@@ -3402,5 +3402,38 @@
     "createdAt": "2026-11-19T08:36:07Z",
     "nudgeThreadTs": "1795088179.827869",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 310,
+    "meetingTitle": "{Confirmed} Debrief Terrence for Sr. Mgr CORP IT",
+    "emailThreadId": "1a1f81ce5eee606f",
+    "description": "Share Terence debrief notes with Kelvin and Igor in a separate channel",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-20T09:36:36Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 311,
+    "meetingTitle": "{Confirmed} Debrief Terrence for Sr. Mgr CORP IT",
+    "emailThreadId": "1a1f81ce5eee606f",
+    "description": "Re-gauge Terence's expectations (level/comp) and active interviews; report back to Kelvin",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-20T09:36:36Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 312,
+    "meetingTitle": "{Confirmed} Debrief Terrence for Sr. Mgr CORP IT",
+    "emailThreadId": "1a1f81ce5eee606f",
+    "description": "Quick sync next week to decide next step on Terence (Sr. Mgr Corp IT)",
+    "owner": "Kelvin + Igor",
+    "status": "open",
+    "createdAt": "2026-11-20T09:36:36Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]
