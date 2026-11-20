@@ -1123,5 +1123,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1795088179.827869"
+  },
+  {
+    "threadTs": "1795156467.226009",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Lookup: non-name message (possible credential, not searched)",
+    "type": "Unclear",
+    "meetingId": null,
+    "emailThreadId": null,
+    "lastHandledTs": "1795156467.226009"
   }
 ]
