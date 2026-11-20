@@ -1122,7 +1122,7 @@
     "type": "General internal meeting",
     "meetingId": null,
     "emailThreadId": null,
-    "lastHandledTs": "1795088179.827869"
+    "lastHandledTs": "1795157603.000000"
   },
   {
     "threadTs": "1795156467.226009",
@@ -1131,6 +1131,6 @@
     "type": "Unclear",
     "meetingId": null,
     "emailThreadId": null,
-    "lastHandledTs": "1795156467.226009"
+    "lastHandledTs": "1795156551.000000"
   }
 ]
