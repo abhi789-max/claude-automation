@@ -342,5 +342,9 @@
   "2026-11-22": {
     "nudge1Sent": true,
     "nudge2Sent": true
+  },
+  "2026-11-23": {
+    "nudge1Sent": true,
+    "nudge2Sent": false
   }
 }
