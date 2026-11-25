@@ -3435,5 +3435,38 @@
     "createdAt": "2026-11-20T09:36:36Z",
     "nudgeThreadTs": "1795592115.022899",
     "nudgeChannelId": "D026A8WF8BY"
+  },
+  {
+    "seq": 313,
+    "meetingTitle": "Mode 3",
+    "emailThreadId": "1a2121834cac4f6c",
+    "description": "Give workshop attendees access to the shared artifact, using the email list Sarah shared in the Google Sheet",
+    "owner": "Abhishek",
+    "status": "open",
+    "createdAt": "2026-11-25T10:37:37Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 314,
+    "meetingTitle": "Mode 3",
+    "emailThreadId": "1a2121834cac4f6c",
+    "description": "Confirm who owns the people knowledge hub (head of People suggested)",
+    "owner": "People leadership",
+    "status": "open",
+    "createdAt": "2026-11-25T10:37:37Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
+  },
+  {
+    "seq": 315,
+    "meetingTitle": "Mode 3",
+    "emailThreadId": "1a2121834cac4f6c",
+    "description": "Work out how policies and information get fed into the people knowledge hub",
+    "owner": "Workshop group",
+    "status": "open",
+    "createdAt": "2026-11-25T10:37:37Z",
+    "nudgeThreadTs": null,
+    "nudgeChannelId": null
   }
 ]

@@ -1231,5 +1231,14 @@
     "meetingId": null,
     "emailThreadId": null,
     "lastHandledTs": "1795592115.022899"
+  },
+  {
+    "threadTs": "1795603045.775619",
+    "channelId": "D026A8WF8BY",
+    "meetingTitle": "Mode 3",
+    "type": "General internal meeting",
+    "meetingId": "21qch6uLzDKjHLuIbMGG",
+    "emailThreadId": "1a2121834cac4f6c",
+    "lastHandledTs": "1795603045.775619"
   }
 ]

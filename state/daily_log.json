@@ -1461,5 +1461,19 @@
       ],
       "conversationHighlight": "Chung: 'what kind of leader are you looking for? If it's a peacetime leader... it should be fine.' Kelvin: 'not a no-go', but questions whether there's a better ideal candidate given AI-native builder push."
     }
+  ],
+  "2026-11-25": [
+    {
+      "meetingTitle": "Mode 3",
+      "type": "General internal meeting",
+      "emailThreadId": "1a2121834cac4f6c",
+      "discussionSummary": "Cross-functional People-team workshop (TA/BP/PS/Rewards) mapping dependencies and handoffs. PS identified as the bottleneck. Kept two handoffs to cut: offer approval & letter (one owner, Rewards approves exceptions only) and separation & final pay (BP end to end vs PS still disputed). First build: people knowledge hub.",
+      "actionItems": [
+        "Abhishek: Give workshop attendees access to the shared artifact, using the email list Sarah shared in the Google Sheet",
+        "People leadership: Confirm who owns the people knowledge hub (head of People suggested)",
+        "Workshop group: Work out how policies and information get fed into the people knowledge hub"
+      ],
+      "conversationHighlight": "TA spends ~13 hrs/week on interview scheduling alone; the people knowledge hub is the shared blocker that unlocks the FAQ agent, issue agent and safe letter drafting."
+    }
   ]
 }
